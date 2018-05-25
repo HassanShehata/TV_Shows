@@ -1,0 +1,21 @@
+Animal-Planet:FactualThe Wild Life Of Tim Faulkner
+History:FactualAmerican Pickers
+Discovery:FactualHow It's Made
+nickelodeon:KidsSpongeBob SquarePants
+MTV:MusicHot Right Now!
+AbuDuabi-drama:ArabicTakht Sharqi
+osn-series:ArabicAyyoub
+osn-cinema1:ArabicLA Anam
+osn-star-movies:MoviesWaking Up In Reno
+osn-movies:MoviesThe Accountant
+cbc: 
+cbc-drama:عوالم خفية
+Nat-Geo:العبقري
+ON-TV:الدولي
+mbc-drama:المواجهة 
+mbc-max:The King's Speech 
+mbc-maser:رامز تحت الصفر 
+mbc4:رسايل 
+mbc2:Rush Hour 
+mbc-bollywood:Matru ki Bijlee ka Mandola 
+mbc1:هلا برمضان -الموسم 2 
