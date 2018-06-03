@@ -1,3 +1,7 @@
+#################################################################
+############## Home Page Links(to get live feed) ################ 
+#################################################################
+
 http://www.osn.com/en-eg/explore/channels/apl/animal-planet-hd
 http://www.osn.com/en-eg/explore/channels/his/history-hd
 http://www.osn.com/en-eg/explore/channels/sci/discovery-science-hd
@@ -19,3 +23,9 @@ http://www.mbc.net/ar/mbc4.html
 http://www.mbc.net/ar/mbc2.html
 http://www.mbc.net/ar/mbc-bollywood.html
 http://www.mbc.net/ar/mbc1.html*span*class,title
+
+##################################################################
+################### Channels Programs Links ######################
+##################################################################
+
+https://www.cbc-eg.com/agenda
