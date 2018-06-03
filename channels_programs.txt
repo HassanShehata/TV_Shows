@@ -1,1 +1,1 @@
-https://www.cbc-eg.com/cbc
+CBC*https://www.cbc-eg.com/agenda*prog,div,class,vis-item vis-range time-line-item vis-readonly
