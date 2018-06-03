@@ -24,7 +24,7 @@ def file_handler(mode):
 		for i in results:
 			j=j+i
 		f= open('program_data.json','w')
-		f.write("{\n \"channels-programs\":\n"+j[:-1]+"\n}")
+		f.write("{\n \"channels-programs\":\n"+j+"\n}")
 		
 
 def general(name,ch):
@@ -42,7 +42,7 @@ def general(name,ch):
 			image="http://www.mbc.net"+data.find("img")['src']
 			constract=constract+("     \"prog_name\":\""+prog_name+"\"[{\n          \"time\":\""+time+"\",\n          \"image\":\""+image+"\"\n     }],")
 
-		results.append("[{\n \""+name+"\":\n     [{\n"+constract[:-1]+"\n}],")
+		results.append("[{\n \""+name+"\":\n     [{\n"+constract[:-1]+"\n}]\n")
 
 
 def main():

@@ -514,3 +514,21 @@ JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9
 1528006281804	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528007033666	geckodriver	INFO	geckodriver 0.20.1
+1528007033673	geckodriver	INFO	Listening on 127.0.0.1:46397
+1528007034681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rJC7un3QtlGW"
+1528007038464	Marionette	INFO	Listening on port 45681
+1528007038533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528007423940	geckodriver	INFO	geckodriver 0.20.1
+1528007423946	geckodriver	INFO	Listening on 127.0.0.1:35347
+1528007424957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.52t5Ke5nPOKM"
+1528007428737	Marionette	INFO	Listening on port 46253
+1528007428783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
