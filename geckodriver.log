@@ -1,0 +1,516 @@
+1527226400786	geckodriver	INFO	geckodriver 0.20.1
+1527226400791	geckodriver	INFO	Listening on 127.0.0.1:47855
+1527226400873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.l0jAG8Vc4PIQ"
+1527226406515	Marionette	INFO	Listening on port 40729
+1527226406601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 8138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8138, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1527226476403	geckodriver	INFO	geckodriver 0.20.1
+1527226476409	geckodriver	INFO	Listening on 127.0.0.1:48367
+1527226477417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.e58PxYCzgoD6"
+1527226481349	Marionette	INFO	Listening on port 43547
+1527226481435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 8243, Gecko_IOThread] WARNING: pipe error (96): Connection reset by peer: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527226556948	geckodriver	INFO	geckodriver 0.20.1
+1527226556955	geckodriver	INFO	Listening on 127.0.0.1:53681
+1527226557960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hmm0DvC69d1m"
+1527226562124	Marionette	INFO	Listening on port 45501
+1527226562185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1527226626874	geckodriver	INFO	geckodriver 0.20.1
+1527226626881	geckodriver	INFO	Listening on 127.0.0.1:53641
+1527226627887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LuOvhumu9gTo"
+[Child 8476, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8476, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8476, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8476, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 8476, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 8416, Gecko_IOThread] WARNING: pipe error (100): Connection reset by peer: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527226632400	Marionette	INFO	Listening on port 45977
+1527226632413	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 8584, Gecko_IOThread] WARNING: pipe error (102): Connection reset by peer: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527226992735	geckodriver	INFO	geckodriver 0.20.1
+1527226992743	geckodriver	INFO	Listening on 127.0.0.1:57075
+1527226993750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KMlhovdymtxi"
+1527226997701	Marionette	INFO	Listening on port 39949
+1527226997773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1527227032475	geckodriver	INFO	geckodriver 0.20.1
+1527227032482	geckodriver	INFO	Listening on 127.0.0.1:50955
+1527227033489	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wfjwlvhfDBUr"
+1527227037382	Marionette	INFO	Listening on port 35775
+1527227037412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527227115273	geckodriver	INFO	geckodriver 0.20.1
+1527227115280	geckodriver	INFO	Listening on 127.0.0.1:34607
+1527227116284	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kgZoblSKzN6x"
+1527227120886	Marionette	INFO	Listening on port 34043
+1527227120916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9273, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 9273, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 9273, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 9273, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 9273, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 9273, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1527227195395	geckodriver	INFO	geckodriver 0.20.1
+1527227195401	geckodriver	INFO	Listening on 127.0.0.1:35649
+1527227196412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fbZGcqu1GblO"
+1527227200204	Marionette	INFO	Listening on port 37023
+1527227200232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527227431393	geckodriver	INFO	geckodriver 0.20.1
+1527227431400	geckodriver	INFO	Listening on 127.0.0.1:42299
+1527227432408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.it9yusy8S64n"
+1527227436392	Marionette	INFO	Listening on port 45195
+1527227436438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1527227494589	geckodriver	INFO	geckodriver 0.20.1
+1527227494595	geckodriver	INFO	Listening on 127.0.0.1:34941
+1527227495604	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2xGvrturGnXB"
+1527227499472	Marionette	INFO	Listening on port 43121
+1527227499526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 9752, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 9587, Gecko_IOThread] WARNING: pipe error (98): Connection reset by peer: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1527227596548	geckodriver	INFO	geckodriver 0.20.1
+1527227596554	geckodriver	INFO	Listening on 127.0.0.1:42549
+1527227597556	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5uvZfwE1DKIy"
+1527227601444	Marionette	INFO	Listening on port 41591
+1527227601485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527227849048	geckodriver	INFO	geckodriver 0.20.1
+1527227849054	geckodriver	INFO	Listening on 127.0.0.1:56481
+1527227850065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.geubde6uwZAm"
+1527227854148	Marionette	INFO	Listening on port 37105
+1527227854219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1527227934414	geckodriver	INFO	geckodriver 0.20.1
+1527227934422	geckodriver	INFO	Listening on 127.0.0.1:55253
+1527227935430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cvgrPLHdesaf"
+1527227939309	Marionette	INFO	Listening on port 35359
+1527227939367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527228006017	geckodriver	INFO	geckodriver 0.20.1
+1527228006023	geckodriver	INFO	Listening on 127.0.0.1:39373
+1527228007032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zYKuQK7sgXj6"
+1527228011040	Marionette	INFO	Listening on port 45935
+1527228011057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000F,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1527228307255	geckodriver	INFO	geckodriver 0.20.1
+1527228307264	geckodriver	INFO	Listening on 127.0.0.1:42855
+1527228308270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L1YFeD9phEHQ"
+1527228312345	Marionette	INFO	Listening on port 35533
+1527228312395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 10794, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527228361145	geckodriver	INFO	geckodriver 0.20.1
+1527228361152	geckodriver	INFO	Listening on 127.0.0.1:38075
+1527228362161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CB7KLbUCJS6Z"
+1527228366010	Marionette	INFO	Listening on port 44675
+1527228366077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child 10962, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-FbqqNu/firefox-60.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527228451134	geckodriver	INFO	geckodriver 0.20.1
+1527228451143	geckodriver	INFO	Listening on 127.0.0.1:39713
+1527228452150	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tWRBI0V56Z4A"
+1527228455991	Marionette	INFO	Listening on port 38869
+1527228456066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527228496512	geckodriver	INFO	geckodriver 0.20.1
+1527228496521	geckodriver	INFO	Listening on 127.0.0.1:39013
+1527228497528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2eocMDFAmapY"
+1527228501437	Marionette	INFO	Listening on port 39171
+1527228501463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1527228530625	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1527228565997	geckodriver	INFO	geckodriver 0.20.1
+1527228566006	geckodriver	INFO	Listening on 127.0.0.1:52193
+1527228567013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9pxUG5Tb28NZ"
+1527228570734	Marionette	INFO	Listening on port 35181
+1527228570831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1527228600713	geckodriver	INFO	geckodriver 0.20.1
+1527228600719	geckodriver	INFO	Listening on 127.0.0.1:43621
+1527228601721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pVEHopHkI7ja"
+1527228605548	Marionette	INFO	Listening on port 32801
+1527228605639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x48000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1527228716794	geckodriver	INFO	geckodriver 0.20.1
+1527228716801	geckodriver	INFO	Listening on 127.0.0.1:42721
+1527228716810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2ig0cA6IEplx"
+1527228720619	Marionette	INFO	Listening on port 45341
+1527228720627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528000217910	geckodriver	INFO	geckodriver 0.20.1
+1528000218045	geckodriver	INFO	Listening on 127.0.0.1:39333
+1528000219088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3G1NwZiSz195"
+1528000225953	Marionette	INFO	Listening on port 37973
+1528000226060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528000272269	geckodriver	INFO	geckodriver 0.20.1
+1528000272274	geckodriver	INFO	Listening on 127.0.0.1:46337
+1528000273285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HyMiKHqQtcKl"
+1528000277289	Marionette	INFO	Listening on port 45611
+1528000277306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528000339394	geckodriver	INFO	geckodriver 0.20.1
+1528000339402	geckodriver	INFO	Listening on 127.0.0.1:57173
+1528000340410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.z7GAjBCPyBHY"
+1528000344597	Marionette	INFO	Listening on port 43083
+1528000344639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528000393161	geckodriver	INFO	geckodriver 0.20.1
+1528000393172	geckodriver	INFO	Listening on 127.0.0.1:35499
+1528000394177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3vitLDj6dy6x"
+1528000397937	Marionette	INFO	Listening on port 40019
+1528000397997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528000839808	geckodriver	INFO	geckodriver 0.20.1
+1528000839814	geckodriver	INFO	Listening on 127.0.0.1:58017
+1528000840817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WYqXUEeP6o7s"
+1528000844982	Marionette	INFO	Listening on port 33115
+1528000845036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528000983567	geckodriver	INFO	geckodriver 0.20.1
+1528000983574	geckodriver	INFO	Listening on 127.0.0.1:40301
+1528000984584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iHKn4HGjL7TK"
+1528000988340	Marionette	INFO	Listening on port 37639
+1528000988402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528001128236	geckodriver	INFO	geckodriver 0.20.1
+1528001128244	geckodriver	INFO	Listening on 127.0.0.1:36441
+1528001129253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yUlE5UWKme3m"
+1528001133461	Marionette	INFO	Listening on port 45251
+1528001133490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+[Parent 7509, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528001359588	geckodriver	INFO	geckodriver 0.20.1
+1528001359598	geckodriver	INFO	Listening on 127.0.0.1:39839
+1528001360605	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oR9YepYGjhZM"
+1528001364584	Marionette	INFO	Listening on port 46661
+1528001364638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528001493297	geckodriver	INFO	geckodriver 0.20.1
+1528001493302	geckodriver	INFO	Listening on 127.0.0.1:38873
+1528001494311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DgBobgmouB2A"
+1528001498366	Marionette	INFO	Listening on port 45491
+1528001498437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528001542307	geckodriver	INFO	geckodriver 0.20.1
+1528001542314	geckodriver	INFO	Listening on 127.0.0.1:44069
+1528001543323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pafq91DhoLBK"
+1528001547660	Marionette	INFO	Listening on port 40129
+1528001547754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528001987737	geckodriver	INFO	geckodriver 0.20.1
+1528001987745	geckodriver	INFO	Listening on 127.0.0.1:56831
+1528001988753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UrEPkh7oGe5P"
+1528001992652	Marionette	INFO	Listening on port 41635
+1528001992692	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528002085509	geckodriver	INFO	geckodriver 0.20.1
+1528002085518	geckodriver	INFO	Listening on 127.0.0.1:39559
+1528002086524	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RWusCX4FeOJ4"
+1528002090328	Marionette	INFO	Listening on port 35727
+1528002090345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528002171164	geckodriver	INFO	geckodriver 0.20.1
+1528002171172	geckodriver	INFO	Listening on 127.0.0.1:46617
+1528002172179	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tynEY4yoOZQm"
+1528002176734	Marionette	INFO	Listening on port 37511
+1528002176820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528002177120	Marionette	DEBUG	Register listener.js for window 4294967300
+1528002177120	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+1528002177122	Marionette	DEBUG	Register listener.js for window 4294967302
+1528002177214	Marionette	DEBUG	Register listener.js for window 4294967306
+1528002177328	Marionette	DEBUG	Received DOM event beforeunload for about:newtab
+1528002177382	Marionette	DEBUG	Received DOM event pagehide for about:newtab
+1528002177391	Marionette	DEBUG	Received DOM event unload for about:newtab
+1528002177404	Marionette	DEBUG	Received observer notification outer-window-destroyed for 4294967302
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1090:3
+
+1528002177458	Marionette	DEBUG	Register listener.js for window 2147483652
+1528002177480	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+1528002177624	Marionette	DEBUG	Register listener.js for window 4294967309
+1528002177634	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 464: TypeError: reply[0] is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528002188849	geckodriver	INFO	geckodriver 0.20.1
+1528002188854	geckodriver	INFO	Listening on 127.0.0.1:57805
+1528002189863	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XIzHmUhPA7mz"
+1528002193672	Marionette	INFO	Listening on port 35973
+1528002193696	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528002306197	geckodriver	INFO	geckodriver 0.20.1
+1528002306205	geckodriver	INFO	Listening on 127.0.0.1:58729
+1528002307212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hy9qmvx8tx3g"
+1528002310971	Marionette	INFO	Listening on port 35917
+1528002311030	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528002390849	geckodriver	INFO	geckodriver 0.20.1
+1528002390856	geckodriver	INFO	Listening on 127.0.0.1:47007
+1528002391864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PPZ6JXR7qpPJ"
+1528002395980	Marionette	INFO	Listening on port 36479
+1528002396093	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528002468776	geckodriver	INFO	geckodriver 0.20.1
+1528002468783	geckodriver	INFO	Listening on 127.0.0.1:58459
+1528002469792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9xdYGGCd5Wox"
+1528002473581	Marionette	INFO	Listening on port 46129
+1528002473609	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528002513325	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+1528002553362	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: https://platform.twitter.com/widgets/widget_iframe.b813cd3227574096a07e094b73331535.html?origin=http%3A%2F%2Fwww.mbc.net&settingsEndpoint=https%3A%2F%2Fsyndication.twitter.com%2Fsettings, line 12: Error: Network error.
+1528002610009	geckodriver	INFO	geckodriver 0.20.1
+1528002610016	geckodriver	INFO	Listening on 127.0.0.1:43095
+1528002611024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4Tje2BDpbaQN"
+1528002615191	Marionette	INFO	Listening on port 38345
+1528002615249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528002789227	geckodriver	INFO	geckodriver 0.20.1
+1528002789234	geckodriver	INFO	Listening on 127.0.0.1:53901
+1528002790243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.E9h08bGj2nOS"
+1528002794047	Marionette	INFO	Listening on port 39043
+1528002794061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528002865067	geckodriver	INFO	geckodriver 0.20.1
+1528002865074	geckodriver	INFO	Listening on 127.0.0.1:41539
+1528002866082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hEP5VEMIhHyu"
+1528002869770	Marionette	INFO	Listening on port 44237
+1528002869800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/2.9.23/js/ae-javascript.js, line 3908: ReferenceError: googletag is not defined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/2.9.23/js/ae-javascript.js, line 3908: ReferenceError: googletag is not defined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/2.9.23/js/ae-javascript.js, line 3908: ReferenceError: googletag is not defined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/2.9.23/js/ae-javascript.js, line 3908: ReferenceError: googletag is not defined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/2.9.23/js/ae-javascript.js, line 3908: ReferenceError: googletag is not defined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/2.9.23/js/ae-javascript.js, line 3908: ReferenceError: googletag is not defined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/2.9.23/js/ae-javascript.js, line 3908: ReferenceError: googletag is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528003012060	geckodriver	INFO	geckodriver 0.20.1
+1528003012068	geckodriver	INFO	Listening on 127.0.0.1:59101
+1528003013068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i7ep4flHNhvX"
+1528003016790	Marionette	INFO	Listening on port 44749
+1528003016890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528003151043	geckodriver	INFO	geckodriver 0.20.1
+1528003151050	geckodriver	INFO	Listening on 127.0.0.1:50593
+1528003152058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NkhAckEn97qL"
+1528003155815	Marionette	INFO	Listening on port 44831
+1528003155896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528003195425	geckodriver	INFO	geckodriver 0.20.1
+1528003195432	geckodriver	INFO	Listening on 127.0.0.1:54269
+1528003196435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.WrfhTwea01n3"
+1528003200388	Marionette	INFO	Listening on port 42749
+1528003200456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528003230952	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528003285521	geckodriver	INFO	geckodriver 0.20.1
+1528003285529	geckodriver	INFO	Listening on 127.0.0.1:39957
+1528003286538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NU1KcGhQzJpU"
+1528003290394	Marionette	INFO	Listening on port 46561
+1528003290460	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528003514924	geckodriver	INFO	geckodriver 0.20.1
+1528003514932	geckodriver	INFO	Listening on 127.0.0.1:36291
+1528003515939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VzMpcOOAVF81"
+1528003519651	Marionette	INFO	Listening on port 44671
+1528003519756	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528003555295	geckodriver	INFO	geckodriver 0.20.1
+1528003555301	geckodriver	INFO	Listening on 127.0.0.1:46699
+1528003556304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oiInKOaSskax"
+1528003560096	Marionette	INFO	Listening on port 36047
+1528003560129	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528004498048	geckodriver	INFO	geckodriver 0.20.1
+1528004498055	geckodriver	INFO	Listening on 127.0.0.1:39853
+1528004499062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qWEBmWEYCcdC"
+1528004502899	Marionette	INFO	Listening on port 43565
+1528004502984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528004601275	geckodriver	INFO	geckodriver 0.20.1
+1528004601283	geckodriver	INFO	Listening on 127.0.0.1:36027
+1528004602285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3hnoGov9o41u"
+1528004606172	Marionette	INFO	Listening on port 44569
+1528004606216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528004635308	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528004732171	geckodriver	INFO	geckodriver 0.20.1
+1528004732178	geckodriver	INFO	Listening on 127.0.0.1:39565
+1528004733185	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IkUylXmeCRko"
+1528004736982	Marionette	INFO	Listening on port 35473
+1528004737011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528005036547	geckodriver	INFO	geckodriver 0.20.1
+1528005036554	geckodriver	INFO	Listening on 127.0.0.1:56639
+1528005037563	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6TQpJvVmR3E3"
+1528005041512	Marionette	INFO	Listening on port 34859
+1528005041584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528005070479	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528005201633	geckodriver	INFO	geckodriver 0.20.1
+1528005201640	geckodriver	INFO	Listening on 127.0.0.1:40753
+1528005202646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aKzynOWND9Kx"
+1528005206471	Marionette	INFO	Listening on port 37721
+1528005206568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528005312543	geckodriver	INFO	geckodriver 0.20.1
+1528005312552	geckodriver	INFO	Listening on 127.0.0.1:46597
+1528005313560	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GOa4L57g6naN"
+1528005317286	Marionette	INFO	Listening on port 36317
+1528005317381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528005347609	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528005623563	geckodriver	INFO	geckodriver 0.20.1
+1528005623569	geckodriver	INFO	Listening on 127.0.0.1:38883
+1528005624579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.y5VfG9WSEnRQ"
+1528005628353	Marionette	INFO	Listening on port 33371
+1528005628397	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528005753213	geckodriver	INFO	geckodriver 0.20.1
+1528005753220	geckodriver	INFO	Listening on 127.0.0.1:50409
+1528005754226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.98j6GGKSy5QF"
+1528005757875	Marionette	INFO	Listening on port 39327
+1528005757949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528005874954	geckodriver	INFO	geckodriver 0.20.1
+1528005874961	geckodriver	INFO	Listening on 127.0.0.1:35499
+1528005875969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UOYoU2FQuEpF"
+1528005879670	Marionette	INFO	Listening on port 45581
+1528005879687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528005917008	geckodriver	INFO	geckodriver 0.20.1
+1528005917014	geckodriver	INFO	Listening on 127.0.0.1:41143
+1528005918023	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UNLa41rHewI4"
+1528005921974	Marionette	INFO	Listening on port 38381
+1528005922045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528005961506	geckodriver	INFO	geckodriver 0.20.1
+1528005961513	geckodriver	INFO	Listening on 127.0.0.1:43299
+1528005962522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ml2BEeUW3dUN"
+1528005966254	Marionette	INFO	Listening on port 42721
+1528005966339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528006226571	geckodriver	INFO	geckodriver 0.20.1
+1528006226579	geckodriver	INFO	Listening on 127.0.0.1:44913
+1528006227582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.72EqzVzwAzcQ"
+1528006231461	Marionette	INFO	Listening on port 38609
+1528006231514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528006253210	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528006276962	geckodriver	INFO	geckodriver 0.20.1
+1528006276969	geckodriver	INFO	Listening on 127.0.0.1:60565
+1528006277977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.A5FDjDqTib6V"
+1528006281788	Marionette	INFO	Listening on port 43287
+1528006281804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

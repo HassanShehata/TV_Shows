@@ -1,1 +1,1 @@
-CBC*https://www.cbc-eg.com/agenda*prog,div,class,vis-item vis-range time-line-item vis-readonly
+mbc-drama*http://www.mbc.net/ar/mbc-drama.html

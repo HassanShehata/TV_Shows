@@ -1,0 +1,80 @@
+{
+ "channels-programs":
+[{
+ "mbc-drama":
+     [{
+     "prog_name":"الخافي أعظم"[{
+          "time":"02:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg"
+     }],     "prog_name":"عطر الروح"[{
+          "time":"03:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg"
+     }],     "prog_name":"الخطايا العشر"[{
+          "time":"04:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg"
+     }],     "prog_name":"خذيت من عمري و عطيت"[{
+          "time":"05:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg"
+     }],     "prog_name":"الخافي أعظم"[{
+          "time":"06:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg"
+     }],     "prog_name":"المواجهة"[{
+          "time":"07:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg"
+     }],     "prog_name":"عطر الروح"[{
+          "time":"08:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg"
+     }],     "prog_name":"مع حصة قلم"[{
+          "time":"09:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg"
+     }],     "prog_name":"خذيت من عمري و عطيت"[{
+          "time":"10:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg"
+     }],     "prog_name":"الخطايا العشر"[{
+          "time":"11:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg"
+     }],     "prog_name":"المواجهة"[{
+          "time":"12:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg"
+     }],     "prog_name":"خذيت من عمري و عطيت"[{
+          "time":"13:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg"
+     }],     "prog_name":"الخافي أعظم"[{
+          "time":"14:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg"
+     }],     "prog_name":"مع حصة قلم"[{
+          "time":"15:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg"
+     }],     "prog_name":"الخطايا العشر"[{
+          "time":"16:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg"
+     }],     "prog_name":"عطر الروح"[{
+          "time":"17:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg"
+     }],     "prog_name":"المواجهة"[{
+          "time":"18:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg"
+     }],     "prog_name":"مع حصة قلم"[{
+          "time":"19:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg"
+     }],     "prog_name":"الخافي أعظم"[{
+          "time":"20:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg"
+     }],     "prog_name":"عطر الروح"[{
+          "time":"21:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg"
+     }],     "prog_name":"الخطايا العشر"[{
+          "time":"22:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg"
+     }],     "prog_name":"خذيت من عمري و عطيت"[{
+          "time":"23:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg"
+     }],     "prog_name":"مع حصة قلم"[{
+          "time":"00:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg"
+     }],     "prog_name":"المواجهة"[{
+          "time":"01:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg"
+     }]
+}]
+}
