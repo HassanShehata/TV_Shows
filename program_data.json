@@ -1,207 +1,576 @@
 {
  "channels-programs":
 [{
+ "mbc-maser":
+     [{
+     "prog_name":"من روسيا مع التحية"[{
+          "time":"02:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/MenRosiaMaaElTa7ya/original/ceb42307c573da907fa6e24939eec19b4e6ea780/MenRosiaMaaElTa7ya.jpg",
+          "description":"من روسيا التحية؛ يقدمه الإعلامي مهيب عبد الهادي والنجمة رزان مغربي، بالاشتراك مع فريق عمل عدد كبير من النجوم منهم، بيومي فؤاد، مصطفى أبو سريع، حسن عبد الفتاح، وفقرات خاصة بطولة النجوم محمود العسيلي، سعد الصغير، حمادة هلال والعديد من النجوم.
+
+البرنامج يستضيف في كل حلقة واحد من نجوم الفن او الكرة في مصر، ويضم مجموعة من الفقرات الكوميدية والمتغيرة حسب الضيف، ويتم تصوير كافة الحلقات من روسيا. 
+
+للبرنامج اهداف متعددة منها؛ انه سيكون بمثابة دليل سياحي متكامل لكل مصري يفكر في السفر الى روسيا وقت مباريات كأس العالم، أيضاً المشاهد العادي، سوف يرى روسيا بتفاصيلها عبر الشاشة، ويعيش تجربة كأس العالم كاملة وكأنه هناك. "
+     }],     "prog_name":"رامز تحت الصفر"[{
+          "time":"02:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg",
+          "description":"النجم رامز جلال يواصل مقالبه المثيرة والكوميدية مع النجوم المصريين والعرب، في برنامج  رامز تحت الصفر  والذي يقدمه هذا العام من روسيا.
+ترى ماذا يخبئ رامز في جعبته هذا العام؟ وما هي قائمة الضحايا التي ستسقط في شباكه؟ 
+تابعونا يوميا في رمضان مع رامز تحت الصفر."
+     }],     "prog_name":"سك على إخواتك "[{
+          "time":"03:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SokAlaIkhwatak/original/0a36723cd364f5f8c6f16264158fc803cd51e4d7/SokAlaIkhwatak.jpg",
+          "description":" سعادة .. شاب صعيدي يعمل مساعد  تمرجي  في الوحدة البيطرية بقرية  ميت شلن ، قصة حب وضعته في مأزق كبير، وبين اختفاء والده ووفاته يتعرض للعديد من الحكايات والمواقف المثيرة، هل يصمد سعادة وينجح في التغلب على هذه التحديات.. 
+ سك على إخواتك .. قصة كريم فهمي، إخراج وائل إحسان، يقوم ببطولته علي ربيع، هنا الزاهد، كريم عفيفي، صلاح عبدالله. "
+     }],     "prog_name":"سلسال الدم - الموسم 5"[{
+          "time":"04:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SelsalAlDam/original/c0933de0d991e128fd75012d793e6a772ad150fb/SelsalAlDam.jpg",
+          "description":"في هذا الجزء من ملحمة  سلسال الدم  الدرامية تتعرفون على النهايات التي شغلتكم طوال عرض المسلسل في أجزاءه الأربعة الماضية، تعرفون هل تنتصر نصرة أم تستسلم لعائلة هارون وحمدان، بعد توسيع نفوذهما وقوتهما التي استمدوها من علاقاتهما الكبيرة مع كبار رجال الأعمال، خاصة بعد خروج هارون من السجن وترشح حمدان لعضوية البرلمان.. 
+ سلسال الدم  الجزء الخامس، من بطولة عبلة كامل، رياض الخولي، رانيا فريد شوقي، أحمد بدير، أحمد سلامة، من تأليف مجدي صابر، وإخراج مصطفى الشال. "
+     }],     "prog_name":"مسرح مصر"[{
+          "time":"05:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/MasrahMasr/original/dd3e18d8063e5e332f95b648839dc96f60c8b3a1/MasrahMasr.jpg",
+          "description":" "
+     }],     "prog_name":"الشيف حسن"[{
+          "time":"07:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/ChefHassan/original/edee12afdc513ae59975ffb33a8ea9a0435481a3/ChefHassan.jpg",
+          "description":" "
+     }],     "prog_name":"قانون عمر"[{
+          "time":"08:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QanoonOmar/original/99113e4ce28a15bf65fca01ba2c5bb6cee957a4a/QanoonOmar.jpg",
+          "description":"عمر – مهندس ميكانيا- يدخل السجن ظلما، ويخرج منه بعد 3 سنوات بعد ظهور براءته، ولكن المفارقة أنه خرج وأمام عينيه قانونه الخاص. 
+ولكنه يجد نفسه في ورطة جديدة بسبب قانون الحب، فهل ينتصر  قانون عمر  أم يسري عليه ما يسري على الآخرين؟  
+ قانون عمر ، بطولة حمادة هلال، إيمان العاصي، مصطفى أبوسريع، ومجموعة أخرى من الفنانين، تأليف فداء الشندويلي، إخراج أحمد شفيق. "
+     }],     "prog_name":"ممنوع الاقتراب أو التصوير"[{
+          "time":"09:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mammnou3/original/b625641e43abb4a65c4a934b5b743b128208b670/Mammnou3.jpg",
+          "description":"اتصلوا بها هاتفيا ليخبروها بمقتل زوجها مع ممثلة داخل فيلا، وإجاباتها الغامضة أثناء التحقيق معها والمشكلات السابقة بينها وبين زوجها وطردها له من منزل الزوجية، كلها أمور تثير الشكوك حول تورطها في جريمة القتل.
+المفاجآت تتوالى حول أدلة إدانتها، مع وجود بصماتها وعينة من دماءها في مكان الجريمة، ولكنها مقتنعة تماما ببراءتها.
+مسلسل  ممنوع الاقتراب أو التصوير ، من تأليف محمد الصفطي، وإخراج مريم أحمدي، وبطولة زينة، فتحي عبدالوهاب، محمد شاهين، نسرين أمين، ومجموعة أخرى من الفنانين. "
+     }],     "prog_name":"رامز تحت الصفر"[{
+          "time":"10:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg",
+          "description":"النجم رامز جلال يواصل مقالبه المثيرة والكوميدية مع النجوم المصريين والعرب، في برنامج  رامز تحت الصفر  والذي يقدمه هذا العام من روسيا.
+ترى ماذا يخبئ رامز في جعبته هذا العام؟ وما هي قائمة الضحايا التي ستسقط في شباكه؟ 
+تابعونا يوميا في رمضان مع رامز تحت الصفر."
+     }],     "prog_name":"خفة يد "[{
+          "time":"11:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/KhefetYad/original/63840bd023acc3b1b9e5fa6dc66ace21848743da/KhefetYad.jpg",
+          "description":"بلال وبهجت، المخ والعضلات تجمعهما هواية سرقة المواطنين باستخدام أساليب  النصب والاحتيال ، والمفاجأة أن لكل منهما هدف يسعى لتنفيذه من وراء هذه الجرائم، ولكن ماذا لو ضم هذا الثنائي شقة واحدة يعيشان فيها بصحبة فتاة جميلة، بهدف التخطيط لعملية سرقة كبيرة، وتواجه الثلاثة سلسلة من المغامرات والمواقف.. ولكن النهاية دائما تحمل المزيد من المفاجآت.
+ خفة يد  مسلسل يقوم ببطولته بيومي فؤاد، أيتن عامر، محمد ثروت، محمد سلام، من تأليف تامر إبراهيم وإخراج معتز التوني. "
+     }],     "prog_name":"قانون عمر"[{
+          "time":"12:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QanoonOmar/original/99113e4ce28a15bf65fca01ba2c5bb6cee957a4a/QanoonOmar.jpg",
+          "description":"عمر – مهندس ميكانيا- يدخل السجن ظلما، ويخرج منه بعد 3 سنوات بعد ظهور براءته، ولكن المفارقة أنه خرج وأمام عينيه قانونه الخاص. 
+ولكنه يجد نفسه في ورطة جديدة بسبب قانون الحب، فهل ينتصر  قانون عمر  أم يسري عليه ما يسري على الآخرين؟  
+ قانون عمر ، بطولة حمادة هلال، إيمان العاصي، مصطفى أبوسريع، ومجموعة أخرى من الفنانين، تأليف فداء الشندويلي، إخراج أحمد شفيق. "
+     }],     "prog_name":"الشيف حسن"[{
+          "time":"13:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/ChefHassan/original/edee12afdc513ae59975ffb33a8ea9a0435481a3/ChefHassan.jpg",
+          "description":" "
+     }],     "prog_name":"مسرح مصر"[{
+          "time":"14:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/MasrahMasr/original/dd3e18d8063e5e332f95b648839dc96f60c8b3a1/MasrahMasr.jpg",
+          "description":" "
+     }],     "prog_name":"ممنوع الاقتراب أو التصوير"[{
+          "time":"15:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mammnou3/original/b625641e43abb4a65c4a934b5b743b128208b670/Mammnou3.jpg",
+          "description":"اتصلوا بها هاتفيا ليخبروها بمقتل زوجها مع ممثلة داخل فيلا، وإجاباتها الغامضة أثناء التحقيق معها والمشكلات السابقة بينها وبين زوجها وطردها له من منزل الزوجية، كلها أمور تثير الشكوك حول تورطها في جريمة القتل.
+المفاجآت تتوالى حول أدلة إدانتها، مع وجود بصماتها وعينة من دماءها في مكان الجريمة، ولكنها مقتنعة تماما ببراءتها.
+مسلسل  ممنوع الاقتراب أو التصوير ، من تأليف محمد الصفطي، وإخراج مريم أحمدي، وبطولة زينة، فتحي عبدالوهاب، محمد شاهين، نسرين أمين، ومجموعة أخرى من الفنانين. "
+     }],     "prog_name":"سلسال الدم - الموسم 5"[{
+          "time":"16:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SelsalAlDam/original/c0933de0d991e128fd75012d793e6a772ad150fb/SelsalAlDam.jpg",
+          "description":"في هذا الجزء من ملحمة  سلسال الدم  الدرامية تتعرفون على النهايات التي شغلتكم طوال عرض المسلسل في أجزاءه الأربعة الماضية، تعرفون هل تنتصر نصرة أم تستسلم لعائلة هارون وحمدان، بعد توسيع نفوذهما وقوتهما التي استمدوها من علاقاتهما الكبيرة مع كبار رجال الأعمال، خاصة بعد خروج هارون من السجن وترشح حمدان لعضوية البرلمان.. 
+ سلسال الدم  الجزء الخامس، من بطولة عبلة كامل، رياض الخولي، رانيا فريد شوقي، أحمد بدير، أحمد سلامة، من تأليف مجدي صابر، وإخراج مصطفى الشال. "
+     }],     "prog_name":"سك على إخواتك "[{
+          "time":"17:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SokAlaIkhwatak/original/0a36723cd364f5f8c6f16264158fc803cd51e4d7/SokAlaIkhwatak.jpg",
+          "description":" سعادة .. شاب صعيدي يعمل مساعد  تمرجي  في الوحدة البيطرية بقرية  ميت شلن ، قصة حب وضعته في مأزق كبير، وبين اختفاء والده ووفاته يتعرض للعديد من الحكايات والمواقف المثيرة، هل يصمد سعادة وينجح في التغلب على هذه التحديات.. 
+ سك على إخواتك .. قصة كريم فهمي، إخراج وائل إحسان، يقوم ببطولته علي ربيع، هنا الزاهد، كريم عفيفي، صلاح عبدالله. "
+     }],     "prog_name":"الصدمة -الموسم 3"[{
+          "time":"17:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/AlSadma_1024x576/original/220fe5335322ab767049b66c0f9803b8f36432f1/AlSadma_1024x576.jpg",
+          "description":" "
+     }],     "prog_name":"خفة يد "[{
+          "time":"18:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/KhefetYad/original/63840bd023acc3b1b9e5fa6dc66ace21848743da/KhefetYad.jpg",
+          "description":"بلال وبهجت، المخ والعضلات تجمعهما هواية سرقة المواطنين باستخدام أساليب  النصب والاحتيال ، والمفاجأة أن لكل منهما هدف يسعى لتنفيذه من وراء هذه الجرائم، ولكن ماذا لو ضم هذا الثنائي شقة واحدة يعيشان فيها بصحبة فتاة جميلة، بهدف التخطيط لعملية سرقة كبيرة، وتواجه الثلاثة سلسلة من المغامرات والمواقف.. ولكن النهاية دائما تحمل المزيد من المفاجآت.
+ خفة يد  مسلسل يقوم ببطولته بيومي فؤاد، أيتن عامر، محمد ثروت، محمد سلام، من تأليف تامر إبراهيم وإخراج معتز التوني. "
+     }],     "prog_name":"رامز تحت الصفر"[{
+          "time":"19:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg",
+          "description":"النجم رامز جلال يواصل مقالبه المثيرة والكوميدية مع النجوم المصريين والعرب، في برنامج  رامز تحت الصفر  والذي يقدمه هذا العام من روسيا.
+ترى ماذا يخبئ رامز في جعبته هذا العام؟ وما هي قائمة الضحايا التي ستسقط في شباكه؟ 
+تابعونا يوميا في رمضان مع رامز تحت الصفر."
+     }],     "prog_name":"سلسال الدم - الموسم 5"[{
+          "time":"20:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SelsalAlDam/original/c0933de0d991e128fd75012d793e6a772ad150fb/SelsalAlDam.jpg",
+          "description":"في هذا الجزء من ملحمة  سلسال الدم  الدرامية تتعرفون على النهايات التي شغلتكم طوال عرض المسلسل في أجزاءه الأربعة الماضية، تعرفون هل تنتصر نصرة أم تستسلم لعائلة هارون وحمدان، بعد توسيع نفوذهما وقوتهما التي استمدوها من علاقاتهما الكبيرة مع كبار رجال الأعمال، خاصة بعد خروج هارون من السجن وترشح حمدان لعضوية البرلمان.. 
+ سلسال الدم  الجزء الخامس، من بطولة عبلة كامل، رياض الخولي، رانيا فريد شوقي، أحمد بدير، أحمد سلامة، من تأليف مجدي صابر، وإخراج مصطفى الشال. "
+     }],     "prog_name":"سك على إخواتك "[{
+          "time":"21:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SokAlaIkhwatak/original/0a36723cd364f5f8c6f16264158fc803cd51e4d7/SokAlaIkhwatak.jpg",
+          "description":" سعادة .. شاب صعيدي يعمل مساعد  تمرجي  في الوحدة البيطرية بقرية  ميت شلن ، قصة حب وضعته في مأزق كبير، وبين اختفاء والده ووفاته يتعرض للعديد من الحكايات والمواقف المثيرة، هل يصمد سعادة وينجح في التغلب على هذه التحديات.. 
+ سك على إخواتك .. قصة كريم فهمي، إخراج وائل إحسان، يقوم ببطولته علي ربيع، هنا الزاهد، كريم عفيفي، صلاح عبدالله. "
+     }],     "prog_name":"ممنوع الاقتراب أو التصوير"[{
+          "time":"22:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mammnou3/original/b625641e43abb4a65c4a934b5b743b128208b670/Mammnou3.jpg",
+          "description":"اتصلوا بها هاتفيا ليخبروها بمقتل زوجها مع ممثلة داخل فيلا، وإجاباتها الغامضة أثناء التحقيق معها والمشكلات السابقة بينها وبين زوجها وطردها له من منزل الزوجية، كلها أمور تثير الشكوك حول تورطها في جريمة القتل.
+المفاجآت تتوالى حول أدلة إدانتها، مع وجود بصماتها وعينة من دماءها في مكان الجريمة، ولكنها مقتنعة تماما ببراءتها.
+مسلسل  ممنوع الاقتراب أو التصوير ، من تأليف محمد الصفطي، وإخراج مريم أحمدي، وبطولة زينة، فتحي عبدالوهاب، محمد شاهين، نسرين أمين، ومجموعة أخرى من الفنانين. "
+     }],     "prog_name":"مسرح مصر"[{
+          "time":"23:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/MasrahMasr/original/dd3e18d8063e5e332f95b648839dc96f60c8b3a1/MasrahMasr.jpg",
+          "description":" "
+     }],     "prog_name":"قانون عمر"[{
+          "time":"00:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QanoonOmar/original/99113e4ce28a15bf65fca01ba2c5bb6cee957a4a/QanoonOmar.jpg",
+          "description":"عمر – مهندس ميكانيا- يدخل السجن ظلما، ويخرج منه بعد 3 سنوات بعد ظهور براءته، ولكن المفارقة أنه خرج وأمام عينيه قانونه الخاص. 
+ولكنه يجد نفسه في ورطة جديدة بسبب قانون الحب، فهل ينتصر  قانون عمر  أم يسري عليه ما يسري على الآخرين؟  
+ قانون عمر ، بطولة حمادة هلال، إيمان العاصي، مصطفى أبوسريع، ومجموعة أخرى من الفنانين، تأليف فداء الشندويلي، إخراج أحمد شفيق. "
+     }],     "prog_name":"خفة يد "[{
+          "time":"01:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/KhefetYad/original/63840bd023acc3b1b9e5fa6dc66ace21848743da/KhefetYad.jpg",
+          "description":"بلال وبهجت، المخ والعضلات تجمعهما هواية سرقة المواطنين باستخدام أساليب  النصب والاحتيال ، والمفاجأة أن لكل منهما هدف يسعى لتنفيذه من وراء هذه الجرائم، ولكن ماذا لو ضم هذا الثنائي شقة واحدة يعيشان فيها بصحبة فتاة جميلة، بهدف التخطيط لعملية سرقة كبيرة، وتواجه الثلاثة سلسلة من المغامرات والمواقف.. ولكن النهاية دائما تحمل المزيد من المفاجآت.
+ خفة يد  مسلسل يقوم ببطولته بيومي فؤاد، أيتن عامر، محمد ثروت، محمد سلام، من تأليف تامر إبراهيم وإخراج معتز التوني. "
+     }]
+}]
+[{
  "mbc-drama":
      [{
      "prog_name":"الخافي أعظم"[{
           "time":"02:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg",
+          "description":"تدور أحداث المسلسل في إطار درامي حول فتاة اسمها (حصة) تعاني في حياتها بسبب عدد من المشاكل الأسرية، لكن رغم هذا تحاول ألا تظهر ذلك للمقربين منها، لكن يقع لها حادث مما يؤدي إلى معرفة ما كانت تخبئه من آلام بسبب هذه المشاكل.
+شارك في بطولة المسلسل النجمة  ليلى عبدالله ،  عبد الإمام عبدالله ،  ناصر الدوسري ،  إبراهيم الحربي ،  عبدالله الباروني  و مرام البلوشي ، والمسلسل من تأليف  عبد الله السعد  ومن إخراج  أحمد يعقوب المقلة ."
      }],     "prog_name":"عطر الروح"[{
           "time":"03:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg",
+          "description":"مسلسل  عطر الروح  يدور في إطار درامي اجتماعي مشوق حيث يتناول المشاكل التي تتعرض لها طبيبة نفسية في إطار من الأحداث المتلاحقة التي تحاول تلك الطبيبة التصدي لها والتعامل مع شخصيات ذات طابع غريب."
      }],     "prog_name":"الخطايا العشر"[{
           "time":"04:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg",
+          "description":"  الخطايا العشر .. صراع الإنسان مع الندم
+
+تدور أحداث المسلسل في إطار درامي حول الندم وتأثيره على الإنسان وأسبابه ونتائجه، وهو الشيء الذي يصيب الإنسان في تفكيره نتيجة تصرفه بطريقة معينة في أحد المواقف، من خلال رجل يعيش حالة صراع مع الندم في كل المواقف التي يعيشها.
+مسلسل   الخطايا العشر   من تأليف الكاتب حسين المهدي وإنتاج الفنان قحطان القحطاني وبطولة عدد من أبرز نجوم الدراما الخليجية ومنهم عبد المحسن النمر وعبدالله بو شهري ونور وهيفاء حسين وقحطان القحطاني وروان مهدي وريم أرحمه و عبدالله ملك وفاطمة الحوسني وسعود بوشهري والنجمة التونسية سهير بن عمارة."
      }],     "prog_name":"خذيت من عمري و عطيت"[{
           "time":"05:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg",
+          "description":"في الثمانينات تعيش دلال طفولة صعبة مع أم مطلقة تزوجت ابن خالها رغم معاضة الجميع.. في التسعينات تكبر دلال وتعاني من قصة حب محكومة بالفشل مع رجل يتزوج أقرب صديقاتها وتجد نفسها في مواجه أطماع من حولها.. في زماننا الحالي دلال على موعد مع صدمة عاطفية أقوي وأشد تعيدها إلى مرارة الماضي، وفي الوقت نفسه هي مسؤولة عن تربية أخوتها وعن مواجهة كل من حولها.. أي دلال هو هذا وأي زمان سينصفها حقها؟ هل هناك ثمن للتضحية من أجل إسعاد الأخرين؟ هل هناك مقابل لسعادة نمنحها لغيرنا على حساب وقتنا وحياتنا وعمرنا ومشاعرنا؟ دارا خليجية مؤثر تحاول الإجابة عن كل هذه التساؤلات.
+المسلسل من بطولة  صمود الكندري ،  لمياء طارق ،   محمود بوشهري  ،  حمدي العماني  و انتصار الشراح ."
      }],     "prog_name":"الخافي أعظم"[{
           "time":"06:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg",
+          "description":"تدور أحداث المسلسل في إطار درامي حول فتاة اسمها (حصة) تعاني في حياتها بسبب عدد من المشاكل الأسرية، لكن رغم هذا تحاول ألا تظهر ذلك للمقربين منها، لكن يقع لها حادث مما يؤدي إلى معرفة ما كانت تخبئه من آلام بسبب هذه المشاكل.
+شارك في بطولة المسلسل النجمة  ليلى عبدالله ،  عبد الإمام عبدالله ،  ناصر الدوسري ،  إبراهيم الحربي ،  عبدالله الباروني  و مرام البلوشي ، والمسلسل من تأليف  عبد الله السعد  ومن إخراج  أحمد يعقوب المقلة ."
      }],     "prog_name":"المواجهة"[{
           "time":"07:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg",
+          "description":"أحداث متشابكة وقصص حب غريبة
+يدور المحور الرئيسي بين أربعة شخصيات تجمعهم قصص حب غريبة مليئة بالأحداث الدرامية المشوقة.
+عبد الله شاب لا يعترف بالحب والغرام وهمه الأول النجاح والاستمتاع بالحياة يلتقي  ليالي  وهي إنسانة ناجحة بكل المقاييس حاصلة على درجة الماجستير في الإعلام.
+تحدث عداوة بينهما ولكن مع مرور الوقت تتحول هذه العداوة إلى إعجاب متبادل أما صقر فهو طالب ماجستير في الجامعة وأنوار طالبة ماجستير أيضا تجمعهما صدفة غريبة.
+ تتوج علاقتهما بالحب وتتوالى الأحداث وتتشابك الخيوط والمشاكل بين تلك الشخصيات الأربعة.
+المسلسل بطولة نخبة من نجوم الدراما الخليجية على رأسهم حسين المنصور، شجون الهاجري، نور الغندور، محمد العلوي، فهد بسام."
      }],     "prog_name":"عطر الروح"[{
           "time":"08:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg",
+          "description":"مسلسل  عطر الروح  يدور في إطار درامي اجتماعي مشوق حيث يتناول المشاكل التي تتعرض لها طبيبة نفسية في إطار من الأحداث المتلاحقة التي تحاول تلك الطبيبة التصدي لها والتعامل مع شخصيات ذات طابع غريب."
      }],     "prog_name":"مع حصة قلم"[{
           "time":"09:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg",
+          "description":"مسلسل مع حصة قلم يتناول مجموعة من الأحداث الدرامية المتلاحقة التي تتعرض لها سيدة تنسى كل ما يحدث حولها من مواقف طوال الوقت وهو الأمر الذي يضطرها للاحتفاظ بورقة وقلم لتدوين كل الأمور التي تصادفها في الحياة."
      }],     "prog_name":"خذيت من عمري و عطيت"[{
           "time":"10:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg",
+          "description":"في الثمانينات تعيش دلال طفولة صعبة مع أم مطلقة تزوجت ابن خالها رغم معاضة الجميع.. في التسعينات تكبر دلال وتعاني من قصة حب محكومة بالفشل مع رجل يتزوج أقرب صديقاتها وتجد نفسها في مواجه أطماع من حولها.. في زماننا الحالي دلال على موعد مع صدمة عاطفية أقوي وأشد تعيدها إلى مرارة الماضي، وفي الوقت نفسه هي مسؤولة عن تربية أخوتها وعن مواجهة كل من حولها.. أي دلال هو هذا وأي زمان سينصفها حقها؟ هل هناك ثمن للتضحية من أجل إسعاد الأخرين؟ هل هناك مقابل لسعادة نمنحها لغيرنا على حساب وقتنا وحياتنا وعمرنا ومشاعرنا؟ دارا خليجية مؤثر تحاول الإجابة عن كل هذه التساؤلات.
+المسلسل من بطولة  صمود الكندري ،  لمياء طارق ،   محمود بوشهري  ،  حمدي العماني  و انتصار الشراح ."
      }],     "prog_name":"الخطايا العشر"[{
           "time":"11:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg",
+          "description":"  الخطايا العشر .. صراع الإنسان مع الندم
+
+تدور أحداث المسلسل في إطار درامي حول الندم وتأثيره على الإنسان وأسبابه ونتائجه، وهو الشيء الذي يصيب الإنسان في تفكيره نتيجة تصرفه بطريقة معينة في أحد المواقف، من خلال رجل يعيش حالة صراع مع الندم في كل المواقف التي يعيشها.
+مسلسل   الخطايا العشر   من تأليف الكاتب حسين المهدي وإنتاج الفنان قحطان القحطاني وبطولة عدد من أبرز نجوم الدراما الخليجية ومنهم عبد المحسن النمر وعبدالله بو شهري ونور وهيفاء حسين وقحطان القحطاني وروان مهدي وريم أرحمه و عبدالله ملك وفاطمة الحوسني وسعود بوشهري والنجمة التونسية سهير بن عمارة."
      }],     "prog_name":"المواجهة"[{
           "time":"12:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg",
+          "description":"أحداث متشابكة وقصص حب غريبة
+يدور المحور الرئيسي بين أربعة شخصيات تجمعهم قصص حب غريبة مليئة بالأحداث الدرامية المشوقة.
+عبد الله شاب لا يعترف بالحب والغرام وهمه الأول النجاح والاستمتاع بالحياة يلتقي  ليالي  وهي إنسانة ناجحة بكل المقاييس حاصلة على درجة الماجستير في الإعلام.
+تحدث عداوة بينهما ولكن مع مرور الوقت تتحول هذه العداوة إلى إعجاب متبادل أما صقر فهو طالب ماجستير في الجامعة وأنوار طالبة ماجستير أيضا تجمعهما صدفة غريبة.
+ تتوج علاقتهما بالحب وتتوالى الأحداث وتتشابك الخيوط والمشاكل بين تلك الشخصيات الأربعة.
+المسلسل بطولة نخبة من نجوم الدراما الخليجية على رأسهم حسين المنصور، شجون الهاجري، نور الغندور، محمد العلوي، فهد بسام."
      }],     "prog_name":"خذيت من عمري و عطيت"[{
           "time":"13:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg",
+          "description":"في الثمانينات تعيش دلال طفولة صعبة مع أم مطلقة تزوجت ابن خالها رغم معاضة الجميع.. في التسعينات تكبر دلال وتعاني من قصة حب محكومة بالفشل مع رجل يتزوج أقرب صديقاتها وتجد نفسها في مواجه أطماع من حولها.. في زماننا الحالي دلال على موعد مع صدمة عاطفية أقوي وأشد تعيدها إلى مرارة الماضي، وفي الوقت نفسه هي مسؤولة عن تربية أخوتها وعن مواجهة كل من حولها.. أي دلال هو هذا وأي زمان سينصفها حقها؟ هل هناك ثمن للتضحية من أجل إسعاد الأخرين؟ هل هناك مقابل لسعادة نمنحها لغيرنا على حساب وقتنا وحياتنا وعمرنا ومشاعرنا؟ دارا خليجية مؤثر تحاول الإجابة عن كل هذه التساؤلات.
+المسلسل من بطولة  صمود الكندري ،  لمياء طارق ،   محمود بوشهري  ،  حمدي العماني  و انتصار الشراح ."
      }],     "prog_name":"الخافي أعظم"[{
           "time":"14:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg",
+          "description":"تدور أحداث المسلسل في إطار درامي حول فتاة اسمها (حصة) تعاني في حياتها بسبب عدد من المشاكل الأسرية، لكن رغم هذا تحاول ألا تظهر ذلك للمقربين منها، لكن يقع لها حادث مما يؤدي إلى معرفة ما كانت تخبئه من آلام بسبب هذه المشاكل.
+شارك في بطولة المسلسل النجمة  ليلى عبدالله ،  عبد الإمام عبدالله ،  ناصر الدوسري ،  إبراهيم الحربي ،  عبدالله الباروني  و مرام البلوشي ، والمسلسل من تأليف  عبد الله السعد  ومن إخراج  أحمد يعقوب المقلة ."
      }],     "prog_name":"مع حصة قلم"[{
           "time":"15:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg",
+          "description":"مسلسل مع حصة قلم يتناول مجموعة من الأحداث الدرامية المتلاحقة التي تتعرض لها سيدة تنسى كل ما يحدث حولها من مواقف طوال الوقت وهو الأمر الذي يضطرها للاحتفاظ بورقة وقلم لتدوين كل الأمور التي تصادفها في الحياة."
      }],     "prog_name":"الخطايا العشر"[{
           "time":"16:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg",
+          "description":"  الخطايا العشر .. صراع الإنسان مع الندم
+
+تدور أحداث المسلسل في إطار درامي حول الندم وتأثيره على الإنسان وأسبابه ونتائجه، وهو الشيء الذي يصيب الإنسان في تفكيره نتيجة تصرفه بطريقة معينة في أحد المواقف، من خلال رجل يعيش حالة صراع مع الندم في كل المواقف التي يعيشها.
+مسلسل   الخطايا العشر   من تأليف الكاتب حسين المهدي وإنتاج الفنان قحطان القحطاني وبطولة عدد من أبرز نجوم الدراما الخليجية ومنهم عبد المحسن النمر وعبدالله بو شهري ونور وهيفاء حسين وقحطان القحطاني وروان مهدي وريم أرحمه و عبدالله ملك وفاطمة الحوسني وسعود بوشهري والنجمة التونسية سهير بن عمارة."
      }],     "prog_name":"عطر الروح"[{
           "time":"17:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg",
+          "description":"مسلسل  عطر الروح  يدور في إطار درامي اجتماعي مشوق حيث يتناول المشاكل التي تتعرض لها طبيبة نفسية في إطار من الأحداث المتلاحقة التي تحاول تلك الطبيبة التصدي لها والتعامل مع شخصيات ذات طابع غريب."
      }],     "prog_name":"المواجهة"[{
           "time":"18:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg",
+          "description":"أحداث متشابكة وقصص حب غريبة
+يدور المحور الرئيسي بين أربعة شخصيات تجمعهم قصص حب غريبة مليئة بالأحداث الدرامية المشوقة.
+عبد الله شاب لا يعترف بالحب والغرام وهمه الأول النجاح والاستمتاع بالحياة يلتقي  ليالي  وهي إنسانة ناجحة بكل المقاييس حاصلة على درجة الماجستير في الإعلام.
+تحدث عداوة بينهما ولكن مع مرور الوقت تتحول هذه العداوة إلى إعجاب متبادل أما صقر فهو طالب ماجستير في الجامعة وأنوار طالبة ماجستير أيضا تجمعهما صدفة غريبة.
+ تتوج علاقتهما بالحب وتتوالى الأحداث وتتشابك الخيوط والمشاكل بين تلك الشخصيات الأربعة.
+المسلسل بطولة نخبة من نجوم الدراما الخليجية على رأسهم حسين المنصور، شجون الهاجري، نور الغندور، محمد العلوي، فهد بسام."
      }],     "prog_name":"مع حصة قلم"[{
           "time":"19:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg",
+          "description":"مسلسل مع حصة قلم يتناول مجموعة من الأحداث الدرامية المتلاحقة التي تتعرض لها سيدة تنسى كل ما يحدث حولها من مواقف طوال الوقت وهو الأمر الذي يضطرها للاحتفاظ بورقة وقلم لتدوين كل الأمور التي تصادفها في الحياة."
      }],     "prog_name":"الخافي أعظم"[{
           "time":"20:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlKhafi-A3zam/original/910cf9b1df504ced983ceb0b3f6f68e30a2ee1c6/AlKhafi-A3zam.jpg",
+          "description":"تدور أحداث المسلسل في إطار درامي حول فتاة اسمها (حصة) تعاني في حياتها بسبب عدد من المشاكل الأسرية، لكن رغم هذا تحاول ألا تظهر ذلك للمقربين منها، لكن يقع لها حادث مما يؤدي إلى معرفة ما كانت تخبئه من آلام بسبب هذه المشاكل.
+شارك في بطولة المسلسل النجمة  ليلى عبدالله ،  عبد الإمام عبدالله ،  ناصر الدوسري ،  إبراهيم الحربي ،  عبدالله الباروني  و مرام البلوشي ، والمسلسل من تأليف  عبد الله السعد  ومن إخراج  أحمد يعقوب المقلة ."
      }],     "prog_name":"عطر الروح"[{
           "time":"21:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Etr-Alrouh/original/f422512d2439818cb5ba35fd7542312c4c95e046/Etr-Alrouh.jpg",
+          "description":"مسلسل  عطر الروح  يدور في إطار درامي اجتماعي مشوق حيث يتناول المشاكل التي تتعرض لها طبيبة نفسية في إطار من الأحداث المتلاحقة التي تحاول تلك الطبيبة التصدي لها والتعامل مع شخصيات ذات طابع غريب."
      }],     "prog_name":"الخطايا العشر"[{
           "time":"22:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Alkhataya/original/4df0b0abec2e2e762f6a4d887cc46746c6f75724/Alkhataya.jpg",
+          "description":"  الخطايا العشر .. صراع الإنسان مع الندم
+
+تدور أحداث المسلسل في إطار درامي حول الندم وتأثيره على الإنسان وأسبابه ونتائجه، وهو الشيء الذي يصيب الإنسان في تفكيره نتيجة تصرفه بطريقة معينة في أحد المواقف، من خلال رجل يعيش حالة صراع مع الندم في كل المواقف التي يعيشها.
+مسلسل   الخطايا العشر   من تأليف الكاتب حسين المهدي وإنتاج الفنان قحطان القحطاني وبطولة عدد من أبرز نجوم الدراما الخليجية ومنهم عبد المحسن النمر وعبدالله بو شهري ونور وهيفاء حسين وقحطان القحطاني وروان مهدي وريم أرحمه و عبدالله ملك وفاطمة الحوسني وسعود بوشهري والنجمة التونسية سهير بن عمارة."
      }],     "prog_name":"خذيت من عمري و عطيت"[{
           "time":"23:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/Khathait_1024x576/original/0b00200798ca29dc85948b7679f694a616492900/Khathait_1024x576.jpg",
+          "description":"في الثمانينات تعيش دلال طفولة صعبة مع أم مطلقة تزوجت ابن خالها رغم معاضة الجميع.. في التسعينات تكبر دلال وتعاني من قصة حب محكومة بالفشل مع رجل يتزوج أقرب صديقاتها وتجد نفسها في مواجه أطماع من حولها.. في زماننا الحالي دلال على موعد مع صدمة عاطفية أقوي وأشد تعيدها إلى مرارة الماضي، وفي الوقت نفسه هي مسؤولة عن تربية أخوتها وعن مواجهة كل من حولها.. أي دلال هو هذا وأي زمان سينصفها حقها؟ هل هناك ثمن للتضحية من أجل إسعاد الأخرين؟ هل هناك مقابل لسعادة نمنحها لغيرنا على حساب وقتنا وحياتنا وعمرنا ومشاعرنا؟ دارا خليجية مؤثر تحاول الإجابة عن كل هذه التساؤلات.
+المسلسل من بطولة  صمود الكندري ،  لمياء طارق ،   محمود بوشهري  ،  حمدي العماني  و انتصار الشراح ."
      }],     "prog_name":"مع حصة قلم"[{
           "time":"00:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Hissa-Qalam/original/3a3a956b130dd46ffdef5ec4f12bf1266dc9b910/Hissa-Qalam.jpg",
+          "description":"مسلسل مع حصة قلم يتناول مجموعة من الأحداث الدرامية المتلاحقة التي تتعرض لها سيدة تنسى كل ما يحدث حولها من مواقف طوال الوقت وهو الأمر الذي يضطرها للاحتفاظ بورقة وقلم لتدوين كل الأمور التي تصادفها في الحياة."
      }],     "prog_name":"المواجهة"[{
           "time":"01:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/AlMowajaha/original/44d05ff03f58b0e0e604e4ab58409ebe8d242d11/AlMowajaha.jpg",
+          "description":"أحداث متشابكة وقصص حب غريبة
+يدور المحور الرئيسي بين أربعة شخصيات تجمعهم قصص حب غريبة مليئة بالأحداث الدرامية المشوقة.
+عبد الله شاب لا يعترف بالحب والغرام وهمه الأول النجاح والاستمتاع بالحياة يلتقي  ليالي  وهي إنسانة ناجحة بكل المقاييس حاصلة على درجة الماجستير في الإعلام.
+تحدث عداوة بينهما ولكن مع مرور الوقت تتحول هذه العداوة إلى إعجاب متبادل أما صقر فهو طالب ماجستير في الجامعة وأنوار طالبة ماجستير أيضا تجمعهما صدفة غريبة.
+ تتوج علاقتهما بالحب وتتوالى الأحداث وتتشابك الخيوط والمشاكل بين تلك الشخصيات الأربعة.
+المسلسل بطولة نخبة من نجوم الدراما الخليجية على رأسهم حسين المنصور، شجون الهاجري، نور الغندور، محمد العلوي، فهد بسام."
      }]
 }]
 [{
  "mbc-max":
      [{
-     "prog_name":"Charlie St. Cloud"[{
+     "prog_name":"The Holiday"[{
           "time":"03:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/march/week-02/11-3-2015/CHARLIE-STCLOUD/original/747c74858080428bbdbd8995afd445f5b46b2502/CHARLIE-STCLOUD.jpg"
-     }],     "prog_name":"How to Train Your Dragon "[{
-          "time":"04:45",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/Grid/2013/june/02/HOW TO TRAIN YOUR DRAGON/original/f07ee5c8d7a8b5179cb94a498e90043d6251845d/HOW TO TRAIN YOUR DRAGON.jpg"
-     }],     "prog_name":"Patch Adams"[{
-          "time":"06:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/Grid/2014/19-12-2014/PATCH-ADAMS-_1024/original/886b8b0eff93d31769b5819d0296df26e86a85ad/PATCH-ADAMS-_1024.jpg"
-     }],     "prog_name":"Open Windows"[{
-          "time":"08:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/January/16-1-2018/Open-Windows/original/6600ebeb21183b331276bbbe41539112fb16e068/Open Windows.jpg"
-     }],     "prog_name":"Antz"[{
-          "time":"10:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2012/Febraury/2nd-week/Antz/original/af2188ae8cc60dd388b40e1bc4aeaa140c128850/Antz.jpg"
-     }],     "prog_name":"Contagion"[{
-          "time":"11:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/Grid/MBC-2/2014/sep/20-9-2014/CONTAGION_1024/original/3221bc1174a4e4f583516945f06521ecda34c6f7/CONTAGION_1024.jpg"
-     }],     "prog_name":"The Mirror Has Two Faces"[{
-          "time":"13:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/January/16-1-2018/The-Mirror-Has-Two-Faces/original/739a2d1fbb828cc7976aaaf7125e53dd673c09fb/The Mirror Has Two Faces.jpg"
-     }],     "prog_name":"French Kiss"[{
-          "time":"15:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/November/week-3/18-11-2015/French-Kiss/original/931294de6c7d08cf944c2187211adab894554ab1/French-Kiss.jpg"
-     }],     "prog_name":"The Perks of Being a Wallflower"[{
-          "time":"17:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/Grid/2016/march/18-3-2016/The-Perks-of-Being-a-Wallflower/original/18f96c85b2ded50d07aa44c64ed442d90421ab1d/The-Perks-of-Being-a-Wallflower.jpg"
-     }],     "prog_name":"Bridget Jones’s Diary"[{
-          "time":"19:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2013/December/week-3/19-12-2013/max/BRIDGET-JONESS-DIARY_1024/original/0ef28077c29121c4168b6e418717cc02b05682a4/BRIDGET-JONESS-DIARY_1024.jpg"
-     }],     "prog_name":"Bridget Jones: The Edge of Reason"[{
-          "time":"20:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2014/November/Week-04/22-11-2014/Bridget-Jones-The-Edge-of-Reason_1024/original/2855d3a98d90ddbed8b7a5618dc2d885289c0bb7/Bridget-Jones-The-Edge-of-Reason_1024.jpg"
-     }],     "prog_name":"The Colony "[{
-          "time":"22:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/videos-2017/Februaty/week-1/18-2-2017/The Colony/original/9fb216deacdd44a9a6c21154bf38e2ed71ab3cb6/The Colony.jpg"
-     }],     "prog_name":"Open Windows"[{
-          "time":"00:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/January/16-1-2018/Open-Windows/original/6600ebeb21183b331276bbbe41539112fb16e068/Open Windows.jpg"
-     }],     "prog_name":"The Conjuring"[{
-          "time":"01:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2016/September/Week-3/19-09-2016/2nd/The-Conjuring/original/c15cb861afaf8120504ccc89aaa81c2c891369c3/The Conjuring.jpg"
-     }]
-}]
-[{
- "mbc-maser":
-     [{
-     "prog_name":"من روسيا مع التحية"[{
-          "time":"02:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/MenRosiaMaaElTa7ya/original/ceb42307c573da907fa6e24939eec19b4e6ea780/MenRosiaMaaElTa7ya.jpg"
-     }],     "prog_name":"رامز تحت الصفر"[{
-          "time":"02:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg"
-     }],     "prog_name":"سك على إخواتك "[{
-          "time":"03:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SokAlaIkhwatak/original/0a36723cd364f5f8c6f16264158fc803cd51e4d7/SokAlaIkhwatak.jpg"
-     }],     "prog_name":"سلسال الدم - الموسم 5"[{
-          "time":"04:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SelsalAlDam/original/c0933de0d991e128fd75012d793e6a772ad150fb/SelsalAlDam.jpg"
-     }],     "prog_name":"مسرح مصر"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2013/july/week3/25-7-2013/35/GRID-MAX1024/THE-HOLIDAY_1024/original/d0f95da17adeaf27555450f2512fe03b90eb55da/THE-HOLIDAY_1024.jpg",
+          "description":"سنة الانتاج:
+        2006
+
+10 يونيو, 2018
+19:30 (السعودية) ~
+                            10 يونيو, 2018
+18:30 (مصر)
+                        (mbc.net) تعمل أماندا
+في مجال صناعة الأفلام وتحقق شهرة كبيرة فيه، بينما تعمل إيريس كمحررة في إحدى الصحف.
+ورغم عدم وجود صلة بين الاثنتين، فإن كلاًّ منهما تتعرض لصدمة عاطفية.
+
+فتكتشف أماندا
+أن صديقها يخونها، بينما تكتشف إيريس أن الشاب الذي تحبه قد تقدم لخطبة فتاة أخرى غيرها.
+
+تشعر إيريس
+بالإحباط فتقرر عرض منزلها للمبادلة، وتنشر إعلانًا على الإنترنت فتراه أماندا المحبطة
+بدورها وتوافق على مبادلة هذا المنزل المتواضع بمنزلها الفخم هربًا من أزمتها العاطفية
+الأخيرة. 
+
+بعد أن تتم
+المبادلة وتستقر كلٌّ منهما في منزلها الجديد، تقابل أماندا شقيق إيريس جراهام وتنجذب
+إليه، في نفس الوقت الذي تقابل فيه إيريس الملحن مايلز وتنجذب إليه بدورها."
+     }],     "prog_name":"Celeste & Jesse Foreve"[{
           "time":"05:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/MasrahMasr/original/dd3e18d8063e5e332f95b648839dc96f60c8b3a1/MasrahMasr.jpg"
-     }],     "prog_name":"الشيف حسن"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/December/28-12-2017/Celeste-and-Jesse-Forever/original/17e5aedac8778f03cc6c0e0191be9929084e76de/Celeste and Jesse Forever.jpg",
+          "description":"سنة الانتاج:
+        2012
+
+10 يونيو, 2018
+18:00 (السعودية) ~
+                            10 يونيو, 2018
+17:00 (مصر)
+                        (mbc.net) تدور قصة الفيلم حول علاقة كل من سيليست وجيسي اللذان كانا أفضل صديقين حيث
+تمتد علاقتهما منذ ان كانا في المدرسة الثانوية، وتكلل علاقتهما بالزواج.
+
+ولكن للأسف وبعد فترة  ينفصلان عن
+بعضهما بالطلاق، ويعتقد أفضل أصدقائهما أنهما لايمكنهما أن يحافظا على صداقتهما طوال
+الوقت بعد انهاء زواجهما.
+
+ومع ذلك لاتعتقد سيليست وجيسي أن هناك مشكلة في ذلك، ولكن هذا قبل أن يدخل جيسي
+ في علاقة جديدة حينها لا تستطيع سيليست التحكم
+في نفسها.
+
+وتجد صعوبة في تطبيق مااعتقدته بالنسبة لجيسي، ترى هل يستمر الاثنان في
+طريقهما؟ أم يكتب لهما القدر أن يجتمعا كحبيبين مرة أخرى؟"
+     }],     "prog_name":"Only You"[{
           "time":"07:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/ChefHassan/original/edee12afdc513ae59975ffb33a8ea9a0435481a3/ChefHassan.jpg"
-     }],     "prog_name":"قانون عمر"[{
-          "time":"08:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QanoonOmar/original/99113e4ce28a15bf65fca01ba2c5bb6cee957a4a/QanoonOmar.jpg"
-     }],     "prog_name":"ممنوع الاقتراب أو التصوير"[{
-          "time":"09:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mammnou3/original/b625641e43abb4a65c4a934b5b743b128208b670/Mammnou3.jpg"
-     }],     "prog_name":"رامز تحت الصفر"[{
-          "time":"10:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg"
-     }],     "prog_name":"خفة يد "[{
-          "time":"11:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/KhefetYad/original/63840bd023acc3b1b9e5fa6dc66ace21848743da/KhefetYad.jpg"
-     }],     "prog_name":"قانون عمر"[{
-          "time":"12:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QanoonOmar/original/99113e4ce28a15bf65fca01ba2c5bb6cee957a4a/QanoonOmar.jpg"
-     }],     "prog_name":"الشيف حسن"[{
-          "time":"13:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/ChefHassan/original/edee12afdc513ae59975ffb33a8ea9a0435481a3/ChefHassan.jpg"
-     }],     "prog_name":"مسرح مصر"[{
-          "time":"14:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/MasrahMasr/original/dd3e18d8063e5e332f95b648839dc96f60c8b3a1/MasrahMasr.jpg"
-     }],     "prog_name":"ممنوع الاقتراب أو التصوير"[{
-          "time":"15:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mammnou3/original/b625641e43abb4a65c4a934b5b743b128208b670/Mammnou3.jpg"
-     }],     "prog_name":"سلسال الدم - الموسم 5"[{
-          "time":"16:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SelsalAlDam/original/c0933de0d991e128fd75012d793e6a772ad150fb/SelsalAlDam.jpg"
-     }],     "prog_name":"سك على إخواتك "[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/April/week-3/18-4-2015/Only-You/original/3a6733613e5ffb593011fce4e43478ec1b4d62cc/Only-You.jpg",
+          "description":"سنة الانتاج:
+        1994
+
+10 يونيو, 2018
+14:30 (السعودية) ~
+                            10 يونيو, 2018
+13:30 (مصر)
+                        (mbc.net) تخبر لعبة  الويجا  الطفلة فايث أنها ستتزوج
+من رجل يُدعى ديمون برادلي، لكن السنين تمر دون أن تلتقي بالأمير المنتظر، ويراوغها
+القدر مرة أخرى حين تخبرها إحدى العرافات بنفس النبوءة.
+
+بعد 15 عاما تعمل فايث مدرسة، وتنسى النبوءة وترتبط
+بطبيب ممل لا تحبه، لكن قبل ليلة الزفاف، تتلقى فايث مكالمة من أحد أصدقاء العريس
+يعتذر عن عدم قدرته على حضور زفافهما لاضطراره السفر إلى إيطاليا، ويدعى دايمون
+برادلي!! 
+
+دون أدنى لحظة تفكير، تترك فايث كل شيء وراءها وتلاحق
+صديق خطيبها في المطار، وتتوجه إلى روما في رحلة مليئة بالأحداث المثيرة، للبحث عن
+زوجها المثالي الذي اختاره القدر لها.
+نجوم الفيلم:"
+     }],     "prog_name":"Rocky Balboa "[{
+          "time":"08:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/home-of-movies/January/ROCKY-BALBOA_XL/original/f50f58534b640ab90c4041ad88ca971faa96b782/ROCKY-BALBOA_XL.jpg",
+          "description":"سنة الانتاج:
+        2006
+
+11 يونيو, 2018
+22:00 (السعودية) ~
+                            11 يونيو, 2018
+21:00 (مصر)
+                        (mbc.net) بعد سنوات طويلة من الغياب يعود الملاكم الشهير روكي
+بالبوا، ولكن هذه المرة بعدما يصبح متقاعدا يعيش حياة هادئة وسط محبيه في فيلادلفيا الذين يتذكرون
+بطولاته.
+
+ولكن عندما يتم تصميم مواجهة افتراضية بالحاسب الآلي
+تجمع روكي ببطل العالم الحالي ماسون ديكسون تنتهي بفوز البطل القديم، يغضب ديكسون
+الذي لا يقبل أن يهزم حتى ولو كانت الهزيمة في مواجهة خيالية.
+
+يعرض ديكسون أن يتم تنظيم المباراة في الواقع، مؤكدا
+قدرته على هزيمة البطل القديم بسهولة، وعلى العكس من المتوقع يفاجِئ روكي الجميع
+بقبول المشاركة في المباراة أمام الملاكم الأسرع والأقوى والأصغر بثلاثين عاما
+كاملة عن البطل المخضرم.
+
+فهل يفوز الملاكم الشاب كما هو متوقع أم يحقق روكي
+المفاجأة؟"
+     }],     "prog_name":"The Boxer"[{
+          "time":"10:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2013/June/Week-1/3-6-2013/The-Boxer/original/0a4bca9145c484c6c6d24d28f6b4d98e16487160/The Boxer.jpg",
+          "description":"سنة الانتاج:
+        1997
+
+11 يونيو, 2018
+20:00 (السعودية) ~
+                            11 يونيو, 2018
+19:00 (مصر)
+                        (mbc.net) بعد خروجه
+من السجن الذي دخله بسبب تورطه مع الجيش الجمهوري الأيرلندي، يقرر داني فلاين أن يعود
+إلى أحياء الطبقة العاملة التي نشأ فيها، واستكمال حياته الرياضية كملاكم، بالإضافة
+لافتتاح نادي ملاكمة يدرب فيه الشباب الراغب في ممارسة الرياضة.
+
+ويقرر داني
+أن يبتعد عن الطائفية، فيجعل ناديه الرياضي مفتوح لكل من الكاثوليك والبروستانت طرفي
+الصراع الطائفي في أيرلندا، وهو التصرف الذي يثير غضب زملاءه القدامى وبالأخص قائدهم
+هاري، الذي يبدأ في استخدام العنف ضد داني.
+
+ويظهر طرف
+آخر للصراع هو والد حبيبته القديمة ماجي، والذي يعاديه ليس فقط بسبب انتماءه للجيش
+الجمهوري، ولكن أيضا لرغبته في إنهاء العلاقة بين داني وابنته. 
+نجوم العمل"
+     }],     "prog_name":"The Mighty Quinn"[{
+          "time":"12:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/April/The-Mighty-Quinn/original/b4f80d2d7a1145055d58732b5e8b107c09253c62/The Mighty Quinn.jpg",
+          "description":"سنة الانتاج:
+        1989
+
+12 يونيو, 2018
+13:30 (السعودية) ~
+                            12 يونيو, 2018
+12:30 (مصر)
+                        (mbc.net) في جزيرة كاريبية صغيرة، يحقق قائد الشرطة كزافييه كوين في جريمة قتل حيث المشتبه
+به الرئيسي هو موبيه، وهو شخص جذاب وصديق طفولة كوين ولكنه مثير للمشاكل.
+
+يلقب كزافييه بـكوين العزيز، فهو شرطي نظيف اليد، ناجح جيد السمعة، لذا
+فإنه عندما يتورط موبيه في جرائم قتل متعددة، وسرقة آلاف الدولارات، ويرتبط اسمه بتلك
+الأعمال، فإنه يتعين عليه تطهير اسمه.
+
+ومحاولة الإمساك بصديقه موبيه حتى يبعد الشبهات عنه، ولكن القضية أثبتت أنها
+أكثر تعقيدًا مما تبدو عليه، ويصبح الأمر غاية في الصعوبة.
+
+رشح الفيلم لجائزة الرابطة الوطنية الأمريكية لتنمية الملونين لأفضل ممثل سينمائي،
+والفيلم من إنتاج إد إلبرت، إم بي ديل."
+     }],     "prog_name":"The Last Castle"[{
+          "time":"14:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2014/february/week-3/22-2-2014/MBC2/THE-LAST-CASTLE_1024/original/ed383ecfc4c26cd83972ec2da120325fc8c9f4d2/THE-LAST-CASTLE_1024.jpg",
+          "description":"سنة الانتاج:
+        2001
+
+12 يونيو, 2018
+15:30 (السعودية) ~
+                            12 يونيو, 2018
+14:30 (مصر)
+                        (mbc.net) يتم
+نقل الجنرال إروين إلى سجن عسكري مشدد الحراسة بسبب عصيانه الأوامر
+خلال إحدى المهام العسكرية، مما يترتب عليه تجريده من منصبه العسكري والزج به في
+السجن.
+
+لا
+يستطيع مأمور السجن الكولونيل وينتر إخفاء إعجابه الشديد بالجنرال المحنك صاحب
+الأوسمة الرفيعة، ورغم إعجابه بالجنرال، إلا أنه يتبع أساليب قاسية من أجل الحفاظ
+على النظام.
+
+وبعد
+قضاء فترة وجيزة بالسجن، يستشعر الجنرال إروين أسلوب وينتر في معاملة السجناء
+بصورة ظالمة، فيقرر
+أن يلقن وينتر درسا لن ينساه من خلال الاستيلاء على قيادة السجن وحرمانه من
+القيادة.
+
+في
+البداية يتعامل وينتر باعتباره مزحة، ولكن سرعان ما تتصاعد حدة العداوة لتتحول إلى
+حرب طاحنة بين الرجلين من أجل السيطرة على زمام الأمور بالسجن."
+     }],     "prog_name":"Cleaner"[{
           "time":"17:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SokAlaIkhwatak/original/0a36723cd364f5f8c6f16264158fc803cd51e4d7/SokAlaIkhwatak.jpg"
-     }],     "prog_name":"الصدمة -الموسم 3"[{
-          "time":"17:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/AlSadma_1024x576/original/220fe5335322ab767049b66c0f9803b8f36432f1/AlSadma_1024x576.jpg"
-     }],     "prog_name":"خفة يد "[{
-          "time":"18:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/KhefetYad/original/63840bd023acc3b1b9e5fa6dc66ace21848743da/KhefetYad.jpg"
-     }],     "prog_name":"رامز تحت الصفر"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2014/june/week-3/16-6-2014/CLEANER/original/9c46cbc2b3b0d28c6f07061b2f50ee19d41b8029/CLEANER.jpg",
+          "description":"سنة الانتاج:
+        2007
+
+12 يونيو, 2018
+18:00 (السعودية) ~
+                            12 يونيو, 2018
+17:00 (مصر)
+                        (mbc.net) يعمل الأب العازب والشرطي
+السابق توم كارفر (صامويل جاكسون) في مهنة غريبة وغير معتادة؛ فالمجرمون يكلفونه بالتوجُّه
+إلى مسارح الجرائم لينظف المكان ويمحو أي أثر به، ليترك المنطقة نظيفة وخالية من أية
+أدلة على ما حدث فيها.
+
+يُستدعَى توم ليؤدي
+عمله في تنظيف مكان بضاحية غنية بالمدينة؛ وذلك بعدما شهد المكان إطلاق نيران وحشيًّا،
+لكنه يكتشف أن مهاراته في عمله قد لا تكون كافية لتمحو هذا القدر الضخم من الأدلة تمامًا،
+فيجد توم نفسه مع الوقت متورطًا في جريمة ضخمة ومضطرًّا إلى الهرب من الشرطة التي تطارده.
+نجوم العمل: "
+     }],     "prog_name":"Entertainment Tonight "[{
+          "time":"18:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2016/may/5-5-2016/Entertainment-tonight/original/737e1685fb90d3d08747e88dbf62c839007d2991/Entertainment-tonight.jpg",
+          "description":""
+     }],     "prog_name":"Spy Game"[{
           "time":"19:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg"
-     }],     "prog_name":"سلسال الدم - الموسم 5"[{
-          "time":"20:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SelsalAlDam/original/c0933de0d991e128fd75012d793e6a772ad150fb/SelsalAlDam.jpg"
-     }],     "prog_name":"سك على إخواتك "[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/September/week-3/13-9-2015/Spy-Game/original/20b100bea5c266303c6282e9af9e1a21431c442a/Spy-Game.jpg",
+          "description":"سنة الانتاج:
+        2001
+
+12 يونيو, 2018
+20:00 (السعودية) ~
+                            12 يونيو, 2018
+19:00 (مصر)
+                        (mbc.net) خلال
+الأيام الأخيرة للحرب الباردة بعد سقوط الاتحاد السوفيتي، يستعد الرئيس الأمريكي
+لزيارة دبلوماسية مهمة للصين. وقبل الزيارة يُقبَض على عميل المخابرات
+الأمريكية توم بيشوب أثناء قيامه بمهمة على الأراضي الصينية، ويتم وضعه في السجن استعداد
+لإعدامه.
+
+يتلخص
+الحل الوحيد في إنقاذه من الإعدام هو أن يتدخل الرئيس شخصيا. ولكن رجال السياسة لا
+يسمحون للأمر بالوصول للرئيس حتى لا يتسبب الأمر في أزمة دبلوماسية. فيقرر عميل
+المخابرات المخضرم ناثان موير أستاذ بيشوب الذي قام بتدريبه أن يتولى الأمر بنفسه.
+
+
+يحاول
+موير إيجاد خطة يتمكن بها من تهريب بيشوب من سجنه، كذلك إيصال الأمر للرئيس قبل
+زيارته للصين. في نفس الوقت الذي يسترجع فيه ذكريات علاقته ببيشوب.نجوم العمل:"
+     }],     "prog_name":"The Master"[{
           "time":"21:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/SokAlaIkhwatak/original/0a36723cd364f5f8c6f16264158fc803cd51e4d7/SokAlaIkhwatak.jpg"
-     }],     "prog_name":"ممنوع الاقتراب أو التصوير"[{
-          "time":"22:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mammnou3/original/b625641e43abb4a65c4a934b5b743b128208b670/Mammnou3.jpg"
-     }],     "prog_name":"مسرح مصر"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/April/7/The-Master/original/76fb9c2d21499d3199ce9ec39fcdc3e9936445da/The-Master.jpg",
+          "description":"سنة الانتاج:
+        2012
+
+12 يونيو, 2018
+22:00 (السعودية) ~
+                            12 يونيو, 2018
+21:00 (مصر)
+                        (mbc.net) يحكي الفيلم قصة
+جندي أمريكي ومحارب قديم في البحرية الأميركية خلال الحرب
+العالمية الثانية وهو يعاني من اضطراب نفسي، فيجد نفسه تائهاً ويدمن الكحول، وينتقل
+من وظيفة إلى أخرى
+
+وفريدي شخصية  تعاني من اضطراب الكرب التالي وهو يحدث لأشخاص يصادفون
+صدمات نفسية عنيفة في مراحل مبكرة في حياتهم، ثم ترتبط الصدمة معهم لوقت طويل.
+
+
+ولكن يتم علاجه بواسطة دكتور لينكاستر بالسفر به عبر الزمن الماضي والمستقبلي
+واكتشاف مناطق الضعف والقوة لديه، ولينكاستر يبشر بدينٍ جديد، وينضم اليه العديد
+من الأفراد.
+
+وفي وسط هذه الإضطرابات لايزال فريدي يبحث عن امرأة يحقق معها كل مايتمناه
+من أحلامه الرومانسية."
+     }],     "prog_name":"Facing Ali "[{
           "time":"23:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/MasrahMasr/original/dd3e18d8063e5e332f95b648839dc96f60c8b3a1/MasrahMasr.jpg"
-     }],     "prog_name":"قانون عمر"[{
-          "time":"00:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QanoonOmar/original/99113e4ce28a15bf65fca01ba2c5bb6cee957a4a/QanoonOmar.jpg"
-     }],     "prog_name":"خفة يد "[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2011/December/2st-week/FACING-ALI_XL/original/967195232591b94caf54ecc980c7078f8281fa8e/FACING-ALI_XL.jpg",
+          "description":"سنة الانتاج:
+        2009
+
+11 يونيو, 2018
+18:00 (السعودية) ~
+                            11 يونيو, 2018
+17:00 (مصر)
+                        (mbc.net) يقوم الفيلم التسجيلي برصد الحياة الرياضية والشخصية والسياسية للملاكم الأشهر
+في التاريخ محمد علي كلاي، ولكن بطريقة مختلفة عن كل أفلام السير الذاتية؛ حيث يعتمد
+الفيلم على تجميع شهادات عدد من نجوم الملاكمة الذين قاموا بمواجهة محمد على كلاي في
+الحلبة في مباريات مهمة للملاكمة معظمها منافسات على لقب بطولة العالم للوزن الثقيل.
+
+وعلى مدار الفيلم يتحدث عدد من أساطير الملاكمة ونجومها القدامى عن خبرتهم مع
+كلاي، وعن أبرز ذكرياتهم خلال مواجهته، ومدى تأثير مواجهته على حياتهم الشخصية.
+
+ومن حديث النجوم الكبار نتعرف على الأبعاد المثيرة والرائعة في حياة الملاكم
+الذي صار رمزا للرياضة بشكل عام.
+نجوم العمل:"
+     }],     "prog_name":"Rocky Balboa "[{
           "time":"01:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/KhefetYad/original/63840bd023acc3b1b9e5fa6dc66ace21848743da/KhefetYad.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/home-of-movies/January/ROCKY-BALBOA_XL/original/f50f58534b640ab90c4041ad88ca971faa96b782/ROCKY-BALBOA_XL.jpg",
+          "description":"سنة الانتاج:
+        2006
+
+11 يونيو, 2018
+22:00 (السعودية) ~
+                            11 يونيو, 2018
+21:00 (مصر)
+                        (mbc.net) بعد سنوات طويلة من الغياب يعود الملاكم الشهير روكي
+بالبوا، ولكن هذه المرة بعدما يصبح متقاعدا يعيش حياة هادئة وسط محبيه في فيلادلفيا الذين يتذكرون
+بطولاته.
+
+ولكن عندما يتم تصميم مواجهة افتراضية بالحاسب الآلي
+تجمع روكي ببطل العالم الحالي ماسون ديكسون تنتهي بفوز البطل القديم، يغضب ديكسون
+الذي لا يقبل أن يهزم حتى ولو كانت الهزيمة في مواجهة خيالية.
+
+يعرض ديكسون أن يتم تنظيم المباراة في الواقع، مؤكدا
+قدرته على هزيمة البطل القديم بسهولة، وعلى العكس من المتوقع يفاجِئ روكي الجميع
+بقبول المشاركة في المباراة أمام الملاكم الأسرع والأقوى والأصغر بثلاثين عاما
+كاملة عن البطل المخضرم.
+
+فهل يفوز الملاكم الشاب كما هو متوقع أم يحقق روكي
+المفاجأة؟"
      }]
 }]
 [{
@@ -209,120 +578,436 @@
      [{
      "prog_name":"فوق السحاب"[{
           "time":"02:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/14/FawqAlsahab_1024x576/original/707c6779c965d6b4f577e70c21fa2f14c296b17a/FawqAlsahab_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/14/FawqAlsahab_1024x576/original/707c6779c965d6b4f577e70c21fa2f14c296b17a/FawqAlsahab_1024x576.jpg",
+          "description":"دراما مصرية تدور في إطار من التشويق والإثارة، حول شاب بسيط على علاقة حب بفتاة، وتضطره الظروف إلى السفر للبحث عن فرصة عمل، ولكنه يجد نفسه متورطَا في عالم المافيا والسلاح وينتهي في أحد السجون الروسية القاسية.. 
+هل تغير هذا الشاب البسيط، وأصبحت الثروة والسلطة هي كل حياته وأحلامه؟.. هذا ما تكشف عنه أحداث المسلسل الذي يقوم ببطولته هاني سلامة، ستيفاني صليبا، إبراهيم نصر، عفاف شعيب، هبة عبد الغني، منى عبد الغني."
      }],     "prog_name":"ربع رومي"[{
           "time":"03:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Rob3_1024x576/original/4ae6d179856de88f79854b99742bdfd04db08800/Rob3_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Rob3_1024x576/original/4ae6d179856de88f79854b99742bdfd04db08800/Rob3_1024x576.jpg",
+          "description":"ربع رومي.. كوميديا البحث عن الهوية
+
+ربع رومي؛ تدور أحداثه في إطار كوميدي، حول شابان مستورا الحال، يحاولا تحقيق النجاح في عملهما والاستقرار، لكن مع البحث عن هذا الاستقرار؛ تحل لعنة على والدهما تمكنه من التحول لحيوان مختلف في كل مرة، فيبدأ الجميع في البحث عن طريقة لكسر تلك اللعنة في جو لا يخلو من الكوميديا.
+مسلسل ربع رومي، يقوم ببطولته النجوم؛ مصطفى خاطر، محمد سلام، بيومي فؤاد، هالة فاخر، إدوارد، كما يشارك في المسلسل مجموعة كبيرة من ضيوف الشرف.
+المسلسل من تأليف؛ مصطفى عمر، فاروق هاشم، تامر إبراهيم، وإخراج؛ معتز التوني."
      }],     "prog_name":"تانغو"[{
           "time":"04:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tango_1024x576/original/55254fbafbea4e2ad387d4e49a17e007b23d4f26/Tango_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tango_1024x576/original/55254fbafbea4e2ad387d4e49a17e007b23d4f26/Tango_1024x576.jpg",
+          "description":"كيف تتعامل مع الحبيب على طريقة التانغو؟.. أربعة أصدقاء يرقصون التانغو ويتحدثون عن الحب. لكل منهم طريقة في التعامل مع الحبيب قد تصل للانتحار. ولكن حبّا محرّمًا يتسلل بينهم، ويجعل الاستمرار بالصداقة أمرًا مستحيلاً، يضع الأبطال الأربعة في دوائر معتمة من الحب والخيانة والرغبة بالانتقام.
+المسلسل يجمع في بطولته الفنانين باسل خياط، باسم مغنية، دانا مرديني، دانييلا رحمة، طلال الجردي، يوسف حداد، سميرة بارودي، أليكو داوود، فرح بيطار وغيرهم، تأليف إياد أبو الشامات، وإخراج رامي حنا. "
      }],     "prog_name":"طريق"[{
           "time":"05:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tareeq-(updated)/original/0d773c857504c8e9af8e5a9eafe2d6522161f287/Tareeq (updated).jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tareeq-(updated)/original/0d773c857504c8e9af8e5a9eafe2d6522161f287/Tareeq (updated).jpg",
+          "description":" طريق .. قصة حب متناقضة
+ طريق  هو دراما مقتبسة عن الرواية الشهيرة  الشريدة  للأديب الكبير نجيب محفوظ تدور أحداثها حول شابة تنتمي إلى عائلة فقيرة.
+الفتاة طموحة تدرس في كلية الحقوق وتمارس مهنة المحاماة وتحلم أن تكمل دراستها لتصبح محامية رفيعة المستوى.
+تمر الأيام وتتزوج الفتاة من الرجل الأمي الثري الذي تتناقض معه في كثير من مناحي الحياة بسبب الفارق الثقافي بينهما والمسلسل بطولة عابد فهد ونادين نسيب نجيم وإخراج رشا شربتجي."
      }],     "prog_name":"فوق السحاب"[{
           "time":"06:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/14/FawqAlsahab_1024x576/original/707c6779c965d6b4f577e70c21fa2f14c296b17a/FawqAlsahab_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/14/FawqAlsahab_1024x576/original/707c6779c965d6b4f577e70c21fa2f14c296b17a/FawqAlsahab_1024x576.jpg",
+          "description":"دراما مصرية تدور في إطار من التشويق والإثارة، حول شاب بسيط على علاقة حب بفتاة، وتضطره الظروف إلى السفر للبحث عن فرصة عمل، ولكنه يجد نفسه متورطَا في عالم المافيا والسلاح وينتهي في أحد السجون الروسية القاسية.. 
+هل تغير هذا الشاب البسيط، وأصبحت الثروة والسلطة هي كل حياته وأحلامه؟.. هذا ما تكشف عنه أحداث المسلسل الذي يقوم ببطولته هاني سلامة، ستيفاني صليبا، إبراهيم نصر، عفاف شعيب، هبة عبد الغني، منى عبد الغني."
      }],     "prog_name":"رسايل"[{
           "time":"07:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Rasayel/original/312887853e3765b6cdf8f04e8ac2360e53c7c4cb/Rasayel.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Rasayel/original/312887853e3765b6cdf8f04e8ac2360e53c7c4cb/Rasayel.jpg",
+          "description":"هل تراودك أحلام في المنام تتحقق في اليوم التالي؟.. مي عز الدين فتاة تستلم رسائلاً ومعلومات من خلال أحلامها في نومها، والتي تتحقق حرفيا عند استيقاظها في اليوم التالي. لكنها تُصعق عندما تحلم أن مرضًا خطيرًا أصاب والدها الذي يقرر الذهاب للعلاج بدونها.. فهل هذه مجرد أحلام.. أم ستتحول لكابوس حقيقي؟..
+المسلسل بطولة مي عز الدين، خالد سليم، أحمد حاتم، رندا البحيري، أحمد خليل، مها أحمد، سليمان عيد، رامز أمير، هشام إسماعيل، وهاجر الشرنوبي."
      }],     "prog_name":"كلبش - الموسم 2"[{
           "time":"08:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Kalabsh2_1024x576/original/7ecb1fbfe6f938697cbd203f5f4c6601a78b8c5b/Kalabsh2_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Kalabsh2_1024x576/original/7ecb1fbfe6f938697cbd203f5f4c6601a78b8c5b/Kalabsh2_1024x576.jpg",
+          "description":"تنطلق أحداث الجزء الثاني من مسلسل  كلبش  بمباشرة سليم التحقيق في قضيّة معقّدة، فيتصدّى لهجوم إرهابي، ويتمكن من القبض على أحد المطلوبين الخطرين، لكن شبكة الإرهاب ستخبئ له مفاجآت غير سارة، يقع ضحيتها أقرب المقربين له، ليبدأ بعدها مشوار الانتقام. 
+وفي سياق الأحداث، تتوسّع دوائر الشر والإرهاب أكثر فأكثر، لتكشف عن وجود حركات إرهابية آتية من ليبيا، وتكشف عن متورطين في التجسس لمصلحة إسرائيل. 
+فهل سيتمكن هذا الضابط من أن يكون لها بالمرصاد لوحده؟ وما هو الثمن الذي سيدفعه؟.. هذا ما تكشفه أحداث الدراما الاجتماعيّة التشويقيّة  كلبش 2  (الفهد)."
      }],     "prog_name":"تانغو"[{
           "time":"09:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tango_1024x576/original/55254fbafbea4e2ad387d4e49a17e007b23d4f26/Tango_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tango_1024x576/original/55254fbafbea4e2ad387d4e49a17e007b23d4f26/Tango_1024x576.jpg",
+          "description":"كيف تتعامل مع الحبيب على طريقة التانغو؟.. أربعة أصدقاء يرقصون التانغو ويتحدثون عن الحب. لكل منهم طريقة في التعامل مع الحبيب قد تصل للانتحار. ولكن حبّا محرّمًا يتسلل بينهم، ويجعل الاستمرار بالصداقة أمرًا مستحيلاً، يضع الأبطال الأربعة في دوائر معتمة من الحب والخيانة والرغبة بالانتقام.
+المسلسل يجمع في بطولته الفنانين باسل خياط، باسم مغنية، دانا مرديني، دانييلا رحمة، طلال الجردي، يوسف حداد، سميرة بارودي، أليكو داوود، فرح بيطار وغيرهم، تأليف إياد أبو الشامات، وإخراج رامي حنا. "
      }],     "prog_name":"طريق"[{
           "time":"10:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tareeq-(updated)/original/0d773c857504c8e9af8e5a9eafe2d6522161f287/Tareeq (updated).jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tareeq-(updated)/original/0d773c857504c8e9af8e5a9eafe2d6522161f287/Tareeq (updated).jpg",
+          "description":" طريق .. قصة حب متناقضة
+ طريق  هو دراما مقتبسة عن الرواية الشهيرة  الشريدة  للأديب الكبير نجيب محفوظ تدور أحداثها حول شابة تنتمي إلى عائلة فقيرة.
+الفتاة طموحة تدرس في كلية الحقوق وتمارس مهنة المحاماة وتحلم أن تكمل دراستها لتصبح محامية رفيعة المستوى.
+تمر الأيام وتتزوج الفتاة من الرجل الأمي الثري الذي تتناقض معه في كثير من مناحي الحياة بسبب الفارق الثقافي بينهما والمسلسل بطولة عابد فهد ونادين نسيب نجيم وإخراج رشا شربتجي."
      }],     "prog_name":"فوق السحاب"[{
           "time":"11:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/14/FawqAlsahab_1024x576/original/707c6779c965d6b4f577e70c21fa2f14c296b17a/FawqAlsahab_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/14/FawqAlsahab_1024x576/original/707c6779c965d6b4f577e70c21fa2f14c296b17a/FawqAlsahab_1024x576.jpg",
+          "description":"دراما مصرية تدور في إطار من التشويق والإثارة، حول شاب بسيط على علاقة حب بفتاة، وتضطره الظروف إلى السفر للبحث عن فرصة عمل، ولكنه يجد نفسه متورطَا في عالم المافيا والسلاح وينتهي في أحد السجون الروسية القاسية.. 
+هل تغير هذا الشاب البسيط، وأصبحت الثروة والسلطة هي كل حياته وأحلامه؟.. هذا ما تكشف عنه أحداث المسلسل الذي يقوم ببطولته هاني سلامة، ستيفاني صليبا، إبراهيم نصر، عفاف شعيب، هبة عبد الغني، منى عبد الغني."
      }],     "prog_name":"كلبش - الموسم 2"[{
           "time":"12:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Kalabsh2_1024x576/original/7ecb1fbfe6f938697cbd203f5f4c6601a78b8c5b/Kalabsh2_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Kalabsh2_1024x576/original/7ecb1fbfe6f938697cbd203f5f4c6601a78b8c5b/Kalabsh2_1024x576.jpg",
+          "description":"تنطلق أحداث الجزء الثاني من مسلسل  كلبش  بمباشرة سليم التحقيق في قضيّة معقّدة، فيتصدّى لهجوم إرهابي، ويتمكن من القبض على أحد المطلوبين الخطرين، لكن شبكة الإرهاب ستخبئ له مفاجآت غير سارة، يقع ضحيتها أقرب المقربين له، ليبدأ بعدها مشوار الانتقام. 
+وفي سياق الأحداث، تتوسّع دوائر الشر والإرهاب أكثر فأكثر، لتكشف عن وجود حركات إرهابية آتية من ليبيا، وتكشف عن متورطين في التجسس لمصلحة إسرائيل. 
+فهل سيتمكن هذا الضابط من أن يكون لها بالمرصاد لوحده؟ وما هو الثمن الذي سيدفعه؟.. هذا ما تكشفه أحداث الدراما الاجتماعيّة التشويقيّة  كلبش 2  (الفهد)."
      }],     "prog_name":"ربع رومي"[{
           "time":"13:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Rob3_1024x576/original/4ae6d179856de88f79854b99742bdfd04db08800/Rob3_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Rob3_1024x576/original/4ae6d179856de88f79854b99742bdfd04db08800/Rob3_1024x576.jpg",
+          "description":"ربع رومي.. كوميديا البحث عن الهوية
+
+ربع رومي؛ تدور أحداثه في إطار كوميدي، حول شابان مستورا الحال، يحاولا تحقيق النجاح في عملهما والاستقرار، لكن مع البحث عن هذا الاستقرار؛ تحل لعنة على والدهما تمكنه من التحول لحيوان مختلف في كل مرة، فيبدأ الجميع في البحث عن طريقة لكسر تلك اللعنة في جو لا يخلو من الكوميديا.
+مسلسل ربع رومي، يقوم ببطولته النجوم؛ مصطفى خاطر، محمد سلام، بيومي فؤاد، هالة فاخر، إدوارد، كما يشارك في المسلسل مجموعة كبيرة من ضيوف الشرف.
+المسلسل من تأليف؛ مصطفى عمر، فاروق هاشم، تامر إبراهيم، وإخراج؛ معتز التوني."
      }],     "prog_name":"رسايل"[{
           "time":"14:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Rasayel/original/312887853e3765b6cdf8f04e8ac2360e53c7c4cb/Rasayel.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Rasayel/original/312887853e3765b6cdf8f04e8ac2360e53c7c4cb/Rasayel.jpg",
+          "description":"هل تراودك أحلام في المنام تتحقق في اليوم التالي؟.. مي عز الدين فتاة تستلم رسائلاً ومعلومات من خلال أحلامها في نومها، والتي تتحقق حرفيا عند استيقاظها في اليوم التالي. لكنها تُصعق عندما تحلم أن مرضًا خطيرًا أصاب والدها الذي يقرر الذهاب للعلاج بدونها.. فهل هذه مجرد أحلام.. أم ستتحول لكابوس حقيقي؟..
+المسلسل بطولة مي عز الدين، خالد سليم، أحمد حاتم، رندا البحيري، أحمد خليل، مها أحمد، سليمان عيد، رامز أمير، هشام إسماعيل، وهاجر الشرنوبي."
      }],     "prog_name":"تانغو"[{
           "time":"15:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tango_1024x576/original/55254fbafbea4e2ad387d4e49a17e007b23d4f26/Tango_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tango_1024x576/original/55254fbafbea4e2ad387d4e49a17e007b23d4f26/Tango_1024x576.jpg",
+          "description":"كيف تتعامل مع الحبيب على طريقة التانغو؟.. أربعة أصدقاء يرقصون التانغو ويتحدثون عن الحب. لكل منهم طريقة في التعامل مع الحبيب قد تصل للانتحار. ولكن حبّا محرّمًا يتسلل بينهم، ويجعل الاستمرار بالصداقة أمرًا مستحيلاً، يضع الأبطال الأربعة في دوائر معتمة من الحب والخيانة والرغبة بالانتقام.
+المسلسل يجمع في بطولته الفنانين باسل خياط، باسم مغنية، دانا مرديني، دانييلا رحمة، طلال الجردي، يوسف حداد، سميرة بارودي، أليكو داوود، فرح بيطار وغيرهم، تأليف إياد أبو الشامات، وإخراج رامي حنا. "
      }],     "prog_name":"طريق"[{
           "time":"16:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tareeq-(updated)/original/0d773c857504c8e9af8e5a9eafe2d6522161f287/Tareeq (updated).jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tareeq-(updated)/original/0d773c857504c8e9af8e5a9eafe2d6522161f287/Tareeq (updated).jpg",
+          "description":" طريق .. قصة حب متناقضة
+ طريق  هو دراما مقتبسة عن الرواية الشهيرة  الشريدة  للأديب الكبير نجيب محفوظ تدور أحداثها حول شابة تنتمي إلى عائلة فقيرة.
+الفتاة طموحة تدرس في كلية الحقوق وتمارس مهنة المحاماة وتحلم أن تكمل دراستها لتصبح محامية رفيعة المستوى.
+تمر الأيام وتتزوج الفتاة من الرجل الأمي الثري الذي تتناقض معه في كثير من مناحي الحياة بسبب الفارق الثقافي بينهما والمسلسل بطولة عابد فهد ونادين نسيب نجيم وإخراج رشا شربتجي."
      }],     "prog_name":"فوق السحاب"[{
           "time":"17:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/14/FawqAlsahab_1024x576/original/707c6779c965d6b4f577e70c21fa2f14c296b17a/FawqAlsahab_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/14/FawqAlsahab_1024x576/original/707c6779c965d6b4f577e70c21fa2f14c296b17a/FawqAlsahab_1024x576.jpg",
+          "description":"دراما مصرية تدور في إطار من التشويق والإثارة، حول شاب بسيط على علاقة حب بفتاة، وتضطره الظروف إلى السفر للبحث عن فرصة عمل، ولكنه يجد نفسه متورطَا في عالم المافيا والسلاح وينتهي في أحد السجون الروسية القاسية.. 
+هل تغير هذا الشاب البسيط، وأصبحت الثروة والسلطة هي كل حياته وأحلامه؟.. هذا ما تكشف عنه أحداث المسلسل الذي يقوم ببطولته هاني سلامة، ستيفاني صليبا، إبراهيم نصر، عفاف شعيب، هبة عبد الغني، منى عبد الغني."
      }],     "prog_name":"ربع رومي"[{
           "time":"18:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Rob3_1024x576/original/4ae6d179856de88f79854b99742bdfd04db08800/Rob3_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Rob3_1024x576/original/4ae6d179856de88f79854b99742bdfd04db08800/Rob3_1024x576.jpg",
+          "description":"ربع رومي.. كوميديا البحث عن الهوية
+
+ربع رومي؛ تدور أحداثه في إطار كوميدي، حول شابان مستورا الحال، يحاولا تحقيق النجاح في عملهما والاستقرار، لكن مع البحث عن هذا الاستقرار؛ تحل لعنة على والدهما تمكنه من التحول لحيوان مختلف في كل مرة، فيبدأ الجميع في البحث عن طريقة لكسر تلك اللعنة في جو لا يخلو من الكوميديا.
+مسلسل ربع رومي، يقوم ببطولته النجوم؛ مصطفى خاطر، محمد سلام، بيومي فؤاد، هالة فاخر، إدوارد، كما يشارك في المسلسل مجموعة كبيرة من ضيوف الشرف.
+المسلسل من تأليف؛ مصطفى عمر، فاروق هاشم، تامر إبراهيم، وإخراج؛ معتز التوني."
      }],     "prog_name":"رسايل"[{
           "time":"19:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Rasayel/original/312887853e3765b6cdf8f04e8ac2360e53c7c4cb/Rasayel.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Rasayel/original/312887853e3765b6cdf8f04e8ac2360e53c7c4cb/Rasayel.jpg",
+          "description":"هل تراودك أحلام في المنام تتحقق في اليوم التالي؟.. مي عز الدين فتاة تستلم رسائلاً ومعلومات من خلال أحلامها في نومها، والتي تتحقق حرفيا عند استيقاظها في اليوم التالي. لكنها تُصعق عندما تحلم أن مرضًا خطيرًا أصاب والدها الذي يقرر الذهاب للعلاج بدونها.. فهل هذه مجرد أحلام.. أم ستتحول لكابوس حقيقي؟..
+المسلسل بطولة مي عز الدين، خالد سليم، أحمد حاتم، رندا البحيري، أحمد خليل، مها أحمد، سليمان عيد، رامز أمير، هشام إسماعيل، وهاجر الشرنوبي."
      }],     "prog_name":"كلبش - الموسم 2"[{
           "time":"20:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Kalabsh2_1024x576/original/7ecb1fbfe6f938697cbd203f5f4c6601a78b8c5b/Kalabsh2_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Kalabsh2_1024x576/original/7ecb1fbfe6f938697cbd203f5f4c6601a78b8c5b/Kalabsh2_1024x576.jpg",
+          "description":"تنطلق أحداث الجزء الثاني من مسلسل  كلبش  بمباشرة سليم التحقيق في قضيّة معقّدة، فيتصدّى لهجوم إرهابي، ويتمكن من القبض على أحد المطلوبين الخطرين، لكن شبكة الإرهاب ستخبئ له مفاجآت غير سارة، يقع ضحيتها أقرب المقربين له، ليبدأ بعدها مشوار الانتقام. 
+وفي سياق الأحداث، تتوسّع دوائر الشر والإرهاب أكثر فأكثر، لتكشف عن وجود حركات إرهابية آتية من ليبيا، وتكشف عن متورطين في التجسس لمصلحة إسرائيل. 
+فهل سيتمكن هذا الضابط من أن يكون لها بالمرصاد لوحده؟ وما هو الثمن الذي سيدفعه؟.. هذا ما تكشفه أحداث الدراما الاجتماعيّة التشويقيّة  كلبش 2  (الفهد)."
      }],     "prog_name":"تانغو"[{
           "time":"21:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tango_1024x576/original/55254fbafbea4e2ad387d4e49a17e007b23d4f26/Tango_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tango_1024x576/original/55254fbafbea4e2ad387d4e49a17e007b23d4f26/Tango_1024x576.jpg",
+          "description":"كيف تتعامل مع الحبيب على طريقة التانغو؟.. أربعة أصدقاء يرقصون التانغو ويتحدثون عن الحب. لكل منهم طريقة في التعامل مع الحبيب قد تصل للانتحار. ولكن حبّا محرّمًا يتسلل بينهم، ويجعل الاستمرار بالصداقة أمرًا مستحيلاً، يضع الأبطال الأربعة في دوائر معتمة من الحب والخيانة والرغبة بالانتقام.
+المسلسل يجمع في بطولته الفنانين باسل خياط، باسم مغنية، دانا مرديني، دانييلا رحمة، طلال الجردي، يوسف حداد، سميرة بارودي، أليكو داوود، فرح بيطار وغيرهم، تأليف إياد أبو الشامات، وإخراج رامي حنا. "
      }],     "prog_name":"ربع رومي"[{
           "time":"22:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Rob3_1024x576/original/4ae6d179856de88f79854b99742bdfd04db08800/Rob3_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Rob3_1024x576/original/4ae6d179856de88f79854b99742bdfd04db08800/Rob3_1024x576.jpg",
+          "description":"ربع رومي.. كوميديا البحث عن الهوية
+
+ربع رومي؛ تدور أحداثه في إطار كوميدي، حول شابان مستورا الحال، يحاولا تحقيق النجاح في عملهما والاستقرار، لكن مع البحث عن هذا الاستقرار؛ تحل لعنة على والدهما تمكنه من التحول لحيوان مختلف في كل مرة، فيبدأ الجميع في البحث عن طريقة لكسر تلك اللعنة في جو لا يخلو من الكوميديا.
+مسلسل ربع رومي، يقوم ببطولته النجوم؛ مصطفى خاطر، محمد سلام، بيومي فؤاد، هالة فاخر، إدوارد، كما يشارك في المسلسل مجموعة كبيرة من ضيوف الشرف.
+المسلسل من تأليف؛ مصطفى عمر، فاروق هاشم، تامر إبراهيم، وإخراج؛ معتز التوني."
      }],     "prog_name":"كلبش - الموسم 2"[{
           "time":"23:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Kalabsh2_1024x576/original/7ecb1fbfe6f938697cbd203f5f4c6601a78b8c5b/Kalabsh2_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Kalabsh2_1024x576/original/7ecb1fbfe6f938697cbd203f5f4c6601a78b8c5b/Kalabsh2_1024x576.jpg",
+          "description":"تنطلق أحداث الجزء الثاني من مسلسل  كلبش  بمباشرة سليم التحقيق في قضيّة معقّدة، فيتصدّى لهجوم إرهابي، ويتمكن من القبض على أحد المطلوبين الخطرين، لكن شبكة الإرهاب ستخبئ له مفاجآت غير سارة، يقع ضحيتها أقرب المقربين له، ليبدأ بعدها مشوار الانتقام. 
+وفي سياق الأحداث، تتوسّع دوائر الشر والإرهاب أكثر فأكثر، لتكشف عن وجود حركات إرهابية آتية من ليبيا، وتكشف عن متورطين في التجسس لمصلحة إسرائيل. 
+فهل سيتمكن هذا الضابط من أن يكون لها بالمرصاد لوحده؟ وما هو الثمن الذي سيدفعه؟.. هذا ما تكشفه أحداث الدراما الاجتماعيّة التشويقيّة  كلبش 2  (الفهد)."
      }],     "prog_name":"طريق"[{
           "time":"00:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tareeq-(updated)/original/0d773c857504c8e9af8e5a9eafe2d6522161f287/Tareeq (updated).jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Tareeq-(updated)/original/0d773c857504c8e9af8e5a9eafe2d6522161f287/Tareeq (updated).jpg",
+          "description":" طريق .. قصة حب متناقضة
+ طريق  هو دراما مقتبسة عن الرواية الشهيرة  الشريدة  للأديب الكبير نجيب محفوظ تدور أحداثها حول شابة تنتمي إلى عائلة فقيرة.
+الفتاة طموحة تدرس في كلية الحقوق وتمارس مهنة المحاماة وتحلم أن تكمل دراستها لتصبح محامية رفيعة المستوى.
+تمر الأيام وتتزوج الفتاة من الرجل الأمي الثري الذي تتناقض معه في كثير من مناحي الحياة بسبب الفارق الثقافي بينهما والمسلسل بطولة عابد فهد ونادين نسيب نجيم وإخراج رشا شربتجي."
      }],     "prog_name":"رسايل"[{
           "time":"01:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Rasayel/original/312887853e3765b6cdf8f04e8ac2360e53c7c4cb/Rasayel.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/Rasayel/original/312887853e3765b6cdf8f04e8ac2360e53c7c4cb/Rasayel.jpg",
+          "description":"هل تراودك أحلام في المنام تتحقق في اليوم التالي؟.. مي عز الدين فتاة تستلم رسائلاً ومعلومات من خلال أحلامها في نومها، والتي تتحقق حرفيا عند استيقاظها في اليوم التالي. لكنها تُصعق عندما تحلم أن مرضًا خطيرًا أصاب والدها الذي يقرر الذهاب للعلاج بدونها.. فهل هذه مجرد أحلام.. أم ستتحول لكابوس حقيقي؟..
+المسلسل بطولة مي عز الدين، خالد سليم، أحمد حاتم، رندا البحيري، أحمد خليل، مها أحمد، سليمان عيد، رامز أمير، هشام إسماعيل، وهاجر الشرنوبي."
      }]
 }]
 [{
  "mbc-2":
      [{
-     "prog_name":"Star Trek"[{
-          "time":"02:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/January/week-1/2-1-2015/Star-Trek_1024/original/696c0dfa34bf00ba9968217f1f4036e3f727b661/Star-Trek_1024.jpg"
-     }],     "prog_name":"28 Weeks Later"[{
-          "time":"04:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2013/August/week-3/23-8-2013/max/28-WEEKS-LATER_1024/original/47704e45467883b218b7cdb483aea92df7230408/28-WEEKS-LATER_1024.jpg"
-     }],     "prog_name":"Working Girl"[{
-          "time":"06:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2013/August/week-3/23-8-2013/max/WORKING-GIRL_1024/original/41bdbdf08aeb9802194950ff6e3e1b7328aae655/WORKING-GIRL_1024.jpg"
-     }],     "prog_name":"Fred: The Movie"[{
-          "time":"08:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/June/Week-1/5-6-2015/ch2/original/95fbef4f6ad86dc14ac441c74003663b89b34153/ch2.jpg"
-     }],     "prog_name":"Forgetting Sarah Marshall"[{
-          "time":"10:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2013/December/week-3/19-12-2013/mbc2/FORGETTING-SARAH-MARSHALL_1024/original/b513043b5a101cf656ec8c762db497f9bd4d54f0/FORGETTING-SARAH-MARSHALL_1024.jpg"
-     }],     "prog_name":"The Devil Wears Prada "[{
-          "time":"12:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2013/july/week3/25-7-2013/35/GRID-MAX1024/THE-DEVIL-WEARS-PRADA_1024/original/a04c71bff050447cc61ddfae8b0a499c2b270172/THE-DEVIL-WEARS-PRADA_1024.jpg"
-     }],     "prog_name":"Chef"[{
+     "prog_name":"Lonely Hearts"[{
+          "time":"03:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2012/May/week03/untitled0/133_XL/original/666bb784f336baba9b181765f85133fe768b89ae/133_XL.jpg",
+          "description":"سنة الانتاج:
+        2006
+
+12 يونيو, 2018
+04:00 (السعودية) ~
+                            12 يونيو, 2018
+03:00 (مصر)
+                        (mbc.net) قصة حقيقية
+مخيفة حدثت خلال الأربعينيات، عن رايموند فيرنانديز ومارتا بيك اللذان تم اتهامها بارتكاب
+العديد من جرائم القتل باستخدام طريقة خداع غريبة.
+
+فكان الحبيبان
+ينشران اعلانات في الصحف تصف رايموند بأنه  رجل لاتيني مثير  يبحث عن صديقة،
+وعندما تستجيب امرأة تكون في الأغلب أرملة أو عانس، فيقومان بقتلها وسرقة أموالها وسط
+استمتاع غريب بالجنس الملوث بالدماء.
+
+
+والغريب
+أن التعارف بين الحبيبين كان من المفترض أن ينتهي بجريمة قتل أخرى لولا وقوعهما في
+الحب الذي استمر حتى عندما تم القبض عليهما واعترفا بارتكاب 12 جريمة قتل، فكانا يقفان
+في قفص الاتهام أثناء المحاكمة في حالة من الحب وهم يمسكان أيادي بعضهما البعض
+نجوم العمل:"
+     }],     "prog_name":"Beautiful Creatures"[{
+          "time":"04:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/May/week-3/18-5-2015/Beautiful-Creatures/original/ab283feef1dc1989baad280b8202be7a8708518b/Beautiful Creatures.jpg",
+          "description":"سنة الانتاج:
+        2013
+
+10 يونيو, 2018
+21:30 (السعودية) ~
+                            10 يونيو, 2018
+20:30 (مصر)
+                        (mbc.net) يسعى المراهق إيثان وايت جاهداً إلى إتمام دراسته الثانوية
+و الذهاب إلى الجامعة, حتى يترك مدينة جاتلين الصغيرة بساوث كارولينا.
+
+ وتبدأ فتاة غامضة
+بالظهور فى أحلامه، تلتحق لينا بمدرسة إيثان الثانوية, و يتضح أنها الفتاة التى يراها
+فى أحلامه، يتجنب الطلاب لينا لعلمهم بأنها حفيدة رافينوود عابد الشياطين.
+
+ لا يأبه إيثان لذلك
+و يقعا فى حب بعضهما، تخبره لينا بأنها ساحرة, و أنه فى عيد مولدها السادس عشر سيعلن
+إن كانت تنتمى إلى قوى النور أو الظلام.
+
+ يزداد الأمر سوءاً
+عندما تقوم والدة لينا الشريرة ساسرفين بإطلاق تعويذات لدفع لينا إلى الظلام فهل يتمكن
+إيثان و لينا من إنقاذ حبهما؟"
+     }],     "prog_name":"The Mummy"[{
+          "time":"06:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2014/january/week-3/21-1-2014/grid/THE MUMMY/original/d9a62c2d96352b58e17a9e23116f58ba54cd8375/THE MUMMY.jpg",
+          "description":"سنة الانتاج:
+        1999
+
+11 يونيو, 2018
+17:00 (السعودية) ~
+                            11 يونيو, 2018
+16:00 (مصر)
+                        (mbc.net) إيفي
+(ريتشل ويز) هي أمينة مكتبة إنجليزية تبدأ في الإهتمام بالتنقيب عن الآثار في مدينة
+هامونابترا المصرية القديمة، وتتمكن من الحصول على مساعدة ريك (بريندان فرازر) بعد
+إنقاذها لحياته.
+
+تنطلق
+إيفي مع ريك وشقيقها إلى المدينة القديمة ليبدأوا في عملية التنقيب وهم لا يعرفون
+بإن مجموعة أخرى من المستكشفين في طريقها أيضا للبحث عن نفس الآثار.
+
+ولكن
+لسوء الحظ، تقوم مجموعة المستكشفين الأخرى عن طريق الخطأ بإطلاق العنان للعنة
+قاتلة وضعت على مومياء الكاهن الأعلى إمحوتب. 
+
+تعود
+مومياء الكاهن إلى الحياة لتبدأ في قتل الجميع ويكتشفون إنها في حاجة لما هو أكبر
+من البنادق لإرسالها إلى العالم الآخر مرة أخرى."
+     }],     "prog_name":"The Mummy Returns"[{
+          "time":"08:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2014/january/week-3/21-1-2014/grid/THE MUMMY RETURNS/original/736ada72c136b342c69e93d5bd625366db9a8a4b/THE MUMMY RETURNS.jpg",
+          "description":"سنة الانتاج:
+        2001
+
+11 يونيو, 2018
+19:00 (السعودية) ~
+                            11 يونيو, 2018
+18:00 (مصر)
+                        (mbc.net) منذ
+سنوات بعيدة في مصر القديمة، قام الملك العقرب بقيادة جيشه المهول لتحقيق العديد
+من الإنتصارات، لكنه يبيع روحه لأنوبيس فيتم محوه من التاريخ ويتحول لمجرد أسطورة.
+
+وفي
+الوقت الحاضر، لا يزال ريك (بريندان فريزر) وإيفيلين (ريتشل ويز) يحاولان إكتشاف
+القطع الأثرية الجديدة جنبا إلى جنب مع إبنهما أليكس البالغ من العمر 8 سنوات.
+
+ينجح
+ريك وإيفلين في إكتشاف سوار أنوبيس، لكنهما يكتشفان فيما بعد إن الكاهن إيمحوتب
+عاد مرة أخرى من الموت ويبحث عن السوار ليتمكن من السيطرة على جيوش الملك العقرب.
+
+يقوم
+إيمحوتب بخطف أليكس ويدفعه إلى إرتداء السوار، فيسرع ريك وإيفيلين لإنقاذ إبنهما
+قبل أن يقضي السوار على حياته. "
+     }],     "prog_name":"The Mummy: Tomb of the Dragon Emperor"[{
+          "time":"10:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2014/january/week-3/21-1-2014/grid/THE MUMMY TOMB OF THE DRAGON EMPEROR/original/da2eead5900d014a6d65d10e63b162ba58d74ffc/THE MUMMY TOMB OF THE DRAGON EMPEROR.jpg",
+          "description":"سنة الانتاج:
+        2008
+
+11 يونيو, 2018
+21:00 (السعودية) ~
+                            11 يونيو, 2018
+20:00 (مصر)
+                        (mbc.net) الجزء
+الثالث من سلسلة المومياء الشهيرة، ولكن بطله هذه المرة هو أليكس أوكونور، ابن
+مقاتل المومياوات الشهير ريك أوكونور وزوجته إيفي، والذي أصبح مراهقا يريد إعادته
+أسطورة والده.
+
+يقوم
+أليكس باكتشاف مقبرة الإمبراطور هان أول إمبراطور في تاريخ الصين، ليضطر والدته
+ووالدته للسفر إلى الصين التي قام جنرال شرير فيها باستخدام السحر لإعادة إحياء
+مومياء الإمبراطور، والتي تعاني من لعنة قديمة تجعلها قادرة على تغيير شكلها.
+
+وبينما
+تبدأ مومياء الإمبراطور في تجميع جيشها المخيف من أجل غزو العالم، يبدأ مقاتلا
+المومياوات الشهيرين وابنهما المراهق في التصدي لهذا الخطر المرعب القادم من أعماق الماضي.نجوم العمل:"
+     }],     "prog_name":"Shorts"[{
+          "time":"12:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/Grid/2016/march/18-3-2016/Shorts/original/98e94182f51e5de93c7b0e3a41ec8ae34e8ff88d/Shorts.jpg",
+          "description":"سنة الانتاج:
+        2009
+
+11 يونيو, 2018
+09:00 (السعودية) ~
+                            11 يونيو, 2018
+08:00 (مصر)
+                        (mbc.net)  عالم من الخيال، يأخذنا الى عالم علاء الدين والمصباح السحري، حيث يكتشف صبي صغير الصخرة الملونة بلون قوس قزح التي
+تسمى بصخرة الأمنيات، وذلك في ضواحي مدينة الشلالات السوداء، وهذا الإكتشاف يسبب
+فوضى عارمة بالمدينة.
+
+حيث يصطدم رأسه بحجر
+لونه لون قوس قزح الذي يحقق أمنيات كل من يمتلكه، مما يثير لدى أطفال المدينة
+الغيرة، ويحرك كيد الكبار على حد سواء، فالكل يتمنى وضع يده عليهليحقق امنياته.
+
+يدور الفيلم في جو
+كوميدي خيالي، وهو من اخراج  وكتابة روبرت رودريجز،
+بلغت تكلفة انتاج الفيلم 40 مليون دولار، وحقق أرباحا بلغت 20 مليون دولار.
+نجوم العمل: "
+     }],     "prog_name":"Seventh Son"[{
           "time":"14:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/September-/19_9_2017/grid/Chef/original/d679d845c894156ee2a999fd5925246573688bae/Chef.jpg"
-     }],     "prog_name":"The Last Legion"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/July/20-7-2017/Grid/Seventh-Son/original/272f1d10c4b292fe08d48421618d9eb03b467ab4/Seventh-Son.jpg",
+          "description":"سنة الانتاج:
+        2014
+
+11 يونيو, 2018
+23:00 (السعودية) ~
+                            11 يونيو, 2018
+22:00 (مصر)
+                        (mbc.net) جون جريجوري، هو الإبن السابع للإبن السابع، الذي يحاول حماية مملكته من
+الأشرار والغيلان والسحرة وجميع كائنات الليل وحروب الشر المنتظرة.
+
+وهو الذى قام بسجن الساحرة القوية الحاقدة الأم مالكين قبل سنوات عديدة، لكنها
+تهرب وتسعى إلى الانتقام.
+
+مع ذلك فإن جون لا يمتلك الشباب الذي يمكنه من الوقوف وحده في مثل هذه
+الحروب، لذا فإنه يبحث عن متدرب قادرعلى مواصلة تجاربه، وقد فشل معظمهم في البقاء على
+قيد الحياة. 
+
+ولكن الأمل الأخير هو ابن مزارع شاب يدعى توماس وارد، ليشرع معه في مغامرة قتالية
+شائكة لقهر ملكة الظلام الأم مالكين، وجيشها الخارق من القتلة الذين أرسلتهم لمواجهتهم
+."
+     }],     "prog_name":"Entertainment Tonight "[{
+          "time":"15:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2016/may/5-5-2016/Entertainment-tonight/original/737e1685fb90d3d08747e88dbf62c839007d2991/Entertainment-tonight.jpg",
+          "description":""
+     }],     "prog_name":"The Hitchhiker's Guide to the Galaxy"[{
           "time":"16:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2013/july/week3/25-7-2013/35/GRID-MAX1024/THE-LAST-LEGION_1024/original/8d2069fe6de3decabfae95f6ebab39aef30c4eed/THE-LAST-LEGION_1024.jpg"
-     }],     "prog_name":"47 Ronin"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/march/9_3/The-Hitchhiker-s-Guide-to-the-Galaxy/original/17c53b87ccb74ed370c02bffdb85145b4182a291/The Hitchhiker's Guide to the Galaxy.png",
+          "description":"سنة الانتاج:
+        2005
+
+12 يونيو, 2018
+17:00 (السعودية) ~
+                            12 يونيو, 2018
+16:00 (مصر)
+                        (mbc.net) الجميع قد تحدث له
+أشياء سيئة في الصباح، فقد يستيقظ الإنسان متأخراً، وقد يحترق منه الخبز أثناء إعداه
+الإفطار، ولكن بالنسبة لرجل يدعى آرثر دنت فإن سوء الحظ يذهب به إلى
+ما هو أبعد من أن يكون يومه سيئاً.
+
+وذلك عندما يعلم أن صديق له، هو في الواقع كائن غريب على علم مسبق بالتدمير
+الوشيك للأرض، لذا يتم نقل الرجل المغامر آرثر دنت خارج كوكب الأرض عن طريق صديقه فورد
+بيرفكت، وهو الباحث الذي يكتب طبعة جديدة من  دليل هايتشكر إلى المجرة .
+
+يحدث ذلك قبل ثوان من انفجار الأرض، لإفساح المجال لطريق سريع جديد، ولو لم
+يكن ذلك كافياً فسيطلبون المعاونة من شرطة الأرض الثانية.
+
+بلغت ميزانية الفيلم 50 مليون دولار أمريكي، والفيلم يستند الى رواية بنفس
+الإسم  دليل المسافر إلى المجرة ."
+     }],     "prog_name":"The Weather Man"[{
           "time":"18:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2016/September/Week-3/19-09-2016/2nd/47-Ronin/original/b7d96504ed5037506ceee42d73432114068381fa/47 Ronin.jpg"
-     }],     "prog_name":"Scoop with Raya"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/January/week-3/19-1-2015/The-Weather-Man_1024/original/620823aae65ddb5b50c03a0c33888cd807fe65b9/The Weather Man_1024.jpg",
+          "description":"سنة الانتاج:
+        2005
+
+12 يونيو, 2018
+19:00 (السعودية) ~
+                            12 يونيو, 2018
+18:00 (مصر)
+                        (mbc.net) ديف سبريتزل مذيع
+النشرة الجوية بأحد أهم البرامج الإخبارية الصباحية وأكثرها شعبيةً في شيكاغو. وعلى
+الرغم من مركزه المرموق وراتبه الكبير، لكنه يعاني كثيرًا في حياته الشخصية.
+
+فوالده يعاني مؤخرًا
+مشكلات صحية كثيرة قد تقضي عليه، وزوجته انفصل عنها مؤخرًا. وأبناؤه يعانون مشاكل
+واضحة في السلوك.
+
+وعلى الرغم من أن
+الجهود التي يبذلها ديفيد للتقرب من ولديه وحمايتهما، فإن النتيجة تكون دائمًا هي
+الفشل.
+
+وبالمثل، فإن زواجه
+يتضمن أخطاء ملموسة كثيرة تكشف عن نفسها بأسلوب مثير، فهل يتمكن ديف من جعل حياته
+الشخصية سعيدة ومليئة بالمرح مثل حياته المهنية؟."
+     }],     "prog_name":"No Escape"[{
           "time":"20:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/October/5-10-2017/GRID/Scoop/original/29f94c07e1033dc7e8f4cdb479184359ac996d77/Scoop.jpg"
-     }],     "prog_name":"Outcast"[{
-          "time":"20:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/January/28-1-2018/OUTCAST/original/977e2d19f10bde5243d83b824f3e405c574fe096/OUTCAST.jpg"
-     }],     "prog_name":"Pompeii"[{
-          "time":"22:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/august/27-8-2017/Pompeii/original/233a3364346b9e5d1a4751d6051f364192baf1ea/Pompeii.jpg"
-     }],     "prog_name":"Dream House"[{
-          "time":"00:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/October/21-10-2017/Dream-House/original/b858ecdb994193e004132987e74f6206caf1ebc5/Dream-House.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/April/16/No-Escape/original/f7429fb0c70c4281c9e723e91897911d9aea8c7b/No Escape.jpg",
+          "description":"سنة الانتاج:
+        2015
+
+12 يونيو, 2018
+21:00 (السعودية) ~
+                            12 يونيو, 2018
+20:00 (مصر)
+                        (mbc.net) عندما بحصل جاك على فرصة للإنتقال إلى جنوب شرق آسيا ليدير مصنع الشركة الجديد
+لتصنيع المياه هناك، يتمسك بها فوراً وينتقل هو وعائلته إلى هناك.
+
+وعندما يصلون إلى هناك يبدو أنهم  سيواجهون
+العديد من المشاكل،  حيث أن الإلكترونيات لا
+تعمل ونادرا ما يشاهدون أي سيارات تسير في الشوارع.
+
+ وعندما يذهب جاك إلى السوق في صباح
+اليوم التالي، يجد نفسه وسط تمرد عنيف يرأسه متمردون مسلحون يقومون بإعدام الأجانب.
+
+
+لذا يجب على جاك العودة إلى الفندق، وبمساعدة  سائح  بريطاني غامض
+لابد من اللجوء هو وعائلته إلى السفارة الأمريكية في خضم هذه الفوضى المرعبة، ترى
+ماذا ينتظر هذه العائلة؟"
+     }],     "prog_name":"The Grey"[{
+          "time":"22:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/march/27-3/The-Grey-/original/42140d25035a2db2810a4005cd34623e366b2fc3/The Grey .jpg",
+          "description":" "
+     }],     "prog_name":"The Purge "[{
+          "time":"00:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2016/December/week-2/17-12-2016/The-Purge/original/1bca36ccc143f3d4b9c872f3a37b8c385e36f7bf/The-Purge.jpg",
+          "description":"سنة الانتاج:
+        2013
+
+13 يونيو, 2018
+01:00 (السعودية) ~
+                            13 يونيو, 2018
+00:00 (مصر)
+                        (mbc.net) تدور الأحداث في عام 2022  في أميركا، التي تصبح تقريباً خالية من البطالة والجريمة، وهذا بفضل يوم واحد سنويًا تسمح فيه الحكومة بجميع الأنشطة الإجرامية في ليلة لمدة 12 ساعة. وتشمل الجرائم القتل والإغتصاب والتعذيب دون حساب، فلا يمكن في تلك الفترة أن تستنجد بالشرطة، ولا أن تطلب الإسعاف فجميع المستشفيات تعلق المساعدة. إنها ليلة واحدة.يجد المواطنون فيها أنفسهم يقومون بما يريدون من دون التفكير في العقاب أو انتظار الحساب، في هذه الليلة التي تعاني من وباء العنف والجريمةتوجد عائلة واحدة لاتقتنع وتتصارع مع هذا القرار، ويفكرون ما الذي سوف يصبحون عليه عندما يأتي شخص غريب يطرق الباب."
+     }],     "prog_name":"Dracula Untold "[{
+          "time":"01:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/august/25_8_2017/DRACULA-UNTOLD/original/f873d42b111362ecfb947607e32dbbb66f7cae8e/DRACULA-UNTOLD.jpg",
+          "description":"سنة الانتاج:
+        2014
+
+12 يونيو, 2018
+01:00 (السعودية) ~
+                            12 يونيو, 2018
+00:00 (مصر)
+                        (mbc.net) في مطلع القرن كان
+الأمير فلاد تيبس وعائلته يعيشون حياة سلمية حاكماً مملكته
+الصغيرة، ولكن عندما يطلب أمير الحرب التركي محمد الفاتح من فلاد ألف صبي وابنه لإنشاء
+جيش.
+
+عندها يعيش الأمير مجموعة من المآسي والمخاطر، محاولا إنقاذ زوجته وابنته ومملكته
+من بطش السلطان الغائر.
+
+ويحاول البحث عن قوى غير طبيعية تمنحه قوة جبارة يستطيع من خلالها الذود عن
+مملكته ورد كيد الأعداء.
+
+فيمارس طقوسًا تزيد قوته ليكتسب قوة مصاص دماءٍ ويعيش داخل جبل، وذلك عن طريق
+شرب دمائه، فيتحقق له مايريد ويصبح مصاص دماءٍ يتحول إلى دراكولا. "
      }]
 }]
 [{
@@ -330,64 +1015,190 @@
      [{
      "prog_name":"The Great Indian Global Kitchen"[{
           "time":"02:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/THE-GREAT-INDIAN-GLOBAL-KITCHEN/original/71b27da9aa29c318e33554fb3025a09fa5979c64/THE GREAT INDIAN GLOBAL KITCHEN.jpg"
-     }],     "prog_name":"Koffee with Karan- الموسم 5"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/THE-GREAT-INDIAN-GLOBAL-KITCHEN/original/71b27da9aa29c318e33554fb3025a09fa5979c64/THE GREAT INDIAN GLOBAL KITCHEN.jpg",
+          "description":"برنامج طبخ هندي، لا يكتفي بتعليم الجماهير قواعد الطهو الرئيسية حول كيفية تحضير الطعام، إنما يساعد المشاهد على تعلّم المعلومات الأساسية لتذوق ألذ وأشهى الأطعمة الرائعة.
+يلبي البرنامج احتياجات النساء، الرجال والشباب الذين يهتمون بعالم الطبخ والأطعمة، ويتميز بأنه يجمع بين الأسلوب التعليمي المسلي وأسلوب المنافسة الترفيهي، ومن خلاله يمكن بسهولة لعشاق الطبخ تعلم وصفات جديدة تجمع ما بين الأسلوب الغربي والأسلوب الهندي الأصيل."
+     }],     "prog_name":"BFFs Couch-الموسم 1"[{
           "time":"03:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/August/week-02/9-8-2015/Koffee_1024x576/original/518e290eaca068cab50934b3dac8949c8c41fa9c/Koffee_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/videos-2017/January/Week-2/12-1-2017/343/original/2f9bdbca90bc8469d1892e047c7c0b6b23dfa4a4/343.jpg",
+          "description":" "
      }],     "prog_name":"الحب المنتظر"[{
           "time":"04:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/AlHobAlMontathar/original/d90b8432bb15fa0f1a77fe776b5e0a1d8fde3c2c/AlHobAlMontathar.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/AlHobAlMontathar/original/d90b8432bb15fa0f1a77fe776b5e0a1d8fde3c2c/AlHobAlMontathar.jpg",
+          "description":"بالنسبة للكثيرين كاميني ماذور هي أيقونة بوليوود في ذروة مسيرتها، لكنها في الواقع فتاة بسيطة تناضل من أجل العثور على الرجل المناسب من بين الرجال المحيطين بها والذين لا يجذبهم فيها سوى شهرتها وجمالها."
      }],     "prog_name":"هوس مايا"[{
           "time":"04:45",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/December/16-12-2017/Hawas-MAYA-S1/original/2a15186a8d782ae580f078f512d60c917de6ded8/Hawas MAYA S1.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/December/16-12-2017/Hawas-MAYA-S1/original/2a15186a8d782ae580f078f512d60c917de6ded8/Hawas MAYA S1.jpg",
+          "description":"تدور أحداث قصة المسلسل حول مثلث الحب الذي يجمع مايا سيده أعمال ومليونيرة تمتلك شركه للموضة، أرجون الذي يعمل في مجال التصوير الفوتوغرافي وسانجاه والتي تعمل كمحاميه تحت التمرين.
+مايا تعاني من ماضي رومانسي أليم يجعلها تعاني نفسياً عندما تتذكره، لهذا تسعي دائماً إلى عدم أظهارة أمام الجميع، ولكنها تلتقي بأرجون وتقع في حبه، ولكن مايا تجهل بأن سانجاه تقع في حب أرجون أيضاً، فهل ستترك لها هذه الفرصة؟
+شارك في بطولة هذا المسلسل  جينيفر وينجت ،   كوشال تاندون  و  أنيري فاجاني ، والمسلسل من تأليف وإخراج  براتيك شارما .
+تم عرض هذا المسلسل على مواقع الأنترنت خلال عام 2016، وتبلغ عدد حلقاته نحو 273 حلقة.
+المسلسل حصل على جائزة أفضل ممثل وممثلة لعام 2017 عن مهرجان Lions Gold Awards، GARV Indian Television Awards، Indian Television Academy Awards و SBAS Telebrations."
      }],     "prog_name":"العمر الضائع"[{
           "time":"05:45",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/April/week-02/12-4-2017/ALOMRALDAEA_GridImage/original/5c96efe3d1967c144af92bed08a1152d3ad5591a/ALOMRALDAEA_GridImage.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/April/week-02/12-4-2017/ALOMRALDAEA_GridImage/original/5c96efe3d1967c144af92bed08a1152d3ad5591a/ALOMRALDAEA_GridImage.jpg",
+          "description":"قد تمضي سنوات بأكملها مع أشخاص تظن أنك تعرفهم جيدًا، ولكن تبقى عينيك مُغلقة على الكثير من الأسرار التي لا تعرفها عنهم، ثم يأتي حدث صغير يريك أرواحًا مختلفة لأشخاص تكتشف أنك لم تعرفهم أبدًا.
+يروي مسلسل  العمر الضائع  قصة زوجين يخوضا سويًا طريقًا جديدًا بعد انفصالهما، يقودهما إلى اكتشاف جوانب جديدة من شخصيتيهما لم يرونها جيدًا طيلة تلك السنوات التي عاشاها معًا، وذلك عندما يتعرض زواج ابنتهما لأزمة كبيرة. 
+مسلسل العمر الضائع أنتج عام 2015. بطولة: رونيت روي، بالافي كولكاراني، أشويني كالسكار، أفيناش مخرجي، روهان شاه. وتأليف: نيفيتيتا باسو، وفيبول ميهتا. وإخراج: أنيل كومار والعديد من المخرجين الآخرين."
      }],     "prog_name":"وجوه الحب-الموسم 1"[{
           "time":"06:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/January/week-1/2-1-2017/MBCB_WAJOUH-AL-HOB-S1_grid-image_Rida/original/f24582a7b29b111361312a4068d46354a84173b9/MBCB_WAJOUH-AL-HOB-S1_grid-image_Rida.jpg"
-     }],     "prog_name":"منتهى العشق"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/January/week-1/2-1-2017/MBCB_WAJOUH-AL-HOB-S1_grid-image_Rida/original/f24582a7b29b111361312a4068d46354a84173b9/MBCB_WAJOUH-AL-HOB-S1_grid-image_Rida.jpg",
+          "description":"المسلسل الهندي  وجوه الحب  دراما اجتماعية رومانسية تسلط الضوء على التحديات الاجتماعية التي تواجه انصهار الطبقات الاجتماعية، من خلال قصة رجل الأعمال الثري  ديف  والفتاة  سوناكشي .
+تدور قصة المسلسل حول رجل الأعمال المليونير  ديف  يكرث حياته من أجل أسرته المكونة من والدته وأخوته ثلاث بنات، وتجمعه الظروف بأخصائية التغذية سوناكشي التي ظهرت في حياته عن طريق والدته فهي بصفتها اخصائية تغذية كانت تتابع حالة والدته الصحية وأصبحت تتردد على المنزل بشكل دائم واضطرتها ظروف عملها مع والدة  ديف  أن تقيم معها في المنزل.
+ولأن كيمياء الحب لا تعترف بالفروق المادية أو الاجتماعية فقد وقع ديف في حب الفتاة سوناكشي رغم ظروفها المادية الصعبة، وهو الأمر الذي رفضته عائلة ديف لتبدأ المؤامرات للتفريق بين ديف وسوناكشي، وتتصاعد الأحداث بعد تمسك ديف وسوناكشي بحبهما في وجه العادات والتقاليد.
+مسلسل  وجوه الحب  تم انتاجه عام 2016 ويقوم ببطولته كل من  شهير شيخ   Shaheer Sheik  ، إيريكا فيرنانديز Erica Fernandes، سبرايا بيلجاونكار، برينا بانوار Prena Panwar، سميرا بانيرجي، Sameera Banerjee."
+     }],     "prog_name":"The Great Indian Global Kitchen"[{
           "time":"07:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2016/September/Week-3/20-09-2016/MONTAHA-AL-ISHQ/original/5b5c8d2b5bb119bfec1ee8a8a22d0c8cd3648f9c/MONTAHA-AL-ISHQ.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/THE-GREAT-INDIAN-GLOBAL-KITCHEN/original/71b27da9aa29c318e33554fb3025a09fa5979c64/THE GREAT INDIAN GLOBAL KITCHEN.jpg",
+          "description":"برنامج طبخ هندي، لا يكتفي بتعليم الجماهير قواعد الطهو الرئيسية حول كيفية تحضير الطعام، إنما يساعد المشاهد على تعلّم المعلومات الأساسية لتذوق ألذ وأشهى الأطعمة الرائعة.
+يلبي البرنامج احتياجات النساء، الرجال والشباب الذين يهتمون بعالم الطبخ والأطعمة، ويتميز بأنه يجمع بين الأسلوب التعليمي المسلي وأسلوب المنافسة الترفيهي، ومن خلاله يمكن بسهولة لعشاق الطبخ تعلم وصفات جديدة تجمع ما بين الأسلوب الغربي والأسلوب الهندي الأصيل."
+     }],     "prog_name":"منتهى العشق"[{
+          "time":"07:45",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2016/September/Week-3/20-09-2016/MONTAHA-AL-ISHQ/original/5b5c8d2b5bb119bfec1ee8a8a22d0c8cd3648f9c/MONTAHA-AL-ISHQ.jpg",
+          "description":"دراما اجتماعية شيقة عن أحلام وتطلعات فتاة صغيرة جميلة يقع على عاتقها إعالة أسرتها كاملة. يسوقها القدر لصدفة ما تجمعها بنجم بوليوود الشهير ريشاب كندرا، تلك الصدفة التي ستُغيير حياتها تماما من تحت الأرض لفوق السحاب! 
+
+المسلسل من بطولة النجمة دراشتي دهامي التي تجسد دور (مدهو بالا)، والنجم فيفيان دسينا الذي يجسد دور(ريشاب كوندرا)، الفنان بابيندر سينغ.
+تحياتي"
      }],     "prog_name":"الحب المنتظر"[{
-          "time":"08:15",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/AlHobAlMontathar/original/d90b8432bb15fa0f1a77fe776b5e0a1d8fde3c2c/AlHobAlMontathar.jpg"
+          "time":"08:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/AlHobAlMontathar/original/d90b8432bb15fa0f1a77fe776b5e0a1d8fde3c2c/AlHobAlMontathar.jpg",
+          "description":"بالنسبة للكثيرين كاميني ماذور هي أيقونة بوليوود في ذروة مسيرتها، لكنها في الواقع فتاة بسيطة تناضل من أجل العثور على الرجل المناسب من بين الرجال المحيطين بها والذين لا يجذبهم فيها سوى شهرتها وجمالها."
      }],     "prog_name":"هوس مايا"[{
-          "time":"09:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/December/16-12-2017/Hawas-MAYA-S1/original/2a15186a8d782ae580f078f512d60c917de6ded8/Hawas MAYA S1.jpg"
+          "time":"09:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/December/16-12-2017/Hawas-MAYA-S1/original/2a15186a8d782ae580f078f512d60c917de6ded8/Hawas MAYA S1.jpg",
+          "description":"تدور أحداث قصة المسلسل حول مثلث الحب الذي يجمع مايا سيده أعمال ومليونيرة تمتلك شركه للموضة، أرجون الذي يعمل في مجال التصوير الفوتوغرافي وسانجاه والتي تعمل كمحاميه تحت التمرين.
+مايا تعاني من ماضي رومانسي أليم يجعلها تعاني نفسياً عندما تتذكره، لهذا تسعي دائماً إلى عدم أظهارة أمام الجميع، ولكنها تلتقي بأرجون وتقع في حبه، ولكن مايا تجهل بأن سانجاه تقع في حب أرجون أيضاً، فهل ستترك لها هذه الفرصة؟
+شارك في بطولة هذا المسلسل  جينيفر وينجت ،   كوشال تاندون  و  أنيري فاجاني ، والمسلسل من تأليف وإخراج  براتيك شارما .
+تم عرض هذا المسلسل على مواقع الأنترنت خلال عام 2016، وتبلغ عدد حلقاته نحو 273 حلقة.
+المسلسل حصل على جائزة أفضل ممثل وممثلة لعام 2017 عن مهرجان Lions Gold Awards، GARV Indian Television Awards، Indian Television Academy Awards و SBAS Telebrations."
      }],     "prog_name":"يغمرني الشوق-الموسم 1"[{
-          "time":"10:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/august/9-8-2017/يغمرني-الشوق-copy/original/27ef8462a8bdf53d40c1c1777ba4ea6a7fe60131/يغمرني الشوق copy.jpg"
-     }],     "prog_name":"Koffee with Karan- الموسم 5"[{
-          "time":"12:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/August/week-02/9-8-2015/Koffee_1024x576/original/518e290eaca068cab50934b3dac8949c8c41fa9c/Koffee_1024x576.jpg"
+          "time":"10:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/august/9-8-2017/يغمرني-الشوق-copy/original/27ef8462a8bdf53d40c1c1777ba4ea6a7fe60131/يغمرني الشوق copy.jpg",
+          "description":" يغمرني الشوق  دراما هندية جديدة للنجمة الجميلة دراشتي دهامي مع النجم أرجون بيجلاني تقدم قصة رومانسية مليئة بالتشويق والإثارة.
+
+تدور أحداث المسلسل حول نيها الفتاة الجميلة التي تعيش بمفردها مع أمها تؤدي واجبها دائماً نحوها فهى التى ترعاها لذلك لم تتزوج لكن الأم تريد أن تري ابنتها تعيش حياتها وتحظي بالسعادة مع شريك حياتها.
+
+الأم ترسل ابنتها للخارج حتى تبدء حياه جديدة وفي بلد غريب تلتقي نيها حب حياتها ورفيق روحها  راجاف  ماذا سيحدث وكيف ستسير الأمور بين الحبيبين.. هل تكون السعادة في انتظارهما أم أن هناك ما يخفيه القدر لهما.
+ "
+     }],     "prog_name":"Band Baaja Bride-6الموسم "[{
+          "time":"12:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/September/week-3/13-9-2015/grid-image/original/eb601d4f217f784c593e59db230de7bcd21548ec/grid-image.jpg",
+          "description":" "
+     }],     "prog_name":"BFFs Couch-الموسم 1"[{
+          "time":"12:45",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/videos-2017/January/Week-2/12-1-2017/343/original/2f9bdbca90bc8469d1892e047c7c0b6b23dfa4a4/343.jpg",
+          "description":" "
      }],     "prog_name":"The Great Indian Global Kitchen"[{
           "time":"13:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/THE-GREAT-INDIAN-GLOBAL-KITCHEN/original/71b27da9aa29c318e33554fb3025a09fa5979c64/THE GREAT INDIAN GLOBAL KITCHEN.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/THE-GREAT-INDIAN-GLOBAL-KITCHEN/original/71b27da9aa29c318e33554fb3025a09fa5979c64/THE GREAT INDIAN GLOBAL KITCHEN.jpg",
+          "description":"برنامج طبخ هندي، لا يكتفي بتعليم الجماهير قواعد الطهو الرئيسية حول كيفية تحضير الطعام، إنما يساعد المشاهد على تعلّم المعلومات الأساسية لتذوق ألذ وأشهى الأطعمة الرائعة.
+يلبي البرنامج احتياجات النساء، الرجال والشباب الذين يهتمون بعالم الطبخ والأطعمة، ويتميز بأنه يجمع بين الأسلوب التعليمي المسلي وأسلوب المنافسة الترفيهي، ومن خلاله يمكن بسهولة لعشاق الطبخ تعلم وصفات جديدة تجمع ما بين الأسلوب الغربي والأسلوب الهندي الأصيل."
      }],     "prog_name":"وجوه الحب-الموسم 1"[{
           "time":"14:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/January/week-1/2-1-2017/MBCB_WAJOUH-AL-HOB-S1_grid-image_Rida/original/f24582a7b29b111361312a4068d46354a84173b9/MBCB_WAJOUH-AL-HOB-S1_grid-image_Rida.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/January/week-1/2-1-2017/MBCB_WAJOUH-AL-HOB-S1_grid-image_Rida/original/f24582a7b29b111361312a4068d46354a84173b9/MBCB_WAJOUH-AL-HOB-S1_grid-image_Rida.jpg",
+          "description":"المسلسل الهندي  وجوه الحب  دراما اجتماعية رومانسية تسلط الضوء على التحديات الاجتماعية التي تواجه انصهار الطبقات الاجتماعية، من خلال قصة رجل الأعمال الثري  ديف  والفتاة  سوناكشي .
+تدور قصة المسلسل حول رجل الأعمال المليونير  ديف  يكرث حياته من أجل أسرته المكونة من والدته وأخوته ثلاث بنات، وتجمعه الظروف بأخصائية التغذية سوناكشي التي ظهرت في حياته عن طريق والدته فهي بصفتها اخصائية تغذية كانت تتابع حالة والدته الصحية وأصبحت تتردد على المنزل بشكل دائم واضطرتها ظروف عملها مع والدة  ديف  أن تقيم معها في المنزل.
+ولأن كيمياء الحب لا تعترف بالفروق المادية أو الاجتماعية فقد وقع ديف في حب الفتاة سوناكشي رغم ظروفها المادية الصعبة، وهو الأمر الذي رفضته عائلة ديف لتبدأ المؤامرات للتفريق بين ديف وسوناكشي، وتتصاعد الأحداث بعد تمسك ديف وسوناكشي بحبهما في وجه العادات والتقاليد.
+مسلسل  وجوه الحب  تم انتاجه عام 2016 ويقوم ببطولته كل من  شهير شيخ   Shaheer Sheik  ، إيريكا فيرنانديز Erica Fernandes، سبرايا بيلجاونكار، برينا بانوار Prena Panwar، سميرا بانيرجي، Sameera Banerjee."
      }],     "prog_name":"هوس مايا"[{
           "time":"15:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/December/16-12-2017/Hawas-MAYA-S1/original/2a15186a8d782ae580f078f512d60c917de6ded8/Hawas MAYA S1.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2017/December/16-12-2017/Hawas-MAYA-S1/original/2a15186a8d782ae580f078f512d60c917de6ded8/Hawas MAYA S1.jpg",
+          "description":"تدور أحداث قصة المسلسل حول مثلث الحب الذي يجمع مايا سيده أعمال ومليونيرة تمتلك شركه للموضة، أرجون الذي يعمل في مجال التصوير الفوتوغرافي وسانجاه والتي تعمل كمحاميه تحت التمرين.
+مايا تعاني من ماضي رومانسي أليم يجعلها تعاني نفسياً عندما تتذكره، لهذا تسعي دائماً إلى عدم أظهارة أمام الجميع، ولكنها تلتقي بأرجون وتقع في حبه، ولكن مايا تجهل بأن سانجاه تقع في حب أرجون أيضاً، فهل ستترك لها هذه الفرصة؟
+شارك في بطولة هذا المسلسل  جينيفر وينجت ،   كوشال تاندون  و  أنيري فاجاني ، والمسلسل من تأليف وإخراج  براتيك شارما .
+تم عرض هذا المسلسل على مواقع الأنترنت خلال عام 2016، وتبلغ عدد حلقاته نحو 273 حلقة.
+المسلسل حصل على جائزة أفضل ممثل وممثلة لعام 2017 عن مهرجان Lions Gold Awards، GARV Indian Television Awards، Indian Television Academy Awards و SBAS Telebrations."
      }],     "prog_name":"الحب المنتظر"[{
           "time":"16:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/AlHobAlMontathar/original/d90b8432bb15fa0f1a77fe776b5e0a1d8fde3c2c/AlHobAlMontathar.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/AlHobAlMontathar/original/d90b8432bb15fa0f1a77fe776b5e0a1d8fde3c2c/AlHobAlMontathar.jpg",
+          "description":"بالنسبة للكثيرين كاميني ماذور هي أيقونة بوليوود في ذروة مسيرتها، لكنها في الواقع فتاة بسيطة تناضل من أجل العثور على الرجل المناسب من بين الرجال المحيطين بها والذين لا يجذبهم فيها سوى شهرتها وجمالها."
      }],     "prog_name":"The Great Indian Global Kitchen"[{
           "time":"17:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/THE-GREAT-INDIAN-GLOBAL-KITCHEN/original/71b27da9aa29c318e33554fb3025a09fa5979c64/THE GREAT INDIAN GLOBAL KITCHEN.jpg"
-     }],     "prog_name":"Koffee with Karan- الموسم 5"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/15/THE-GREAT-INDIAN-GLOBAL-KITCHEN/original/71b27da9aa29c318e33554fb3025a09fa5979c64/THE GREAT INDIAN GLOBAL KITCHEN.jpg",
+          "description":"برنامج طبخ هندي، لا يكتفي بتعليم الجماهير قواعد الطهو الرئيسية حول كيفية تحضير الطعام، إنما يساعد المشاهد على تعلّم المعلومات الأساسية لتذوق ألذ وأشهى الأطعمة الرائعة.
+يلبي البرنامج احتياجات النساء، الرجال والشباب الذين يهتمون بعالم الطبخ والأطعمة، ويتميز بأنه يجمع بين الأسلوب التعليمي المسلي وأسلوب المنافسة الترفيهي، ومن خلاله يمكن بسهولة لعشاق الطبخ تعلم وصفات جديدة تجمع ما بين الأسلوب الغربي والأسلوب الهندي الأصيل."
+     }],     "prog_name":"BFFs Couch-الموسم 1"[{
           "time":"17:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/August/week-02/9-8-2015/Koffee_1024x576/original/518e290eaca068cab50934b3dac8949c8c41fa9c/Koffee_1024x576.jpg"
-     }],     "prog_name":"Tees Maar Khan"[{
-          "time":"19:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/January/week-1/5-1-2015/Tees-Maar-Khan/original/3e7c09c7b9df6ed01c8862712a304b8b3323ae87/Tees Maar Khan.jpg"
-     }],     "prog_name":"Jai Ho"[{
-          "time":"21:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2014/November/WEEK-01/3-11-2014/Jai-Ho-1024/original/0f9e326abeb002286cb8e132421c5e0e08f0ecea/Jai Ho-1024.jpg"
-     }],     "prog_name":"Ajab Prem Ki Ghazab Kahani"[{
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/videos-2017/January/Week-2/12-1-2017/343/original/2f9bdbca90bc8469d1892e047c7c0b6b23dfa4a4/343.jpg",
+          "description":" "
+     }],     "prog_name":"Heroine"[{
+          "time":"18:30",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2013/November/week-3/20-11-2013/118/12/Heroine/original/fd81b43448174abf871c526844f7d931d3defadf/Heroine.jpg",
+          "description":"سنة الانتاج:
+        2012
+
+12 يونيو, 2018
+19:30 (السعودية) ~
+                            12 يونيو, 2018
+18:30 (مصر)
+                        (mbc.net) الكثير من الناس يعتبرون العمل في بوليوود
+حلماً كبيراً، وهذا الفيلم يتبع قصة ماهي آرورا (كارينا كابور) إحدى نجمات بوليوود التي تتمتع بشهرة كبيرة
+وحب الجماهير.
+
+تقع ماهي في غرام الممثل أريان خانا (أرجون
+رامبال)، لكنهما يخفيان علاقتهما عن الجميع لأن أريان يسير في إجراءات طلاقه من
+زوجته، إلا أن علاقتهما تظهر للجميع بسبب غيرتها الزائدة خاصة عندما تزوره أثناء
+تصويره لمشهد ساخن معبرة عن ضيقها منه فيشعر بالضيق بدوره.
+
+تذهب ماهي إلى أحد الحفلات وهناك تضايقها
+زوجة أريان فترد عليها ماهي، الأمر الذي يزعج أريان فيخرجها من الحفل وأثناء
+قيادته السيارة يتطور النقاش بينهما فيرميها خارج السيارة.
+
+تصاب ماهي بالإحباط لكنها تحاول تعويض ذلك
+بحب جديد مع لاعب الكريكت أنجاد (رانديب هودا) ما يعيدها للأضواء مجدداً لكن ما
+تلبث علاقتهما أن تنتهي، وتحاول ماهي استعادة الأضواء بمساعدة بالفي صانعة النجوم
+لكن الأمور تصبح أسوأ في حياة ماهي."
+     }],     "prog_name":"Ek Villain"[{
+          "time":"21:00",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2015/November/week-4/26-11-2015/Ek-Villain/original/e2852946f51f32dc59a7085fc1373fb45d131917/Ek-Villain.jpg",
+          "description":"سنة الانتاج:
+        2014
+
+12 يونيو, 2018
+22:00 (السعودية) ~
+                            12 يونيو, 2018
+21:00 (مصر)
+                        (mbc.net) يعمل جورو الهادئ الحازم لدى رجل السياسة براهلاد،
+ولماضيه المظلم لايستطيع النوم ليلاًحتى يلتقي بفتاة جميلة تدعى عائشة، يقع في
+حبها و تملأ قلبه و حياته.
+
+تغير عائشة حياة جورو، و يطلب منها الزواج و يقنعها
+بذلك، يبدأحياة جديدة مع حبيبته، ويترك عمله 
+فينتقل من غوا إلى مومباي، وحينما تستتب الأمور تقع أحداث مفزعة.
+
+تقع عائشة فريسة لهجوم تذهب ضحيته، يبدأ جورو مطاردة
+المجرم، و يصدم حينما يتعرف على هوية القاتل البسيطة.
+
+يعتقد جورو أن هناك شيئاً مفقودا في القضية ولايستطيع
+وضع يديه عل الحقيقة، فمن هو القاتل الحقيقي؟ و ماهو الدافع وراء قتلها؟"
+     }],     "prog_name":"Kahaani"[{
           "time":"00:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2016/april/week-01/7-4-2016/untitled/Ajab-Prem-Ki-Ghazab-Kahani/original/392f7cca4940593d14540ddeeed00dd5e66cb27b/Ajab-Prem-Ki-Ghazab-Kahani.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/Photos/2013/october/week-3/15-10-2013/Kahaani/original/0cede67a5c6dbc8008bdecc73ae009b4d6ef6811/Kahaani.jpg",
+          "description":"سنة الانتاج:
+        2012
+
+11 يونيو, 2018
+22:30 (السعودية) ~
+                            11 يونيو, 2018
+21:30 (مصر)
+                        (mbc.net) تبدأ أحداث الفيلم
+بانفجار قنبلة غاز سام في أحد مقصورات مترو بمدينة كلكتا ما يتسبب في مقتل جميع
+الركاب، بعد سنتين من الحادث تصل فيديا باغشي (فيديا بالان) المهندسة الحامل إلى
+كلكتا بحثاً عن زوجها أرناب.
+
+يعرض ضابط الشرطة
+رنا سينها (بارامبراتا شاترجي)، وتعطيه فيديا معلومات أن زوجها كان يعمل في وكالة NDC لكن التحقيقات الأولية تثبت أنه لا يوجد شخص يعمل
+لديهم بهذا الأسم.
+
+وتتحدث فيديا مع مدير
+الموارد البشرية في الشركة فيخبرها أن زوجها يشبه الموظف السابق ميلان دامجي
+(أندرانيل سينغوبتا)، وقبل أن يعطيها الملف الخاص به يتعرض المدير للقتل من قبل
+بوب بيسواس (ساسواتا شاترجي) القاتل المتخفي كموظف تأمين على الحياة.
+
+تحاول فيديا
+والضابط رنا اقتحام المكتب القديم للشركة للحصول على الملف وينجحان في الهرب قبل
+أن يمسكهما القاتل، لكن محاولات بحثها عن زوجها تجذب انتباه المخابرات التي تبدأ
+في الاهتمام بالقضية."
      }]
 }]
 [{
@@ -395,112 +1206,237 @@
      [{
      "prog_name":"عوض أباً عن جد"[{
           "time":"02:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Awad/original/bcba903efadf60880302a7efd3f615d5c64376eb/Awad.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Awad/original/bcba903efadf60880302a7efd3f615d5c64376eb/Awad.jpg",
+          "description":"عوض أباً عن جد.. كوميديا ساخرة 
+في رحلة تمتد عبر أزمنة مختلفة وعصور تاريخية امتدت قرونا عدة، وتحديدا منذ العصر الجاهلي وحتى العصر الحالي، تتجلى شخصية  عوض .. فهو مشرد وأحيانا يدّعي البطولة ويتقمصها في شكل مثير، وفي مرات تجده عاشقا صعلوكا، يهيم في عشقه هيام عنترة بعبلة، وقيس بليلى، وفي مرات يحمل هموم الأخذ بالثأر وإلا سيلحقه العار ويلحق عائلته.
+يحفل المسلسل بالعديد من كوميديا المواقف في رؤية  فانتازية  ساخرة، لا تخلو من مواقف تتوالى وأحداث كوميدية تتواصل.
+يقوم بالبطولة نجوم الكوميديا السعودية والخليجية أسعد الزهراني وحبيب الحبيب وعبد المجيد الرهيدي وهيا الشعيبي وشمس ووعد."
      }],     "prog_name":"من الصفر - الموسم 3"[{
           "time":"03:15",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mn-AlSefer/original/278cd3ab3612e73217b44b1ebbd75247b8082e9c/Mn AlSefer.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mn-AlSefer/original/278cd3ab3612e73217b44b1ebbd75247b8082e9c/Mn AlSefer.jpg",
+          "description":" "
      }],     "prog_name":"رامز تحت الصفر"[{
           "time":"04:15",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg",
+          "description":"النجم رامز جلال يواصل مقالبه المثيرة والكوميدية مع النجوم المصريين والعرب، في برنامج  رامز تحت الصفر  والذي يقدمه هذا العام من روسيا.
+ترى ماذا يخبئ رامز في جعبته هذا العام؟ وما هي قائمة الضحايا التي ستسقط في شباكه؟ 
+تابعونا يوميا في رمضان مع رامز تحت الصفر."
      }],     "prog_name":"أصوات"[{
           "time":"04:45",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/grid-image_MBC1_Aswat_Rida/original/10b08508de8e0658a2c0ae4301467436054338bf/grid-image_MBC1_Aswat_Rida.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/grid-image_MBC1_Aswat_Rida/original/10b08508de8e0658a2c0ae4301467436054338bf/grid-image_MBC1_Aswat_Rida.jpg",
+          "description":"أصوات.. رحلة مع العظماء وأقوالهم الخالدة
+يهدف البرنامج إلى لمس الجوهر الكامن في الأقوال الخالدة للعظماء والفلاسفة سواء من التاريخ أو من عصرنا الحالي.
+ خلال الثلاثين حلقة التي تمتد كل منها إلى حوالي عشرة دقائق سيناقش البرنامج كيف من الممكن أن تنطبق هذه الأقوال على حياتنا ومدى تأثيرها على أفكارنا من خلال قالب ممتع يغوص في التاريخ والفلسفة والنفس الإنسانية في الوقت نفسه والبرنامج من تقديم يوسف حارب."
      }],     "prog_name":"قمرة - الموسم 3"[{
           "time":"05:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QoumrahS3/original/2ee365f11204410a57e6c08c0077bcc3aad6cf0c/QoumrahS3.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QoumrahS3/original/2ee365f11204410a57e6c08c0077bcc3aad6cf0c/QoumrahS3.jpg",
+          "description":"قصص ومواقف ستغير حياتك في  قمرة 
+يطل أحمد الشقيري من جديد في برنامج  قمرة  بموسمه الجديد في رمضان المقبل، ليطلق مجموعة من الحكم والخواطر والمواعظ التي يتم تناولها في شكل قصص حقيقية تعمل على تطوير الذات والتنمية البشرية
+برنامج اجتماعي يسعى لإثراء المحتوى الإعلامي الهادف والممتع من خلال مشاركات مختلفة من جميع أنحاء العالم لمقاطع فيديو متميزة وهادفة.
+في كل حلقة يتم تسليط الضوء على أفضل المشاركات التي تحتوي على مضمون إعلامي رفيع والتعليق عليها بطريقة سلسة وواضحة.
+يتيح البرنامج الفرصة للمشاهدين بإنتاج فيديو لا يزيد مدته عن 3 دقائق بشرط أن يكون هادف ومؤثر وجذاب، وبعد ذلك يتم إرساله إلى البرنامج.
+تتنوع المواضيع التي يطرحها البرنامج بين قضايا حقوق الإنسان والزواج واللاجئون حقوق العمال الوافدين والاكتئاب والأخطاء الطبية وحوادث السيارات والأنظمة الغذائية، وغيرها من الموضوعات التي تهم المجتمع بأكمله.
+كما يحمل البرنامج رسائل توعوية ويعطي شعاعاً من الأمل نحو التقدم في شتى المجالات من خلال الكشف عن أبرز الاختراعات، كما يسلط الضوء على أروع التجارب الإنسانية وأكثر نجاحاً في المجتمع."
      }],     "prog_name":"صناع الأمل - الموسم 2"[{
           "time":"05:15",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Sonaaal-Amal/original/b804205bdd7a33a0d2ceab37bd2bf5f93c38a4d5/Sonaaal Amal.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Sonaaal-Amal/original/b804205bdd7a33a0d2ceab37bd2bf5f93c38a4d5/Sonaaal Amal.jpg",
+          "description":" "
      }],     "prog_name":"رسالة"[{
           "time":"05:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Resala/original/3b3a0faefe726aa5b51dcca15c366a162f5dd068/Resala.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Resala/original/3b3a0faefe726aa5b51dcca15c366a162f5dd068/Resala.jpg",
+          "description":"شخصيات تعاني من ظروف صعبة..  الرسالة  ينهي معاناتهم في رمضان!
+أنتم على موعد مع  الرسالة  في رمضان المقبل، وهو برنامج إنساني يرصد حالات لشخصيات في المجتمع السعودي تمتاز بأنها شخصيات مجتهدة ومثابرة وتعمل بتميز من أجل توفير سبل نجاح لعائلتها ولكنها في نفس الوقت تمر بظروف صعبة مالية أو صحية أو غيرها.
+يهدف البرنامج إلى إجراء لقاء مع هذه الشخصيات وتقديم تقرير مصور عن حالتهم ويومياتهم، ليقدم لهم هدايا مالية أو عينية بشكل غير متوقع وسيتم مفاجآتهم بطريقة تقديم المعونات المالية بشكل مختلف وجديد.
+البرنامج يتم تصويره في عدد من المدن السعودية منها الرياض وجدة وحائل والدمام وغيرها، وتختلف مهن وأعمار الشخصيات التي يتناول قصتها ومعانتها كذلك. 
+يسعى  الرسالة  إلى إحياء ثقافة العطاء وخلق روح التعاون، وفي الوقت نفسه إبراز الحالات الايجابية المثابرة في المجتمع والتي تتحدى الظروف والأوقات العصيبة."
      }],     "prog_name":"الصدمة -الموسم 3"[{
           "time":"05:45",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/AlSadma_1024x576/original/220fe5335322ab767049b66c0f9803b8f36432f1/AlSadma_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/AlSadma_1024x576/original/220fe5335322ab767049b66c0f9803b8f36432f1/AlSadma_1024x576.jpg",
+          "description":" "
      }],     "prog_name":"هلا برمضان -الموسم 2"[{
           "time":"06:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/grid-image_MBC1_Hala-b-ramadan_Rida/original/6bd3ed6c8fba001a94bef53943e3efc5bac844e4/grid-image_MBC1_Hala-b-ramadan_Rida.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/grid-image_MBC1_Hala-b-ramadan_Rida/original/6bd3ed6c8fba001a94bef53943e3efc5bac844e4/grid-image_MBC1_Hala-b-ramadan_Rida.jpg",
+          "description":"3 وصفات شهية.. يوميا ً في  هلا برمضان 
+
+يقدم برنامج  هلا برمضان  أشهى الوصفات والأكلات العربية والغربية طوال شهر رمضان، لتتنوع بين الوجبات الرئيسية وأطباق الشوربة والحلويات قليلة السعرات الحرارية.
+في كل حلقة يشرح الشيف عدنان يماني 3 وصفات مختلفة لوجبات رمضانية سهلة التحضير على مائدة الإفطار أو السحور، باستخدام عدد بسيط من المكونات المتاحة في الأسواق العربية.
+يساعدك الشيف في التنويع بين الأطباق ليرضي مختلف الأذواق، ويختصر عليك طريق البحث والتفكير في الوصفة المناسبة لإعدادها كل يوم.
+البرنامج يمنحكم فرصة كبيرة لتعلم وصفات جديدة ومبتكرة لإعداد أكلات شهية كل يوم يمكنكم تناولها على مائدة الإفطار أو السحور."
      }],     "prog_name":"من الصفر - الموسم 3"[{
           "time":"06:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mn-AlSefer/original/278cd3ab3612e73217b44b1ebbd75247b8082e9c/Mn AlSefer.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mn-AlSefer/original/278cd3ab3612e73217b44b1ebbd75247b8082e9c/Mn AlSefer.jpg",
+          "description":" "
      }],     "prog_name":"أبو عمر المصري"[{
           "time":"07:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Abu-Omar/original/e79027c4b0fc005f5b0bc3a55c268cfb4381a82b/Abu-Omar.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Abu-Omar/original/e79027c4b0fc005f5b0bc3a55c268cfb4381a82b/Abu-Omar.jpg",
+          "description":"تدور أحداث المسلسل حول  فخر ، هو محامي مثالي، أراد أن يحرك المياه الراكدة والساكنة في المجتمع المصري من خلال تأسيسه هو ومجموعة من أصدقائه الجدد  تنظيم سلمي  يسعى لإيجاد حلول لمشاكل وقضايا المواطنين البسطاء بعيدا عن مافيا المحاماة واسعارهم المبالغ فيها، إلا أن هذا التنظيم سرعان ما يثير غضب أحد الأجهزة الأمنية الذي لا يجد وسيلة قانونية لإيقاف نشاط هؤلاء الشباب الحالمين بجتمع مثالي فيلجأ إلى وسائل أخرى  خارج القانون  من خلال تصفية أعضاء هذا التنظيم، وتتصاعد الأحداث في قالب درامي مثير.
+المسلسل عن رواية  أبو عمر المصري  للكاتب عز الدين شكري قشير، وكتبت القصة والحوار للمسلسل مريم ناعوم، والإخراج لأحمد خالد موسى.
+أما أبطال المسلسل فهم: أحمد عز، أروى جودة، منذر ريحانة، أمل بشوشة، فتحي عبد الوهاب، وغيرهم من نجوم الدراما المصرية."
      }],     "prog_name":"الهيبة (العودة) "[{
           "time":"08:15",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Al-Hayba/original/475b22ff32b0c079b7f17bfafc38059f85e5b4d7/Al-Hayba.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Al-Hayba/original/475b22ff32b0c079b7f17bfafc38059f85e5b4d7/Al-Hayba.jpg",
+          "description":" الهيبة – العودة  هو الجزء الثاني من مسلسل  الهيبة  الذي عرض رمضان الماضي وحقق نجاحًا كبيرًا.
+في الجزء الثاني تنخرط عائلة جبل شيخ الجبل في صراعات عشائرية لم تكن في الحسبان مع دخول شخصيات جديدة لها حسابات معلقة مع عائلة شيخ الجبل وما ينتج عن هذه الحسابات من تعقيدات يتصدى لها جبل منفردًا.
+المسلسل بطولة نخبة من النجوم على رأسهم تيم حسن، منى واصف، نيكول سابا، عبده شاهين، فاليري أبوشقرا، أويس مخللاتي، رفيق علي أحمد وهو من إخراج سامر البرقاوي."
      }],     "prog_name":"العاصوف"[{
           "time":"09:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Al-Asouf/original/93264fee6897beb88ded8fb2eea71b722895172c/Al-Asouf.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Al-Asouf/original/93264fee6897beb88ded8fb2eea71b722895172c/Al-Asouf.jpg",
+          "description":"دراما اجتماعية إنسانية ملحمية ترصد تفاصيل المجتمع السعودي من عام 1970 إلى عام 1975 بدقة. تمسح دقائق الحياة المتعلقة بالمجتمع السعودي كالأعراس والمآتم والخطبة والزواج ورمضان والعيد والجلد والأغاني والذهنية السائدة لدى العامة من الشعب وطريقة التعاملات التجارية والحياتية وطريقة عيش الشباب آنذاك، مستعرضاً بذلك الحياة الاجتماعية والثقافية والاقتصادية والشعبية من خلال أسرة الطيان، التي سكنت العاصمة الرياض.
+تتشابك علاقات أسرة الطيان مع بعضها ومع المحيط من أهل وجيران وبيئة محيطة، خلال الحلقات الثلاثين للمسلسل، لتقدم لنا نسيجاً درامياً وفنياً مترابطاً في زمن مليء بالأحداث والمتغيرات السياسية والاجتماعية في المملكة والخليج والوطن العربي بشكل عام.
+ويحمل المسلسل في طياته جرأة إنسانية اجتماعية مبطنة الطرح بذكاء بالنسبة للدراما الخليجية، وخاصة أنه يستعرض جزء من المجتمع العربي في تلك المرحلة وهذا مهم من أجل تأطير الزمن من جهة، ولمتابعة رد الفعل لدى العامة تجاه ما يجري من أحداث من جهة ثانية، وهذا الطرح قد أغناه وجعل فيه مفاصل جدَّ مهمة وعالية الجرعة الانسانية كما في الحلقة السابعة عشرة والحلقة الثالثة والعشرين ومواضع أخرى كثيرة.
+البطولة: ناصر القصبي ، عبدالإله السناني،  حبيب الحبيب ، عبدالعزيز السكيرين، ليلى سلمان، ريم العبدالله، ريماس منصور، زارا البلوشي.
+إخراج: المثنى الصبح "
      }],     "prog_name":"عوض أباً عن جد"[{
           "time":"10:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Awad/original/bcba903efadf60880302a7efd3f615d5c64376eb/Awad.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Awad/original/bcba903efadf60880302a7efd3f615d5c64376eb/Awad.jpg",
+          "description":"عوض أباً عن جد.. كوميديا ساخرة 
+في رحلة تمتد عبر أزمنة مختلفة وعصور تاريخية امتدت قرونا عدة، وتحديدا منذ العصر الجاهلي وحتى العصر الحالي، تتجلى شخصية  عوض .. فهو مشرد وأحيانا يدّعي البطولة ويتقمصها في شكل مثير، وفي مرات تجده عاشقا صعلوكا، يهيم في عشقه هيام عنترة بعبلة، وقيس بليلى، وفي مرات يحمل هموم الأخذ بالثأر وإلا سيلحقه العار ويلحق عائلته.
+يحفل المسلسل بالعديد من كوميديا المواقف في رؤية  فانتازية  ساخرة، لا تخلو من مواقف تتوالى وأحداث كوميدية تتواصل.
+يقوم بالبطولة نجوم الكوميديا السعودية والخليجية أسعد الزهراني وحبيب الحبيب وعبد المجيد الرهيدي وهيا الشعيبي وشمس ووعد."
      }],     "prog_name":"الصدمة -الموسم 3"[{
           "time":"10:45",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/AlSadma_1024x576/original/220fe5335322ab767049b66c0f9803b8f36432f1/AlSadma_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/AlSadma_1024x576/original/220fe5335322ab767049b66c0f9803b8f36432f1/AlSadma_1024x576.jpg",
+          "description":" "
      }],     "prog_name":"رسالة"[{
           "time":"11:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Resala/original/3b3a0faefe726aa5b51dcca15c366a162f5dd068/Resala.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Resala/original/3b3a0faefe726aa5b51dcca15c366a162f5dd068/Resala.jpg",
+          "description":"شخصيات تعاني من ظروف صعبة..  الرسالة  ينهي معاناتهم في رمضان!
+أنتم على موعد مع  الرسالة  في رمضان المقبل، وهو برنامج إنساني يرصد حالات لشخصيات في المجتمع السعودي تمتاز بأنها شخصيات مجتهدة ومثابرة وتعمل بتميز من أجل توفير سبل نجاح لعائلتها ولكنها في نفس الوقت تمر بظروف صعبة مالية أو صحية أو غيرها.
+يهدف البرنامج إلى إجراء لقاء مع هذه الشخصيات وتقديم تقرير مصور عن حالتهم ويومياتهم، ليقدم لهم هدايا مالية أو عينية بشكل غير متوقع وسيتم مفاجآتهم بطريقة تقديم المعونات المالية بشكل مختلف وجديد.
+البرنامج يتم تصويره في عدد من المدن السعودية منها الرياض وجدة وحائل والدمام وغيرها، وتختلف مهن وأعمار الشخصيات التي يتناول قصتها ومعانتها كذلك. 
+يسعى  الرسالة  إلى إحياء ثقافة العطاء وخلق روح التعاون، وفي الوقت نفسه إبراز الحالات الايجابية المثابرة في المجتمع والتي تتحدى الظروف والأوقات العصيبة."
      }],     "prog_name":"قمرة - الموسم 3"[{
           "time":"11:15",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QoumrahS3/original/2ee365f11204410a57e6c08c0077bcc3aad6cf0c/QoumrahS3.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QoumrahS3/original/2ee365f11204410a57e6c08c0077bcc3aad6cf0c/QoumrahS3.jpg",
+          "description":"قصص ومواقف ستغير حياتك في  قمرة 
+يطل أحمد الشقيري من جديد في برنامج  قمرة  بموسمه الجديد في رمضان المقبل، ليطلق مجموعة من الحكم والخواطر والمواعظ التي يتم تناولها في شكل قصص حقيقية تعمل على تطوير الذات والتنمية البشرية
+برنامج اجتماعي يسعى لإثراء المحتوى الإعلامي الهادف والممتع من خلال مشاركات مختلفة من جميع أنحاء العالم لمقاطع فيديو متميزة وهادفة.
+في كل حلقة يتم تسليط الضوء على أفضل المشاركات التي تحتوي على مضمون إعلامي رفيع والتعليق عليها بطريقة سلسة وواضحة.
+يتيح البرنامج الفرصة للمشاهدين بإنتاج فيديو لا يزيد مدته عن 3 دقائق بشرط أن يكون هادف ومؤثر وجذاب، وبعد ذلك يتم إرساله إلى البرنامج.
+تتنوع المواضيع التي يطرحها البرنامج بين قضايا حقوق الإنسان والزواج واللاجئون حقوق العمال الوافدين والاكتئاب والأخطاء الطبية وحوادث السيارات والأنظمة الغذائية، وغيرها من الموضوعات التي تهم المجتمع بأكمله.
+كما يحمل البرنامج رسائل توعوية ويعطي شعاعاً من الأمل نحو التقدم في شتى المجالات من خلال الكشف عن أبرز الاختراعات، كما يسلط الضوء على أروع التجارب الإنسانية وأكثر نجاحاً في المجتمع."
      }],     "prog_name":"صناع الأمل - الموسم 2"[{
           "time":"11:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Sonaaal-Amal/original/b804205bdd7a33a0d2ceab37bd2bf5f93c38a4d5/Sonaaal Amal.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Sonaaal-Amal/original/b804205bdd7a33a0d2ceab37bd2bf5f93c38a4d5/Sonaaal Amal.jpg",
+          "description":" "
      }],     "prog_name":"أصوات"[{
           "time":"11:45",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/grid-image_MBC1_Aswat_Rida/original/10b08508de8e0658a2c0ae4301467436054338bf/grid-image_MBC1_Aswat_Rida.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/grid-image_MBC1_Aswat_Rida/original/10b08508de8e0658a2c0ae4301467436054338bf/grid-image_MBC1_Aswat_Rida.jpg",
+          "description":"أصوات.. رحلة مع العظماء وأقوالهم الخالدة
+يهدف البرنامج إلى لمس الجوهر الكامن في الأقوال الخالدة للعظماء والفلاسفة سواء من التاريخ أو من عصرنا الحالي.
+ خلال الثلاثين حلقة التي تمتد كل منها إلى حوالي عشرة دقائق سيناقش البرنامج كيف من الممكن أن تنطبق هذه الأقوال على حياتنا ومدى تأثيرها على أفكارنا من خلال قالب ممتع يغوص في التاريخ والفلسفة والنفس الإنسانية في الوقت نفسه والبرنامج من تقديم يوسف حارب."
      }],     "prog_name":"مجموعة إنسان - الموسم 2"[{
           "time":"12:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/MajmouatEnsan/original/61ee048a1a3dd65bd677eabc413d4919803c06c2/MajmouatEnsan.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/MajmouatEnsan/original/61ee048a1a3dd65bd677eabc413d4919803c06c2/MajmouatEnsan.jpg",
+          "description":"أسرار نجوم العالم العربي.. في الموسم الثاني من  مجموعة إنسان 
+يتطرق برنامج  مجموعة إنسان  بموسمه الثاني المقرر عرضه في رمضان المقبل، إلى الكشف عن أسرار النجوم العامة والخاصة، من خلال عدد من الحوارات الاستثنائية معهم والتي يجريها الإعلامي علي العلياني مقدم البرنامج.
+يستضيف العلياني في برنامجه الحواري الاجتماعي عدد كبير من نجوم الفكر والإعلام والفن والسياسة، وضيوف آخرين من مختلف المجالات في الخليج والعالم العربي.
+ويتركز الحوار الذي يجريه العلياني مع ضيوفه حول مختلف المواضيع التي تكشف عن زوايا وأسرار جديدة في شخصية الضيف لم يعرفها الجمهور من قبل، من خلال الحديث عن حياته العامة والخاصة بأسلوب تلقائي أشبه برحلة تفصيلية عن حياة هذه الشخصية."
      }],     "prog_name":"رامز تحت الصفر"[{
           "time":"13:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg",
+          "description":"النجم رامز جلال يواصل مقالبه المثيرة والكوميدية مع النجوم المصريين والعرب، في برنامج  رامز تحت الصفر  والذي يقدمه هذا العام من روسيا.
+ترى ماذا يخبئ رامز في جعبته هذا العام؟ وما هي قائمة الضحايا التي ستسقط في شباكه؟ 
+تابعونا يوميا في رمضان مع رامز تحت الصفر."
      }],     "prog_name":"هلا برمضان -الموسم 2"[{
           "time":"14:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/grid-image_MBC1_Hala-b-ramadan_Rida/original/6bd3ed6c8fba001a94bef53943e3efc5bac844e4/grid-image_MBC1_Hala-b-ramadan_Rida.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/grid-image_MBC1_Hala-b-ramadan_Rida/original/6bd3ed6c8fba001a94bef53943e3efc5bac844e4/grid-image_MBC1_Hala-b-ramadan_Rida.jpg",
+          "description":"3 وصفات شهية.. يوميا ً في  هلا برمضان 
+
+يقدم برنامج  هلا برمضان  أشهى الوصفات والأكلات العربية والغربية طوال شهر رمضان، لتتنوع بين الوجبات الرئيسية وأطباق الشوربة والحلويات قليلة السعرات الحرارية.
+في كل حلقة يشرح الشيف عدنان يماني 3 وصفات مختلفة لوجبات رمضانية سهلة التحضير على مائدة الإفطار أو السحور، باستخدام عدد بسيط من المكونات المتاحة في الأسواق العربية.
+يساعدك الشيف في التنويع بين الأطباق ليرضي مختلف الأذواق، ويختصر عليك طريق البحث والتفكير في الوصفة المناسبة لإعدادها كل يوم.
+البرنامج يمنحكم فرصة كبيرة لتعلم وصفات جديدة ومبتكرة لإعداد أكلات شهية كل يوم يمكنكم تناولها على مائدة الإفطار أو السحور."
      }],     "prog_name":"أبو عمر المصري"[{
           "time":"14:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Abu-Omar/original/e79027c4b0fc005f5b0bc3a55c268cfb4381a82b/Abu-Omar.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Abu-Omar/original/e79027c4b0fc005f5b0bc3a55c268cfb4381a82b/Abu-Omar.jpg",
+          "description":"تدور أحداث المسلسل حول  فخر ، هو محامي مثالي، أراد أن يحرك المياه الراكدة والساكنة في المجتمع المصري من خلال تأسيسه هو ومجموعة من أصدقائه الجدد  تنظيم سلمي  يسعى لإيجاد حلول لمشاكل وقضايا المواطنين البسطاء بعيدا عن مافيا المحاماة واسعارهم المبالغ فيها، إلا أن هذا التنظيم سرعان ما يثير غضب أحد الأجهزة الأمنية الذي لا يجد وسيلة قانونية لإيقاف نشاط هؤلاء الشباب الحالمين بجتمع مثالي فيلجأ إلى وسائل أخرى  خارج القانون  من خلال تصفية أعضاء هذا التنظيم، وتتصاعد الأحداث في قالب درامي مثير.
+المسلسل عن رواية  أبو عمر المصري  للكاتب عز الدين شكري قشير، وكتبت القصة والحوار للمسلسل مريم ناعوم، والإخراج لأحمد خالد موسى.
+أما أبطال المسلسل فهم: أحمد عز، أروى جودة، منذر ريحانة، أمل بشوشة، فتحي عبد الوهاب، وغيرهم من نجوم الدراما المصرية."
      }],     "prog_name":"أصوات"[{
-          "time":"15:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/grid-image_MBC1_Aswat_Rida/original/10b08508de8e0658a2c0ae4301467436054338bf/grid-image_MBC1_Aswat_Rida.jpg"
+          "time":"15:15",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/grid-image_MBC1_Aswat_Rida/original/10b08508de8e0658a2c0ae4301467436054338bf/grid-image_MBC1_Aswat_Rida.jpg",
+          "description":"أصوات.. رحلة مع العظماء وأقوالهم الخالدة
+يهدف البرنامج إلى لمس الجوهر الكامن في الأقوال الخالدة للعظماء والفلاسفة سواء من التاريخ أو من عصرنا الحالي.
+ خلال الثلاثين حلقة التي تمتد كل منها إلى حوالي عشرة دقائق سيناقش البرنامج كيف من الممكن أن تنطبق هذه الأقوال على حياتنا ومدى تأثيرها على أفكارنا من خلال قالب ممتع يغوص في التاريخ والفلسفة والنفس الإنسانية في الوقت نفسه والبرنامج من تقديم يوسف حارب."
      }],     "prog_name":"قمرة - الموسم 3"[{
           "time":"15:45",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QoumrahS3/original/2ee365f11204410a57e6c08c0077bcc3aad6cf0c/QoumrahS3.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/QoumrahS3/original/2ee365f11204410a57e6c08c0077bcc3aad6cf0c/QoumrahS3.jpg",
+          "description":"قصص ومواقف ستغير حياتك في  قمرة 
+يطل أحمد الشقيري من جديد في برنامج  قمرة  بموسمه الجديد في رمضان المقبل، ليطلق مجموعة من الحكم والخواطر والمواعظ التي يتم تناولها في شكل قصص حقيقية تعمل على تطوير الذات والتنمية البشرية
+برنامج اجتماعي يسعى لإثراء المحتوى الإعلامي الهادف والممتع من خلال مشاركات مختلفة من جميع أنحاء العالم لمقاطع فيديو متميزة وهادفة.
+في كل حلقة يتم تسليط الضوء على أفضل المشاركات التي تحتوي على مضمون إعلامي رفيع والتعليق عليها بطريقة سلسة وواضحة.
+يتيح البرنامج الفرصة للمشاهدين بإنتاج فيديو لا يزيد مدته عن 3 دقائق بشرط أن يكون هادف ومؤثر وجذاب، وبعد ذلك يتم إرساله إلى البرنامج.
+تتنوع المواضيع التي يطرحها البرنامج بين قضايا حقوق الإنسان والزواج واللاجئون حقوق العمال الوافدين والاكتئاب والأخطاء الطبية وحوادث السيارات والأنظمة الغذائية، وغيرها من الموضوعات التي تهم المجتمع بأكمله.
+كما يحمل البرنامج رسائل توعوية ويعطي شعاعاً من الأمل نحو التقدم في شتى المجالات من خلال الكشف عن أبرز الاختراعات، كما يسلط الضوء على أروع التجارب الإنسانية وأكثر نجاحاً في المجتمع."
      }],     "prog_name":"من الصفر - الموسم 3"[{
           "time":"16:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mn-AlSefer/original/278cd3ab3612e73217b44b1ebbd75247b8082e9c/Mn AlSefer.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Mn-AlSefer/original/278cd3ab3612e73217b44b1ebbd75247b8082e9c/Mn AlSefer.jpg",
+          "description":" "
      }],     "prog_name":"رسالة"[{
           "time":"17:15",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Resala/original/3b3a0faefe726aa5b51dcca15c366a162f5dd068/Resala.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Resala/original/3b3a0faefe726aa5b51dcca15c366a162f5dd068/Resala.jpg",
+          "description":"شخصيات تعاني من ظروف صعبة..  الرسالة  ينهي معاناتهم في رمضان!
+أنتم على موعد مع  الرسالة  في رمضان المقبل، وهو برنامج إنساني يرصد حالات لشخصيات في المجتمع السعودي تمتاز بأنها شخصيات مجتهدة ومثابرة وتعمل بتميز من أجل توفير سبل نجاح لعائلتها ولكنها في نفس الوقت تمر بظروف صعبة مالية أو صحية أو غيرها.
+يهدف البرنامج إلى إجراء لقاء مع هذه الشخصيات وتقديم تقرير مصور عن حالتهم ويومياتهم، ليقدم لهم هدايا مالية أو عينية بشكل غير متوقع وسيتم مفاجآتهم بطريقة تقديم المعونات المالية بشكل مختلف وجديد.
+البرنامج يتم تصويره في عدد من المدن السعودية منها الرياض وجدة وحائل والدمام وغيرها، وتختلف مهن وأعمار الشخصيات التي يتناول قصتها ومعانتها كذلك. 
+يسعى  الرسالة  إلى إحياء ثقافة العطاء وخلق روح التعاون، وفي الوقت نفسه إبراز الحالات الايجابية المثابرة في المجتمع والتي تتحدى الظروف والأوقات العصيبة."
      }],     "prog_name":"الصدمة -الموسم 3"[{
           "time":"17:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/AlSadma_1024x576/original/220fe5335322ab767049b66c0f9803b8f36432f1/AlSadma_1024x576.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/AlSadma_1024x576/original/220fe5335322ab767049b66c0f9803b8f36432f1/AlSadma_1024x576.jpg",
+          "description":" "
      }],     "prog_name":"عوض أباً عن جد"[{
-          "time":"18:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Awad/original/bcba903efadf60880302a7efd3f615d5c64376eb/Awad.jpg"
+          "time":"18:10",
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Awad/original/bcba903efadf60880302a7efd3f615d5c64376eb/Awad.jpg",
+          "description":"عوض أباً عن جد.. كوميديا ساخرة 
+في رحلة تمتد عبر أزمنة مختلفة وعصور تاريخية امتدت قرونا عدة، وتحديدا منذ العصر الجاهلي وحتى العصر الحالي، تتجلى شخصية  عوض .. فهو مشرد وأحيانا يدّعي البطولة ويتقمصها في شكل مثير، وفي مرات تجده عاشقا صعلوكا، يهيم في عشقه هيام عنترة بعبلة، وقيس بليلى، وفي مرات يحمل هموم الأخذ بالثأر وإلا سيلحقه العار ويلحق عائلته.
+يحفل المسلسل بالعديد من كوميديا المواقف في رؤية  فانتازية  ساخرة، لا تخلو من مواقف تتوالى وأحداث كوميدية تتواصل.
+يقوم بالبطولة نجوم الكوميديا السعودية والخليجية أسعد الزهراني وحبيب الحبيب وعبد المجيد الرهيدي وهيا الشعيبي وشمس ووعد."
      }],     "prog_name":"العاصوف"[{
           "time":"19:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Al-Asouf/original/93264fee6897beb88ded8fb2eea71b722895172c/Al-Asouf.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Al-Asouf/original/93264fee6897beb88ded8fb2eea71b722895172c/Al-Asouf.jpg",
+          "description":"دراما اجتماعية إنسانية ملحمية ترصد تفاصيل المجتمع السعودي من عام 1970 إلى عام 1975 بدقة. تمسح دقائق الحياة المتعلقة بالمجتمع السعودي كالأعراس والمآتم والخطبة والزواج ورمضان والعيد والجلد والأغاني والذهنية السائدة لدى العامة من الشعب وطريقة التعاملات التجارية والحياتية وطريقة عيش الشباب آنذاك، مستعرضاً بذلك الحياة الاجتماعية والثقافية والاقتصادية والشعبية من خلال أسرة الطيان، التي سكنت العاصمة الرياض.
+تتشابك علاقات أسرة الطيان مع بعضها ومع المحيط من أهل وجيران وبيئة محيطة، خلال الحلقات الثلاثين للمسلسل، لتقدم لنا نسيجاً درامياً وفنياً مترابطاً في زمن مليء بالأحداث والمتغيرات السياسية والاجتماعية في المملكة والخليج والوطن العربي بشكل عام.
+ويحمل المسلسل في طياته جرأة إنسانية اجتماعية مبطنة الطرح بذكاء بالنسبة للدراما الخليجية، وخاصة أنه يستعرض جزء من المجتمع العربي في تلك المرحلة وهذا مهم من أجل تأطير الزمن من جهة، ولمتابعة رد الفعل لدى العامة تجاه ما يجري من أحداث من جهة ثانية، وهذا الطرح قد أغناه وجعل فيه مفاصل جدَّ مهمة وعالية الجرعة الانسانية كما في الحلقة السابعة عشرة والحلقة الثالثة والعشرين ومواضع أخرى كثيرة.
+البطولة: ناصر القصبي ، عبدالإله السناني،  حبيب الحبيب ، عبدالعزيز السكيرين، ليلى سلمان، ريم العبدالله، ريماس منصور، زارا البلوشي.
+إخراج: المثنى الصبح "
      }],     "prog_name":"رامز تحت الصفر"[{
           "time":"20:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/12/Ramez-(updated)/original/dc544ad12c1baa259b26889dc5acc29943102efb/Ramez (updated).jpg",
+          "description":"النجم رامز جلال يواصل مقالبه المثيرة والكوميدية مع النجوم المصريين والعرب، في برنامج  رامز تحت الصفر  والذي يقدمه هذا العام من روسيا.
+ترى ماذا يخبئ رامز في جعبته هذا العام؟ وما هي قائمة الضحايا التي ستسقط في شباكه؟ 
+تابعونا يوميا في رمضان مع رامز تحت الصفر."
      }],     "prog_name":"الهيبة (العودة) "[{
           "time":"20:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Al-Hayba/original/475b22ff32b0c079b7f17bfafc38059f85e5b4d7/Al-Hayba.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Al-Hayba/original/475b22ff32b0c079b7f17bfafc38059f85e5b4d7/Al-Hayba.jpg",
+          "description":" الهيبة – العودة  هو الجزء الثاني من مسلسل  الهيبة  الذي عرض رمضان الماضي وحقق نجاحًا كبيرًا.
+في الجزء الثاني تنخرط عائلة جبل شيخ الجبل في صراعات عشائرية لم تكن في الحسبان مع دخول شخصيات جديدة لها حسابات معلقة مع عائلة شيخ الجبل وما ينتج عن هذه الحسابات من تعقيدات يتصدى لها جبل منفردًا.
+المسلسل بطولة نخبة من النجوم على رأسهم تيم حسن، منى واصف، نيكول سابا، عبده شاهين، فاليري أبوشقرا، أويس مخللاتي، رفيق علي أحمد وهو من إخراج سامر البرقاوي."
      }],     "prog_name":"أبو عمر المصري"[{
           "time":"21:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Abu-Omar/original/e79027c4b0fc005f5b0bc3a55c268cfb4381a82b/Abu-Omar.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Abu-Omar/original/e79027c4b0fc005f5b0bc3a55c268cfb4381a82b/Abu-Omar.jpg",
+          "description":"تدور أحداث المسلسل حول  فخر ، هو محامي مثالي، أراد أن يحرك المياه الراكدة والساكنة في المجتمع المصري من خلال تأسيسه هو ومجموعة من أصدقائه الجدد  تنظيم سلمي  يسعى لإيجاد حلول لمشاكل وقضايا المواطنين البسطاء بعيدا عن مافيا المحاماة واسعارهم المبالغ فيها، إلا أن هذا التنظيم سرعان ما يثير غضب أحد الأجهزة الأمنية الذي لا يجد وسيلة قانونية لإيقاف نشاط هؤلاء الشباب الحالمين بجتمع مثالي فيلجأ إلى وسائل أخرى  خارج القانون  من خلال تصفية أعضاء هذا التنظيم، وتتصاعد الأحداث في قالب درامي مثير.
+المسلسل عن رواية  أبو عمر المصري  للكاتب عز الدين شكري قشير، وكتبت القصة والحوار للمسلسل مريم ناعوم، والإخراج لأحمد خالد موسى.
+أما أبطال المسلسل فهم: أحمد عز، أروى جودة، منذر ريحانة، أمل بشوشة، فتحي عبد الوهاب، وغيرهم من نجوم الدراما المصرية."
      }],     "prog_name":"ليالي المملكة"[{
           "time":"22:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/16/LayalyAlMamlaka/original/2d33a33b127b7b9f69a4b8fba95f95b9b36d2a53/LayalyAlMamlaka.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/16/LayalyAlMamlaka/original/2d33a33b127b7b9f69a4b8fba95f95b9b36d2a53/LayalyAlMamlaka.jpg",
+          "description":" "
      }],     "prog_name":"مجموعة إنسان - الموسم 2"[{
           "time":"00:00",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/MajmouatEnsan/original/61ee048a1a3dd65bd677eabc413d4919803c06c2/MajmouatEnsan.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/9-5/MajmouatEnsan/original/61ee048a1a3dd65bd677eabc413d4919803c06c2/MajmouatEnsan.jpg",
+          "description":"أسرار نجوم العالم العربي.. في الموسم الثاني من  مجموعة إنسان 
+يتطرق برنامج  مجموعة إنسان  بموسمه الثاني المقرر عرضه في رمضان المقبل، إلى الكشف عن أسرار النجوم العامة والخاصة، من خلال عدد من الحوارات الاستثنائية معهم والتي يجريها الإعلامي علي العلياني مقدم البرنامج.
+يستضيف العلياني في برنامجه الحواري الاجتماعي عدد كبير من نجوم الفكر والإعلام والفن والسياسة، وضيوف آخرين من مختلف المجالات في الخليج والعالم العربي.
+ويتركز الحوار الذي يجريه العلياني مع ضيوفه حول مختلف المواضيع التي تكشف عن زوايا وأسرار جديدة في شخصية الضيف لم يعرفها الجمهور من قبل، من خلال الحديث عن حياته العامة والخاصة بأسلوب تلقائي أشبه برحلة تفصيلية عن حياة هذه الشخصية."
      }],     "prog_name":"العاصوف"[{
           "time":"01:30",
-          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Al-Asouf/original/93264fee6897beb88ded8fb2eea71b722895172c/Al-Asouf.jpg"
+          "image":"http://www.mbc.net/.imaging/stk/mbc/miniGrid_2/media/photos-2018/May/8-5/Al-Asouf/original/93264fee6897beb88ded8fb2eea71b722895172c/Al-Asouf.jpg",
+          "description":"دراما اجتماعية إنسانية ملحمية ترصد تفاصيل المجتمع السعودي من عام 1970 إلى عام 1975 بدقة. تمسح دقائق الحياة المتعلقة بالمجتمع السعودي كالأعراس والمآتم والخطبة والزواج ورمضان والعيد والجلد والأغاني والذهنية السائدة لدى العامة من الشعب وطريقة التعاملات التجارية والحياتية وطريقة عيش الشباب آنذاك، مستعرضاً بذلك الحياة الاجتماعية والثقافية والاقتصادية والشعبية من خلال أسرة الطيان، التي سكنت العاصمة الرياض.
+تتشابك علاقات أسرة الطيان مع بعضها ومع المحيط من أهل وجيران وبيئة محيطة، خلال الحلقات الثلاثين للمسلسل، لتقدم لنا نسيجاً درامياً وفنياً مترابطاً في زمن مليء بالأحداث والمتغيرات السياسية والاجتماعية في المملكة والخليج والوطن العربي بشكل عام.
+ويحمل المسلسل في طياته جرأة إنسانية اجتماعية مبطنة الطرح بذكاء بالنسبة للدراما الخليجية، وخاصة أنه يستعرض جزء من المجتمع العربي في تلك المرحلة وهذا مهم من أجل تأطير الزمن من جهة، ولمتابعة رد الفعل لدى العامة تجاه ما يجري من أحداث من جهة ثانية، وهذا الطرح قد أغناه وجعل فيه مفاصل جدَّ مهمة وعالية الجرعة الانسانية كما في الحلقة السابعة عشرة والحلقة الثالثة والعشرين ومواضع أخرى كثيرة.
+البطولة: ناصر القصبي ، عبدالإله السناني،  حبيب الحبيب ، عبدالعزيز السكيرين، ليلى سلمان، ريم العبدالله، ريماس منصور، زارا البلوشي.
+إخراج: المثنى الصبح "
      }]
 }]
 

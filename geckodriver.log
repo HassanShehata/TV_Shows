@@ -532,3 +532,707 @@ JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9
 JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
 JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
 JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528708984243	geckodriver	INFO	geckodriver 0.20.1
+1528708984385	geckodriver	INFO	Listening on 127.0.0.1:37311
+1528708985394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dXzg8Mbjjhb3"
+1528708991467	Marionette	INFO	Listening on port 42609
+1528708991538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+[Parent 4963, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528709061797	geckodriver	INFO	geckodriver 0.20.1
+1528709061804	geckodriver	INFO	Listening on 127.0.0.1:42991
+1528709062812	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZWOOMIE4K98v"
+1528709067114	Marionette	INFO	Listening on port 42439
+1528709067151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528709300866	geckodriver	INFO	geckodriver 0.20.1
+1528709300874	geckodriver	INFO	Listening on 127.0.0.1:55671
+1528709301881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QMUwepzFjffp"
+1528709306030	Marionette	INFO	Listening on port 37773
+1528709306100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528709629150	geckodriver	INFO	geckodriver 0.20.1
+1528709629157	geckodriver	INFO	Listening on 127.0.0.1:57241
+1528709630164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yxSFIft3pHBv"
+1528709634213	Marionette	INFO	Listening on port 44999
+1528709634286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1528709739798	geckodriver	INFO	geckodriver 0.20.1
+1528709739805	geckodriver	INFO	Listening on 127.0.0.1:56817
+1528709740810	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4LMXCd69GE68"
+1528709744839	Marionette	INFO	Listening on port 39289
+1528709744929	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 72: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1528710002413	geckodriver	INFO	geckodriver 0.20.1
+1528710002423	geckodriver	INFO	Listening on 127.0.0.1:51273
+1528710003427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ce1MPbveXEah"
+1528710007307	Marionette	INFO	Listening on port 44709
+1528710007351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528710922661	geckodriver	INFO	geckodriver 0.20.1
+1528710922669	geckodriver	INFO	Listening on 127.0.0.1:35579
+1528710923678	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lz6YY4t0coZc"
+1528710927429	Marionette	INFO	Listening on port 40493
+1528710927498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.googletagmanager.com/gtm.js?id=GTM-5WCJJ3&l=adStat, line 1004: NS_ERROR_NOT_INITIALIZED: 
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1090:3
+
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 155: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]
+1528711091216	geckodriver	INFO	geckodriver 0.20.1
+1528711091224	geckodriver	INFO	Listening on 127.0.0.1:57103
+1528711092231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tg6eDLA4VXqu"
+1528711096155	Marionette	INFO	Listening on port 44069
+1528711096248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+[Child 6654, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528711580720	geckodriver	INFO	geckodriver 0.20.1
+1528711580728	geckodriver	INFO	Listening on 127.0.0.1:34561
+1528711581736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8A9r9b1rSgmC"
+1528711585605	Marionette	INFO	Listening on port 37487
+1528711585657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: https://www.facebook.com/rsrc.php/v3iVk-4/yb/l/en_GB/T5Ufc030AZG.js, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yV/r/TzfVVYQL9cz.js, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/mbcdrama&width=300&connections=-1&stream=false&header=false&height=110, line 7: ReferenceError: requireLazy is not defined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528712332970	geckodriver	INFO	geckodriver 0.20.1
+1528712332977	geckodriver	INFO	Listening on 127.0.0.1:39605
+1528712333984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KQeIsT8kBTsL"
+1528712337830	Marionette	INFO	Listening on port 39533
+1528712337918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528712465357	geckodriver	INFO	geckodriver 0.20.1
+1528712465364	geckodriver	INFO	Listening on 127.0.0.1:36549
+1528712466372	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ozSQFX0kt9Qh"
+1528712470450	Marionette	INFO	Listening on port 34471
+1528712470506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528712998302	geckodriver	INFO	geckodriver 0.20.1
+1528712998308	geckodriver	INFO	Listening on 127.0.0.1:51809
+1528712999314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jMjD3DGP9W3i"
+1528713003263	Marionette	INFO	Listening on port 37575
+1528713003343	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+[Child 7845, Chrome_ChildThread] WARNING: pipe error (38): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7878, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7845, Chrome_ChildThread] WARNING: pipe error (34): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 7845, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528713229271	geckodriver	INFO	geckodriver 0.20.1
+1528713229278	geckodriver	INFO	Listening on 127.0.0.1:54173
+1528713230286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9fyFfkL27wlG"
+1528713234051	Marionette	INFO	Listening on port 35205
+1528713234116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1528713817296	geckodriver	INFO	geckodriver 0.20.1
+1528713817302	geckodriver	INFO	Listening on 127.0.0.1:39243
+1528713818310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BUtTaIqBfCdK"
+1528713822567	Marionette	INFO	Listening on port 33341
+1528713822631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528713864833	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528714000910	geckodriver	INFO	geckodriver 0.20.1
+1528714000916	geckodriver	INFO	Listening on 127.0.0.1:34931
+1528714001921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6xWlYh5Mxqlc"
+1528714005909	Marionette	INFO	Listening on port 33241
+1528714005943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+[Parent 8323, Gecko_IOThread] WARNING: pipe error (44): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528714130985	geckodriver	INFO	geckodriver 0.20.1
+1528714130992	geckodriver	INFO	Listening on 127.0.0.1:45327
+1528714131999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RKNjrBEvqlvB"
+1528714136082	Marionette	INFO	Listening on port 38843
+1528714136121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+[Parent 8800, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528714273585	geckodriver	INFO	geckodriver 0.20.1
+1528714273591	geckodriver	INFO	Listening on 127.0.0.1:53125
+1528714274602	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Q4QhE9qRM9fs"
+1528714278636	Marionette	INFO	Listening on port 45523
+1528714278718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 72: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528714493362	geckodriver	INFO	geckodriver 0.20.1
+1528714493369	geckodriver	INFO	Listening on 127.0.0.1:40915
+1528714494379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.d68QVxqPV3gw"
+1528714498110	Marionette	INFO	Listening on port 34129
+1528714498198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/ar/mbc-max.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528714928113	geckodriver	INFO	geckodriver 0.20.1
+1528714928120	geckodriver	INFO	Listening on 127.0.0.1:34023
+1528714929125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cSLBLLYdLrEB"
+1528714932927	Marionette	INFO	Listening on port 42537
+1528714932949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528715046654	geckodriver	INFO	geckodriver 0.20.1
+1528715046662	geckodriver	INFO	Listening on 127.0.0.1:60405
+1528715047670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qLjLzbwE8hoJ"
+1528715051476	Marionette	INFO	Listening on port 39915
+1528715051498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528715214863	geckodriver	INFO	geckodriver 0.20.1
+1528715214873	geckodriver	INFO	Listening on 127.0.0.1:42639
+1528715215882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kBukeC59poU6"
+1528715220259	Marionette	INFO	Listening on port 44707
+1528715220307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528716588188	geckodriver	INFO	geckodriver 0.20.1
+1528716588195	geckodriver	INFO	Listening on 127.0.0.1:33619
+1528716589200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tKg0RpQI8Z10"
+1528716593660	Marionette	INFO	Listening on port 44373
+1528716593723	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 10401, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 10370, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528716724849	geckodriver	INFO	geckodriver 0.20.1
+1528716724857	geckodriver	INFO	Listening on 127.0.0.1:34161
+1528716725865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JIunFjJQoGiw"
+1528716729649	Marionette	INFO	Listening on port 45549
+1528716729687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528716927006	geckodriver	INFO	geckodriver 0.20.1
+1528716927011	geckodriver	INFO	Listening on 127.0.0.1:55363
+1528716928020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KqKtuFvujtxu"
+1528716931803	Marionette	INFO	Listening on port 38595
+1528716931841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528717403671	geckodriver	INFO	geckodriver 0.20.1
+1528717403677	geckodriver	INFO	Listening on 127.0.0.1:55329
+1528717404686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SBzZSR2wJYYa"
+1528717408370	Marionette	INFO	Listening on port 32851
+1528717408404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 72: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 11161, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528718161865	geckodriver	INFO	geckodriver 0.20.1
+1528718161874	geckodriver	INFO	Listening on 127.0.0.1:54183
+1528718162884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4cv4KeFuKJLu"
+1528718167231	Marionette	INFO	Listening on port 38265
+1528718167317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/ar/mbc-drama.html, line 1: ReferenceError: osdlfm is not defined
+1528718314620	geckodriver	INFO	geckodriver 0.20.1
+1528718314627	geckodriver	INFO	Listening on 127.0.0.1:55537
+1528718315636	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EQDnKUAtPJZd"
+1528718319554	Marionette	INFO	Listening on port 42285
+1528718319666	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/ar/mbc-drama.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: https://www.facebook.com/rsrc.php/v3iVk-4/yb/l/en_GB/T5Ufc030AZG.js, line 3: ReferenceError: __d is not defined
+1528718424610	geckodriver	INFO	geckodriver 0.20.1
+1528718424617	geckodriver	INFO	Listening on 127.0.0.1:39955
+1528718425627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kaElAufIzZRX"
+1528718429438	Marionette	INFO	Listening on port 40523
+1528718429467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528718580754	geckodriver	INFO	geckodriver 0.20.1
+1528718580762	geckodriver	INFO	Listening on 127.0.0.1:43143
+1528718581769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.J41RBRHP9mg9"
+1528718585397	Marionette	INFO	Listening on port 34083
+1528718585484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528719793823	geckodriver	INFO	geckodriver 0.20.1
+1528719793832	geckodriver	INFO	Listening on 127.0.0.1:47305
+1528719794838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4Jm6FlzWD68h"
+1528719798604	Marionette	INFO	Listening on port 42091
+1528719798667	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/ar/mbc-drama.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AF,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1528721960766	geckodriver	INFO	geckodriver 0.20.1
+1528721960773	geckodriver	INFO	Listening on 127.0.0.1:52779
+1528721961779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fOTnkAtOC4Rc"
+1528721966117	Marionette	INFO	Listening on port 33017
+1528721966199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: https://www.facebook.com/rsrc.php/v3iVk-4/yb/l/en_GB/T5Ufc030AZG.js, line 3: ReferenceError: __d is not defined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528722098687	geckodriver	INFO	geckodriver 0.20.1
+1528722098695	geckodriver	INFO	Listening on 127.0.0.1:43705
+1528722099703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6BOrUPIjGqxu"
+1528722103582	Marionette	INFO	Listening on port 40913
+1528722103625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528722224949	geckodriver	INFO	geckodriver 0.20.1
+1528722224957	geckodriver	INFO	Listening on 127.0.0.1:48109
+1528722225964	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cYdvihsWHq52"
+1528722229856	Marionette	INFO	Listening on port 37095
+1528722229895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528722326774	geckodriver	INFO	geckodriver 0.20.1
+1528722326782	geckodriver	INFO	Listening on 127.0.0.1:50549
+1528722327784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UGUemAqVKBTe"
+1528722332324	Marionette	INFO	Listening on port 44629
+1528722332404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 72: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4D0002,name=PLayerTransaction::Msg_Update) Channel error: cannot send/recv
+
+1528722446634	geckodriver	INFO	geckodriver 0.20.1
+1528722446641	geckodriver	INFO	Listening on 127.0.0.1:43499
+1528722447645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uBxYUPfpboS6"
+1528722451420	Marionette	INFO	Listening on port 38167
+1528722451475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528722944712	geckodriver	INFO	geckodriver 0.20.1
+1528722944720	geckodriver	INFO	Listening on 127.0.0.1:41925
+1528722945728	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mZ2zI74RqNeQ"
+1528722949646	Marionette	INFO	Listening on port 44681
+1528722949743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528723442379	geckodriver	INFO	geckodriver 0.20.1
+1528723442387	geckodriver	INFO	Listening on 127.0.0.1:59807
+1528723443429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.MYG9mRER6bzx"
+1528723447265	Marionette	INFO	Listening on port 43663
+1528723447348	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 72: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 1: SyntaxError: illegal character
+JavaScript error: http://a.teads.tv/page/53938/tag, line 8: TypeError: w.teads is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528725712623	geckodriver	INFO	geckodriver 0.20.1
+1528725712631	geckodriver	INFO	Listening on 127.0.0.1:38263
+1528725713639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fcHcnDDqq2Ig"
+1528725717487	Marionette	INFO	Listening on port 45047
+1528725717573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+[Child 15350, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528726234562	geckodriver	INFO	geckodriver 0.20.1
+1528726234568	geckodriver	INFO	Listening on 127.0.0.1:49689
+1528726235579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.w1d85zhgneE8"
+1528726239267	Marionette	INFO	Listening on port 45407
+1528726239298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+[Child 15684, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528726491264	geckodriver	INFO	geckodriver 0.20.1
+1528726491270	geckodriver	INFO	Listening on 127.0.0.1:46023
+1528726492278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tj7GR0Zs4wLe"
+1528726495977	Marionette	INFO	Listening on port 33469
+1528726496011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/ar/mbc-maser.html, line 1: ReferenceError: osdlfm is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1528726550809	geckodriver	INFO	geckodriver 0.20.1
+1528726550817	geckodriver	INFO	Listening on 127.0.0.1:45221
+1528726551825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BoSe3i6maYsF"
+1528726555467	Marionette	INFO	Listening on port 45569
+1528726555543	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+1528728343423	geckodriver	INFO	geckodriver 0.20.1
+1528728343428	geckodriver	INFO	Listening on 127.0.0.1:37637
+1528728344433	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mQVsliyg7Kfj"
+1528728348406	Marionette	INFO	Listening on port 42335
+1528728348453	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/ar/mbc-maser.html, line 1: ReferenceError: osdlfm is not defined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: https://www.facebook.com/rsrc.php/v3iVk-4/yb/l/en_GB/T5Ufc030AZG.js, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/rsrc.php/v3/yV/r/TzfVVYQL9cz.js, line 3: ReferenceError: __d is not defined
+JavaScript error: https://www.facebook.com/plugins/likebox.php?href=%20http://www.facebook.com/mbcmasr&width=300&connections=-1&stream=false&header=false&height=110, line 7: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/plugins/likebox.php?href=%20http://www.facebook.com/mbcmasr&width=300&connections=-1&stream=false&header=false&height=110, line 8: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/plugins/likebox.php?href=%20http://www.facebook.com/mbcmasr&width=300&connections=-1&stream=false&header=false&height=110, line 9: ReferenceError: requireLazy is not defined
+JavaScript error: https://www.facebook.com/plugins/likebox.php?href=%20http://www.facebook.com/mbcmasr&width=300&connections=-1&stream=false&header=false&height=110, line 10: ReferenceError: require is not defined
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1528729155324	geckodriver	INFO	geckodriver 0.20.1
+1528729155335	geckodriver	INFO	Listening on 127.0.0.1:59545
+1528729156344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FhNZfAiCgSDa"
+1528729160413	Marionette	INFO	Listening on port 33497
+1528729160464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+1528761747051	geckodriver	INFO	geckodriver 0.20.1
+1528761747118	geckodriver	INFO	Listening on 127.0.0.1:40941
+1528761748019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DGLgKQXLKZvM"
+1528761754935	Marionette	INFO	Listening on port 44307
+1528761754964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript warning: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 4368: unreachable code after return statement
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 72: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://www.mbc.net/resources/templating-kit/themes/mbc/3.4.9/js/mbc-gigya.js, line 362: TypeError: gigya is undefined
+JavaScript error: http://cdn.teads.tv/media/format/release/akamai-vid-validation/teads-format.min.js, line 2: TypeError: e.shift(...) is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 22584, Gecko_IOThread] WARNING: pipe error (95): Connection reset by peer: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

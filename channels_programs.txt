@@ -1,6 +1,6 @@
+mbc-maser*http://www.mbc.net/ar/mbc-maser.html
 mbc-drama*http://www.mbc.net/ar/mbc-drama.html
 mbc-max*http://www.mbc.net/ar/mbc-max.html
-mbc-maser*http://www.mbc.net/ar/mbc-maser.html
 mbc-4*http://www.mbc.net/ar/mbc4.html
 mbc-2*http://www.mbc.net/ar/mbc2.html
 mbc-bollywood*http://www.mbc.net/ar/mbc-bollywood.html

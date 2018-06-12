@@ -30,7 +30,9 @@ def file_handler(mode):
 def general(name,ch):
 
 	constract=""
+
 	if name.split('-')[0] == 'mbc':
+
 		browser.get(ch)
 		soup= bs(browser.page_source, "lxml")
 		page=soup.find_all("div",{"class":"teaser length-2halfhour"})
@@ -40,8 +42,55 @@ def general(name,ch):
 			prog_name=data.find("h2").text
 			time=data.find("ul",{"class":"time time-2"}).text.strip("\n")
 			image="http://www.mbc.net"+data.find("img")['src']
-			constract=constract+("     \"prog_name\":\""+prog_name+"\"[{\n          \"time\":\""+time+"\",\n          \"image\":\""+image+"\"\n     }],")
+			desc_link="http://www.mbc.net"+data.find("a")['href']
 
+			if desc_link.split("/")[5]=="articles":
+				print(desc_link)
+				
+				try:
+					browser.get(desc_link)
+				except Message:
+					browser.refresh()
+					pass
+				
+				if bs(browser.page_source, "lxml"):
+					print(1)
+					soup= bs(browser.page_source, "lxml")
+					desc= ""
+					for n in soup.find_all("p")[3:9]:
+						desc=desc+n.text
+					desc=desc.replace("\""," ")
+					#print(desc)
+				else:
+					print(0)
+					desc=" "
+				constract=constract+("     \"prog_name\":\""+prog_name+"\"[{\n          \"time\":\""+time+"\",\n          \"image\":\""+image+"\",\n          \"description\":\""+desc.strip("\n")+"\"\n     }],")
+
+			else:
+
+				desc_link="http://www.mbc.net"+data.find("a")['href'].split(".")[0]+"/about-and-stars.html"
+				print(desc_link)
+
+				try:
+					browser.get(desc_link)
+				except Message:
+					browser.refresh()
+					pass
+
+				soup= bs(browser.page_source, "lxml")
+				try:
+					soup.find("div",{"class":"arena"}).text
+					print(1)
+					desc= soup.find("div",{"class":"arena"}).text
+					desc=desc.replace("\""," ")
+					#print(desc)
+				except AttributeError:
+					print(0)
+					desc=" "
+					pass
+
+				constract=constract+("     \"prog_name\":\""+prog_name+"\"[{\n          \"time\":\""+time+"\",\n          \"image\":\""+image+"\",\n          \"description\":\""+desc.strip("\n")+"\"\n     }],")
+				
 		results.append("[{\n \""+name+"\":\n     [{\n"+constract[:-1]+"\n}]\n")
 
 
