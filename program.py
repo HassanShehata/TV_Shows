@@ -94,11 +94,44 @@ def general(name,ch):
 		results.append("[{\n \""+name+"\":\n     [{\n"+constract[:-1]+"\n}]\n")
 
 
+def osn(name,ch):
+
+	channel_detector=["0"]
+	constract=""
+	if name.split('-')[0] == 'osn':
+		browser.get(ch)
+		#actions= ActionsChains(browser)
+		for i in range(2):
+			test= browser.find_elements_by_class_name("tv-show-title-ch-1")
+			#test= soup.find_all("div",{"class":"tv-show-title-ch-1"})	
+			for n in test:
+				n.click()
+				time.sleep(2)
+				soup= bs(browser.page_source, "lxml")
+				channel= browser.find_element_by_xpath("/html/body/form/div[15]/div/div/div[2]/div[1]/div/img").get_attribute("src")
+				name= soup.find("div",{"tv-popup-h2"}).text
+				show_time= browser.find_element_by_xpath("/html/body/form/div[15]/div/div/div[2]/div[2]/div[2]/div[3]").text
+				duration= browser.find_element_by_xpath("/html/body/form/div[15]/div/div/div[2]/div[2]/div[2]/div[4]").text
+				image= browser.find_element_by_xpath("/html/body/form/div[15]/div/div/div[2]/div[2]/div[1]/img").get_attribute("src")
+				desc= browser.find_element_by_xpath("/html/body/form/div[15]/div/div/div[2]/div[3]/p").text
+				constract=constract+"[{\n          \"channel\":\""+channel+"\",\n          \"name\":\""+name+"\",\n          \"time\":\""+show_time+"\",\n          \"duration\":\""+duration+"\",\n          \"image\":\""+image+"\",\n          \"description\":\""+desc+"\"\n     }],"
+				print(constract)
+				close= browser.find_element_by_css_selector(".light > div:nth-child(1) > button:nth-child(1)")
+				close.click()
+				time.sleep(2)
+			browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+			time.sleep(20)
+
+	results.append(constract[:-1])
+
+
+
 def main():
 
 	file_handler("read")
 	for i in channels_pool:
-		general(i.split("*")[0],i.strip('\n').split("*")[1])
+		#general(i.split("*")[0],i.strip('\n').split("*")[1])
+		osn(i.split("*")[0],i.strip('\n').split("*")[1])
 	file_handler("write")
 	
 

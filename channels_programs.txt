@@ -1,3 +1,4 @@
+osn-guide*http://www.osn.com/en-eg/watch/tv-schedule
 mbc-maser*http://www.mbc.net/ar/mbc-maser.html
 mbc-drama*http://www.mbc.net/ar/mbc-drama.html
 mbc-max*http://www.mbc.net/ar/mbc-max.html
