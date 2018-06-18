@@ -102,8 +102,11 @@ def osn(name,ch):
 		browser.get(ch)
 		#actions= ActionsChains(browser)
 		for i in range(2):
+			browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+			time.sleep(20)
 			test= browser.find_elements_by_class_name("tv-show-title-ch-1")
 			#test= soup.find_all("div",{"class":"tv-show-title-ch-1"})	
+			browser.execute_script("window.scrollTo(document.body.scrollHeight, 0);")
 			for n in test:
 				n.click()
 				time.sleep(2)
@@ -119,8 +122,6 @@ def osn(name,ch):
 				close= browser.find_element_by_css_selector(".light > div:nth-child(1) > button:nth-child(1)")
 				close.click()
 				time.sleep(2)
-			browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-			time.sleep(20)
 
 	results.append(constract[:-1])
 

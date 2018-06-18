@@ -2361,3 +2361,55 @@ observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
 JavaScript warning: http://www.osn.com/CMSScripts/Custom/OSN/js/main-custom-en.js, line 88: unreachable code after return statement
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [Child 12782, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1529341214496	geckodriver	INFO	geckodriver 0.20.1
+1529341214546	geckodriver	INFO	Listening on 127.0.0.1:33959
+1529341215447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NEKMogx9bznN"
+1529341222083	Marionette	INFO	Listening on port 44049
+1529341222214	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.osn.com/CMSScripts/Custom/OSN/js/main-custom-en.js, line 88: unreachable code after return statement
+1529343684282	geckodriver	INFO	geckodriver 0.20.1
+1529343684303	geckodriver	INFO	Listening on 127.0.0.1:58395
+1529343684357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TWPras3OVfim"
+1529343689631	Marionette	INFO	Listening on port 39683
+1529343689700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.osn.com/CMSScripts/Custom/OSN/js/main-custom-en.js, line 1838: unreachable code after return statement
+1529343774704	geckodriver	INFO	geckodriver 0.20.1
+1529343774711	geckodriver	INFO	Listening on 127.0.0.1:48905
+1529343775714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jAOlSaGHe3yJ"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x540027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1529343779856	Marionette	INFO	Listening on port 32781
+1529343779935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.osn.com/CMSScripts/Custom/OSN/js/main-custom-en.js, line 1838: unreachable code after return statement
+1529343869569	geckodriver	INFO	geckodriver 0.20.1
+1529343869574	geckodriver	INFO	Listening on 127.0.0.1:36363
+1529343870584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jQnkYRd7yMn5"
+1529343874622	Marionette	INFO	Listening on port 33225
+1529343874701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.osn.com/CMSScripts/Custom/OSN/js/main-custom-en.js, line 1838: unreachable code after return statement
+1529344408820	geckodriver	INFO	geckodriver 0.20.1
+1529344408826	geckodriver	INFO	Listening on 127.0.0.1:35035
+1529344409829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.o50Gt5a2pNcV"
+1529344413765	Marionette	INFO	Listening on port 45051
+1529344413849	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.osn.com/CMSScripts/Custom/OSN/js/main-custom-en.js, line 1838: unreachable code after return statement
+1529344501379	geckodriver	INFO	geckodriver 0.20.1
+1529344501384	geckodriver	INFO	Listening on 127.0.0.1:32769
+1529344502394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PoxV57FJbDDn"
+1529344506113	Marionette	INFO	Listening on port 42191
+1529344506211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.osn.com/CMSScripts/Custom/OSN/js/main-custom-en.js, line 88: unreachable code after return statement
+1529344605861	geckodriver	INFO	geckodriver 0.20.1
+1529344605870	geckodriver	INFO	Listening on 127.0.0.1:55647
+1529344606872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EnovE4KFvRN7"
+1529344611075	Marionette	INFO	Listening on port 43823
+1529344611103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.osn.com/CMSScripts/Custom/OSN/js/main-custom-en.js, line 1838: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 24555, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-d34xn2/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
